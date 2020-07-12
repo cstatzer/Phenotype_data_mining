@@ -4,3 +4,7 @@
 .Ruserdata
 .DS_Store
 output/.DS_Store
+.pdf
+ECM_in_disease.R
+in_text_mentions.R
+output
