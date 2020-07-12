@@ -1,0 +1,1016 @@
+﻿division,category,Gene Symbol,Gene Name,geneid,Ensembl IDs,UniProt IDs,Human Orthologue,Mouse Orthologue,Dr Matrisome,combined_orthology
+Core matrisome,ECM Glycoproteins,abi3bpa,"ABI family, member 3 (NESH) binding protein a",ZDB-GENE-070912-325,ENSDARG00000062156,F1Q9H3:F1RA08:A0A0R4I9M4:F1QU89,ABI3BP,Abi3bp,Yes,ABI3BP
+Core matrisome,ECM Glycoproteins,abi3bpb,"ABI family, member 3 (NESH) binding protein b",ZDB-GENE-030131-6041,ENSDARG00000071095,Q7ZW12,ABI3BP,Abi3bp,Yes,ABI3BP
+Core matrisome,ECM Glycoproteins,adipoqa,"adiponectin, C1Q and collagen domain containing, a",ZDB-GENE-080423-2,ENSDARG00000062228,B2BX13:F1R6M1,ADIPOQ,Adipoq,Yes,ADIPOQ
+Core matrisome,ECM Glycoproteins,adipoqb,"adiponectin, C1Q and collagen domain containing, b",ZDB-GENE-060825-220,ENSDARG00000100086,Q0P415:B2BX14:A0A0R4IYN0,ADIPOQ,Adipoq,Yes,ADIPOQ
+Core matrisome,ECM Glycoproteins,aebp1,AE binding protein 1,ZDB-GENE-030131-2390,ENSDARG00000091726,E9QI37:E7F829,AEBP1,Aebp1,Yes,AEBP1
+Core matrisome,ECM Glycoproteins,agrn,agrin,ZDB-GENE-030131-1033,ENSDARG00000079388,A0A0R4IPG9:B3GQ72:B3GQ71:A0A0R4IJ40:F1R074,AGRN,Agrn,Yes,AGRN
+Core matrisome,ECM Glycoproteins,anos1a,anosmin 1a,ZDB-GENE-000201-9,ENSDARG00000012896,Q6P938:Q9IAR4:A0A0B5JS68:F1R469,KAL1,Slamf6,Yes,KAL1
+Core matrisome,ECM Glycoproteins,anos1b,anosmin 1b,ZDB-GENE-000201-13,ENSDARG00000004932,Q1MT36:Q9IAR3:F1R3Y9,KAL1,Slamf6,Yes,KAL1
+Core matrisome,ECM Glycoproteins,bglap,bone gamma-carboxyglutamate (gla) protein,ZDB-GENE-050113-4,ENSDARG00000058414,P83238:F1QK63:Q49UC0,BGLAP,Bglap2,Yes,BGLAP
+Core matrisome,ECM Glycoproteins,bglapl ,"bone gamma-carboxyglutamate (gla) protein, like",ZDB-GENE-060608-3,ENSDARG00000104467,A0A0G2L7A3,BGLAP,Bglap2,Yes,BGLAP
+Core matrisome,ECM Glycoproteins,bmper,BMP binding endothelial regulator,ZDB-GENE-030219-146,ENSDARG00000101980,A0A0R4IIF4:A0A0R4IW52:A0A0R4IGC8:A0A0B5JK69:Q5D734:A0A0R4IR45:A0A0R4IDS8:A6H8K2,BMPER,Bmper,Yes,BMPER
+Core matrisome,ECM Glycoproteins,cdcp2,CUB domain containing protein 2,ZDB-GENE-070705-485,ENSDARG00000075866,F1QAR0:F8W2N6,CDCP2,Cdcp2,Yes,CDCP2
+Core matrisome,ECM Glycoproteins,ch1073-291c23.1,ch1073-291c23.1,ZDB-GENE-050208-114,ENSDARG00000063631,F1Q4S4:F1Q7N1,VIT,Vit,Yes,VIT
+Core matrisome,ECM Glycoproteins,cilp,"cartilage intermediate layer protein, nucleotide pyrophosphohydrolase",ZDB-GENE-050208-76,ENSDARG00000053362,Q5BLC3:F1Q775,CILP,Cilp,Yes,CILP
+Core matrisome,ECM Glycoproteins,cilp2,cartilage intermediate layer protein 2,ZDB-GENE-050208-436,ENSDARG00000013687,F1Q5N7:A0A0R4IUE6:A0A0R4IEB4:F1REH4,CILP2,Cilp2,Yes,CILP2
+Core matrisome,ECM Glycoproteins,coch,"coagulation factor C homolog, cochlin (Limulus polyphemus)",ZDB-GENE-030616-403,ENSDARG00000024032,B3DFV8:Q8AW56,COCH,Coch,Yes,COCH
+Core matrisome,ECM Glycoproteins,colq,collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase,ZDB-GENE-110411-119,ENSDARG00000019692,F1Q7Y1,COLQ,Colq,Yes,COLQ
+Core matrisome,ECM Glycoproteins,comp,cartilage oligomeric matrix protein,ZDB-GENE-060606-1,ENSDARG00000098431,A0A0G2KDJ5,COMP,Comp,Yes,COMP
+Core matrisome,ECM Glycoproteins,creld1,cysteine-rich with EGF-like domains 1,ZDB-GENE-120111-4,ENSDARG00000099989,A0A0R4IS78,CRELD1,Creld1,Yes,CRELD1
+Core matrisome,ECM Glycoproteins,creld2,cysteine-rich with EGF-like domains 2,ZDB-GENE-040426-1626,ENSDARG00000029071,Q7SXF6:A0A0B5JS55,CRELD2,Creld2,Yes,CRELD2
+Core matrisome,ECM Glycoproteins,crim1,cysteine rich transmembrane BMP regulator 1 (chordin-like),ZDB-GENE-040312-2,ENSDARG00000029668,Q7T3Q2:B3DH05,CRIM1,Crim1,Yes,CRIM1
+Core matrisome,ECM Glycoproteins,crispld1a,cysteine-rich secretory protein LCCL domain containing 1a,ZDB-GENE-090612-1,ENSDARG00000077275,E9QBN8:F1QHW4,CRISPLD1,Crispld1,Yes,CRISPLD1
+Core matrisome,ECM Glycoproteins,crispld2,cysteine-rich secretory protein LCCL domain containing 2,ZDB-GENE-130131-1,ENSDARG00000088595,F1QW68,CRISPLD2,Crispld2,Yes,CRISPLD2
+Core matrisome,ECM Glycoproteins,ctgfa,connective tissue growth factor a,ZDB-GENE-030131-102,ENSDARG00000042934,Q3B7E1:Q6T8L8:Q567D8:Q5RI33,CTGF,Ctgf,Yes,CTGF
+Core matrisome,ECM Glycoproteins,ctgfb,connective tissue growth factor b,ZDB-GENE-070705-82,ENSDARG00000104292,A5PN60:A0A0R4IUX4:A6XA79,CTGF,Ctgf,Yes,CTGF
+Core matrisome,ECM Glycoproteins,cthrc1a,collagen triple helix repeat containing 1a,ZDB-GENE-040808-22,ENSDARG00000087198,F1Q7G0:Q6AXL0,CTHRC1,Cthrc1,Yes,CTHRC1
+Core matrisome,ECM Glycoproteins,cthrc1b,collagen triple helix repeat containing 1b,ZDB-GENE-050420-46,ENSDARG00000001971,F6P0H3,CTHRC1,Cthrc1,Yes,CTHRC1
+Core matrisome,ECM Glycoproteins,cyr61,"cysteine-rich, angiogenic inducer, 61",ZDB-GENE-040426-3,ENSDARG00000023062,Q6NWA0:Q6PFL2:F1QL10,CYR61,Cyr61,Yes,CYR61
+Core matrisome,ECM Glycoproteins,cyr61l1,"cysteine-rich, angiogenic inducer, 61 kile 1",ZDB-GENE-050417-136,ENSDARG00000035422 ,Q567G9:D0E2V8:A2CF35,CYR61,Cyr61,Yes,CYR61
+Core matrisome,ECM Glycoproteins,cyr61l2,"cysteine-rich, angiogenic inducer, 61 like 2",ZDB-GENE-060404-5,ENSDARG00000099985,D0E2W3:A0A0R4IXA2:A2RRU7:Q5U3J9,CYR61,Cyr61,Yes,CYR61
+Core matrisome,ECM Glycoproteins,ddx26b,DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 26B,ZDB-GENE-040426-1150,ENSDARG00000017931,F1QWA1:Q7SYD9:E9QFC2,DDX26B,Ddx26b,Yes,DDX26B
+Core matrisome,ECM Glycoproteins,dpt,dermatopontin,ZDB-GENE-060312-9,ENSDARG00000056178,Q5PNP9:Q29RF0,DPT,Dpt,Yes,DPT
+Core matrisome,ECM Glycoproteins,ecm1a,extracellular matrix protein 1a,ZDB-GENE-121204-1,ENSDARG00000100535,A0A0R4IMZ6,ECM1,Ecm1,Yes,ECM1
+Core matrisome,ECM Glycoproteins,ecm1b,extracellular matrix protein 1b,ZDB-GENE-121204-2,ENSDARG00000105239,A0A0R4IIK5,ECM1,Ecm1,Yes,ECM1
+Core matrisome,ECM Glycoproteins,ecm2,"extracellular matrix protein 2, female organ and adipocyte specific",ZDB-GENE-050208-651,ENSDARG00000071549,F1R2S9,ECM2,Ecm2,Yes,ECM2
+Core matrisome,ECM Glycoproteins,edil3a,EGF-like repeats and discoidin I-like domains 3a,ZDB-GENE-060503-366,ENSDARG00000093413,A0A0R4IMA9:F1QBK2,EDIL3,Edil3,Yes,EDIL3
+Core matrisome,ECM Glycoproteins,edil3b,EGF-like repeats and discoidin I-like domains 3b,ZDB-GENE-090312-42,ENSDARG00000060877,F1Q6J1:F1QJV0,EDIL3,Edil3,Yes,EDIL3
+Core matrisome,ECM Glycoproteins,efemp1,EGF containing fibulin-like extracellular matrix protein 1,ZDB-GENE-130403-1,ENSDARG00000059121,E7FDJ3:A0A0R4IL08,EFEMP1,Efemp1,Yes,EFEMP1
+Core matrisome,ECM Glycoproteins,efemp2a,EGF containing fibulin-like extracellular matrix protein 2a,ZDB-GENE-041212-8,ENSDARG00000094324,A2CEN1:Q5PR37,EFEMP2,Efemp2,Yes,EFEMP2
+Core matrisome,ECM Glycoproteins,efemp2b,EGF containing fibulin-like extracellular matrix protein 2b,ZDB-GENE-030219-125,ENSDARG00000020811,Q5WQV6:E9QG60,EFEMP2,Efemp2,Yes,EFEMP2
+Core matrisome,ECM Glycoproteins,egflam,"EGF-like, fibronectin type III and laminin G domains",ZDB-GENE-070705-525,ENSDARG00000099008,A0A0G2KJI7,EGFLAM,Egflam,Yes,EGFLAM
+Core matrisome,ECM Glycoproteins,elna,elastin a,ZDB-GENE-061212-1,ENSDARG00000099634,A0A0R4IWM2:Q0Q5Z1,ELN,Eln,Yes,ELN
+Core matrisome,ECM Glycoproteins,elnb,elastin b,ZDB-GENE-061212-2,ENSDARG00000069017,A0A0R4IPZ1:F8W4J7:F8W3Q9:Q0Q5Z0,ELN,Eln,Yes,ELN
+Core matrisome,ECM Glycoproteins,emid1,EMI domain containing 1,ZDB-GENE-070705-40,ENSDARG00000076119,F1QR06,EMID1,Emid1,Yes,EMID1
+Core matrisome,ECM Glycoproteins,emilin1a,elastin microfibril interfacer 1a,ZDB-GENE-041001-191,ENSDARG00000024537,A9JSV2:Q5TZ63:F1QC17,EMILIN1,Emilin1,Yes,EMILIN1
+Core matrisome,ECM Glycoproteins,emilin1b,elastin microfibril interfacer 1b,ZDB-GENE-060818-36,ENSDARG00000026166,Q0VA81:F8W4C7:F1Q9G3,EMILIN1,Emilin1,Yes,EMILIN1
+Core matrisome,ECM Glycoproteins,emilin2a,elastin microfibril interfacer 2a,ZDB-GENE-060503-247,ENSDARG00000061196,F1QI05:F1R2C2:F1R1C5,EMILIN2,Emilin2,Yes,EMILIN2
+Core matrisome,ECM Glycoproteins,emilin2b,elastin microfibril interfacer 2b,ZDB-GENE-080416-1,ENSDARG00000102178,A0A0R4IW71:A0A0R4ISP2,EMILIN2,Emilin2,Yes,EMILIN2
+Core matrisome,ECM Glycoproteins,emilin3a,elastin microfibril interfacer 3a,ZDB-GENE-080612-2,ENSDARG00000078052,F1QKH5:F1R3W5:F1QD66,EMILIN3,Emilin3,Yes,EMILIN3
+Core matrisome,ECM Glycoproteins,emilin3b,elastin microfibril interfacer 3b,ZDB-GENE-080612-3,ENSDARG00000076299 ,E7F7F9,EMILIN3,Emilin3,Yes,EMILIN3
+Core matrisome,ECM Glycoproteins,eys,eyes shut homolog (Drosophila),ZDB-GENE-130530-959,ENSDARG00000089257, -,EYS,-,Yes,EYS
+Core matrisome,ECM Glycoproteins,fbln1,fibulin 1,ZDB-GENE-990415-73,ENSDARG00000103311,O42182:B3DH18,FBLN1,Fbln1,Yes,FBLN1
+Core matrisome,ECM Glycoproteins,fbln2,fibulin 2,ZDB-GENE-060711-1,ENSDARG00000015156,F1RCR3:Q5BLE3,FBLN2,Fbln2,Yes,FBLN2
+Core matrisome,ECM Glycoproteins,fbln5,fibulin 5,ZDB-GENE-041010-54,ENSDARG00000039273,B8A4X3:Q5XJ74,FBLN5,Fbln5,Yes,FBLN5
+Core matrisome,ECM Glycoproteins,fbln7,fibulin 7, -,ENSDARG00000089519,E7FFU9,FBLN7,Fbln7,Yes,FBLN7
+Core matrisome,ECM Glycoproteins,fbn1,fibrillin 1,ZDB-GENE-091204-466,ENSDARG00000105333,A0A140LGB0,FBN1,Fbn1,Yes,FBN1
+Core matrisome,ECM Glycoproteins,fbn2a,fibrillin 2a,ZDB-GENE-090112-4,ENSDARG00000051896,F8W453:B6D7H3:B6D7H2:F1QNG9:A0A0R4IJD5,FBN2,Fbn2,Yes,FBN2
+Core matrisome,ECM Glycoproteins,fbn2b,fibrillin 2b,ZDB-GENE-090112-3,ENSDARG00000098237,A0A0G2KQ62:E7FG71:B6CS38,FBN2,Fbn2,Yes,FBN2
+Core matrisome,ECM Glycoproteins,fga,fibrinogen alpha chain,ZDB-GENE-031010-21,ENSDARG00000020741,B8A5L6:Q6DHS2:E9QCD1,FGA,Fga,Yes,FGA
+Core matrisome,ECM Glycoproteins,fgb,fibrinogen beta chain,ZDB-GENE-030131-9261,ENSDARG00000008969,Q6NYE1,FGB,Fgb,Yes,FGB
+Core matrisome,ECM Glycoproteins,fgg,fibrinogen gamma chain,ZDB-GENE-040426-1998,ENSDARG00000037281,Q7ZVG7:F1RCB0:A0A0R4IJF0:A8E5P0,FGG,Fgg,Yes,FGG
+Core matrisome,ECM Glycoproteins,fgl1,fibrinogen-like 1,ZDB-GENE-130815-1,ENSDARG00000105380 ,A0A140LG86,FGL1,Fgl1,Yes,FGL1
+Core matrisome,ECM Glycoproteins,fgl2a,fibrinogen-like 2a,ZDB-GENE-030131-9506,ENSDARG00000019861,Q5TYU3,FGL2,Fgl2,Yes,FGL2
+Core matrisome,ECM Glycoproteins,fgl2b,fibrinogen-like 2b,ZDB-GENE-120709-53,ENSDARG00000019686,A0A0G2L3W7:K7DY96:A0A0G2KRL5:F1R1H5,FGL2,Fgl2,Yes,FGL2
+Core matrisome,ECM Glycoproteins,fn1a,fibronectin 1a,ZDB-GENE-000426-1,ENSDARG00000019815,Q98TS8:Q98TS9:B0S602:F1RBP8:O93406:O93405:B3DGZ1,FN1,Fn1,Yes,FN1
+Core matrisome,ECM Glycoproteins,fn1b,fibronectin 1b,ZDB-GENE-030131-6545,ENSDARG00000006526,Q58XP5:F1RB09:A3KNU0:Q6JAN2:Q7T2W7:A2CEW3:Q7T1S2:A0A0R4IDI3:A0A0R4IXY1,FN1,Fn1,Yes,FN1
+Core matrisome,ECM Glycoproteins,fndc1,fibronectin type III domain containing 1,ZDB-GENE-041210-332,ENSDARG00000002847,F1R5Z2:A0A0R4IV59:Q5SPC6,FNDC1,Fndc1,Yes,FNDC1
+Core matrisome,ECM Glycoproteins,fndc7a,fibronectin type III domain containing 7a,ZDB-GENE-070216-2,ENSDARG00000077096,F1R5M9:F1R823,FNDC7,Fndc7,Yes,FNDC7
+Core matrisome,ECM Glycoproteins,fndc7b,fibronectin type III domain containing 7b,ZDB-GENE-100922-114,ENSDARG00000075676,A0A0J9YIY3:E7FFL0:F1QUH9,FNDC7,Fndc7,Yes,FNDC7
+Core matrisome,ECM Glycoproteins,fras1,Fraser extracellular matrix complex subunit 1,ZDB-GENE-060526-68,ENSDARG00000054619,A0A0R4IQJ3:B6IDE3:D7PS88:A2BHG4:F1Q633,FRAS1,Fras1,Yes,FRAS1
+Core matrisome,ECM Glycoproteins,gas6,growth arrest-specific 6,ZDB-GENE-030131-7773,ENSDARG00000007804,Q7T3H4:A0A0R4IX32:F1QGG9,GAS6,Gas6,Yes,GAS6
+Core matrisome,ECM Glycoproteins,gldn,gliomedin,ZDB-GENE-050119-4,ENSDARG00000061576,F2Z4S9:F8W264,GLDN,Gldn,Yes,GLDN
+Core matrisome,ECM Glycoproteins,hmcn1,hemicentin 1,ZDB-GENE-041014-322,ENSDARG00000016936,F1QVQ2:F1R7R3:D7PS96:U3JAR0,HMCN1,Hmcn1,Yes,HMCN1
+Core matrisome,ECM Glycoproteins,hmcn2,hemicentin 2,ZDB-GENE-030131-9765,ENSDARG00000086060,F1R747:F1Q9T8:E7F3V2:F1R2Y2:M9MMB9:F1QYL6:D7PS98:D7PS97:F1R747:F1Q9T8:E7F3V2:F1R2Y2:M9MMB9:F1QYL6:D7PS98:D7PS97,HMCN2,Hmcn2,Yes,HMCN2
+Core matrisome,ECM Glycoproteins,igfals,"insulin-like growth factor binding protein, acid labile subunit",ZDB-GENE-061009-25,ENSDARG00000037836,E9QJJ1:F1R1F2,IGFALS,Igfals,Yes,IGFALS
+Core matrisome,ECM Glycoproteins,igfbp1a,insulin-like growth factor binding protein 1a,ZDB-GENE-021231-1,ENSDARG00000099351,Q8JHX6:Q90YJ7:A0A0B5JK49:Q5KSZ2,IGFBP1,Igfbp1,Yes,IGFBP1
+Core matrisome,ECM Glycoproteins,igfbp1b,insulin-like growth factor binding protein 1b,ZDB-GENE-081210-3,ENSDARG00000038666,A4IGH0:A0A0R4IY40:A4K8J2,IGFBP1,Igfbp1,Yes,IGFBP1
+Core matrisome,ECM Glycoproteins,igfbp2a,insulin-like growth factor binding protein 2a,ZDB-GENE-000125-12,ENSDARG00000052470,Q9PTH3,IGFBP2,Igfbp2,Yes,IGFBP2
+Core matrisome,ECM Glycoproteins,igfbp2b,insulin-like growth factor binding protein 2b,ZDB-GENE-090107-3,ENSDARG00000031422,M9MM96:B3F211,IGFBP2,Igfbp2,Yes,IGFBP2
+Core matrisome,ECM Glycoproteins,igfbp3,insulin-like growth factor binding protein 3,ZDB-GENE-040412-1,ENSDARG00000099144,Q90YJ6:Q66I28:A0A0R4IPP4,IGFBP3,Igfbp3,Yes,IGFBP3
+Core matrisome,ECM Glycoproteins,igfbp5a,insulin-like growth factor binding protein 5a,ZDB-GENE-070620-8,ENSDARG00000039264,A5PLA3,IGFBP5,Igfbp5,Yes,IGFBP5
+Core matrisome,ECM Glycoproteins,igfbp5b,insulin-like growth factor binding protein 5b,ZDB-GENE-040319-2,ENSDARG00000025348,Q800E1:B0S525,IGFBP5,Igfbp5,Yes,IGFBP5
+Core matrisome,ECM Glycoproteins,igfbp6a,insulin-like growth factor binding protein 6a,ZDB-GENE-090521-1,ENSDARG00000070941,C4MCP0:F6NPV6,IGFBP6,Igfbp6,Yes,IGFBP6
+Core matrisome,ECM Glycoproteins,igfbp6b,insulin-like growth factor binding protein 6b,ZDB-GENE-090521-2,ENSDARG00000090833,F6N9E8:C4MCP1,IGFBP6,Igfbp6,Yes,IGFBP6
+Core matrisome,ECM Glycoproteins,igfbp7,insulin-like growth factor binding protein 7,ZDB-GENE-040426-2423,ENSDARG00000104138,A0A0R4IZL1:Q6NW92:A0A0R4IU08,IGFBP7,Igfbp7,Yes,IGFBP7
+Core matrisome,ECM Glycoproteins,igsf10,"immunoglobulin superfamily, member 10",ZDB-GENE-130530-827,ENSDARG00000077497,E7F5U2,IGSF10,Igsf10,Yes,IGSF10
+Core matrisome,ECM Glycoproteins,lama1,"laminin, alpha 1",ZDB-GENE-060118-1,ENSDARG00000056043,A0A0R4ITA0:A0A0R4II20:Q2TJF6:A0A0R4IWB7:Q45H72:A0A0R4ITA0:A0A0R4II20:Q2TJF6:A0A0R4IWB7:Q45H72,LAMA1,Lama1,Yes,LAMA1
+Core matrisome,ECM Glycoproteins,lama2,"laminin, alpha 2",ZDB-GENE-060119-1,ENSDARG00000099390,A4ZV96:G8IHT9:G8IHU0:A0A0G2KI51,LAMA2,Lama2,Yes,LAMA2
+Core matrisome,ECM Glycoproteins,lama3,"laminin, alpha 3",ZDB-GENE-050208-475,ENSDARG00000071462,Q1LXE7,LAMA3,Lama3,Yes,LAMA3
+Core matrisome,ECM Glycoproteins,lama4,"laminin, alpha 4",ZDB-GENE-040724-213,ENSDARG00000020785,Q5SNU9:F1QYU0:B3DK46:Q2TJF5:Q5SNV0,LAMA4,Lama4,Yes,LAMA4
+Core matrisome,ECM Glycoproteins,lama5,"laminin, alpha 5",ZDB-GENE-030131-9823,ENSDARG00000058543,Q2Q1W5:F1QKW3:Q5BLH6:D7PSA0,LAMA5,Lama5,Yes,LAMA5
+Core matrisome,ECM Glycoproteins,lamb1a,"laminin, beta 1a",ZDB-GENE-021226-1,ENSDARG00000101209,Q8JHV7:Q5BJ05:A0A0R4IB69:A0A0R4IDN1:A0A0R4IY30,LAMB1,Lamb1,Yes,LAMB1
+Core matrisome,ECM Glycoproteins,lamb1b,"laminin, beta 1b",ZDB-GENE-041210-197,ENSDARG00000045524,Q1LYI7:F1QEB6:F1REL9,LAMB1,Lamb1,Yes,LAMB1
+Core matrisome,ECM Glycoproteins,lamb2,"laminin, beta 2 (laminin S)",ZDB-GENE-081030-4,ENSDARG00000002084,B7ZDA6:C8YMC6,LAMB2,Lamb2,Yes,LAMB2
+Core matrisome,ECM Glycoproteins,lamb2l,"laminin, beta 2-like",ZDB-GENE-030131-4205,ENSDARG00000033950,Q58EP9:F1QKX8:F1QD37:C8YMC7,LAMB2,Lamb2,Yes,LAMB2
+Core matrisome,ECM Glycoproteins,lamb4,"laminin, beta 4",ZDB-GENE-021226-2,ENSDARG00000039133,F1R2S4:Q8JHV6:X1WE95:F1QBB3,LAMB4,-,Yes,LAMB4
+Core matrisome,ECM Glycoproteins,lamc1,"laminin, gamma 1",ZDB-GENE-021226-3,ENSDARG00000036279,Q1LVF0:Q6NUU4,LAMC1,Lamc1,Yes,LAMC1
+Core matrisome,ECM Glycoproteins,lamc2,"laminin, gamma 2",ZDB-GENE-110222-3,ENSDARG00000068288,F1QIJ3:A0A0R4IL05:A0A0R4IK75:A0A0R4IVT4,LAMC2,Lamc2,Yes,LAMC2
+Core matrisome,ECM Glycoproteins,lamc3,"laminin, gamma 3",ZDB-GENE-060531-121,ENSDARG00000093572,F1QPJ1,LAMC3,Lamc3,Yes,LAMC3
+Core matrisome,ECM Glycoproteins,lgi1a,"leucine-rich, glioma inactivated 1a",ZDB-GENE-030131-1731,ENSDARG00000020493,Q6P0D2:Q2HPG2:B0CM14,LGI1,Lgi1,Yes,LGI1
+Core matrisome,ECM Glycoproteins,lgi1b,"leucine-rich, glioma inactivated 1b",ZDB-GENE-060217-1,ENSDARG00000058421,Q2HPF9:F1R937:B3DJS9:F1R662,LGI1,Lgi1,Yes,LGI1
+Core matrisome,ECM Glycoproteins,lgi2a,"leucine-rich repeat LGI family, member 2a",ZDB-GENE-060217-2,ENSDARG00000089957,F1QP43:Q2HPG1,LGI2,Lgi2,Yes,LGI2
+Core matrisome,ECM Glycoproteins,lgi2b,"leucine-rich repeat LGI family, member 2b",ZDB-GENE-060217-3,ENSDARG00000069701,Q2HPF8:F1Q950,LGI2,Lgi2,Yes,LGI2
+Core matrisome,ECM Glycoproteins,lgi3,"leucine-rich repeat LGI family, member 3",ZDB-GENE-060217-4,ENSDARG00000041358,Q2HPG0,LGI3,Lgi3,Yes,LGI3
+Core matrisome,ECM Glycoproteins,LOC103910377,putative DMBT1-like protein, -, -, -,DMBT1,Dmbt1,Yes,DMBT1
+Core matrisome,ECM Glycoproteins,LRG1 (1 to many),leucine-rich alpha-2-glycoprotein 1, -,ENSDARG00000098396,A0A0G2L8H7:A0A0G2L5W6,LRG1,Lrg1,Yes,LRG1
+Core matrisome,ECM Glycoproteins,ltbp1,latent transforming growth factor beta binding protein 1,ZDB-GENE-091202-8,ENSDARG00000056922,X1WBQ9:F1QQ56:X1WCC0,LTBP1,Ltbp1,Yes,LTBP1
+Core matrisome,ECM Glycoproteins,ltbp3,latent transforming growth factor beta binding protein 3,ZDB-GENE-060526-130,ENSDARG00000035682,F1QFX6,LTBP3,Ltbp3,Yes,LTBP3
+Core matrisome,ECM Glycoproteins,ltbp4,latent transforming growth factor beta binding protein 4, -,ENSDARG00000099137,A0A0G2KR67,LTBP4,Ltbp4,Yes,LTBP4
+Core matrisome,ECM Glycoproteins,matn1,matrilin 1,ZDB-GENE-050307-3,ENSDARG00000030215,Q5NJK2:A5WWJ4:Q7ZVP3:A5WWJ5:F6P6F2:Q5NJL4:X1WH98,MATN1,Matn1,Yes,MATN1
+Core matrisome,ECM Glycoproteins,matn3a,matrilin 3a,ZDB-GENE-040822-21,ENSDARG00000069245,Q5NJK0:Q5NJL3:Q5NJK1:F1QH94:Q68EK6:U3JAH6:F1QH95,MATN3,Matn3,Yes,MATN3
+Core matrisome,ECM Glycoproteins,matn3b,matrilin 3b,ZDB-GENE-050221-9,ENSDARG00000069265,Q3B7P3:Q5NIW0:E9QF04:Q5NJJ6:B7ZD91:Q5NJJ7:Q5NJJ8,MATN3,Matn3,Yes,MATN3
+Core matrisome,ECM Glycoproteins,matn4,matrilin 4,ZDB-GENE-050208-64,ENSDARG00000015947,Q5NJJ4:B3DKJ1:A0A0B5JF83:Q5NJJ1:Q5NJJ0:Q6PYX2:Q5NJJ3:Q5NJJ5:Q5NJJ2:Q5CZQ6,MATN4,Matn4,Yes,MATN4
+Core matrisome,ECM Glycoproteins,mfap1,microfibrillar-associated protein 1,ZDB-GENE-040426-1075,ENSDARG00000018241,Q7ZTX7:F1R9I6,MFAP1,Mfap1a,Yes,MFAP1
+Core matrisome,ECM Glycoproteins,mfap2,microfibrillar-associated protein 2,ZDB-GENE-030131-6710,ENSDARG00000059367,Q2VW43:B3DKC3:F1QSF1:Q05AK0,MFAP2,Mfap2,Yes,MFAP2
+Core matrisome,ECM Glycoproteins,mfap4,microfibrillar-associated protein 4,ZDB-GENE-040426-2246,ENSDARG00000090783,Q6NYE9,MFAP4,Mfap4,Yes,MFAP4
+Core matrisome,ECM Glycoproteins,mfap5,microfibrillar associated protein 5,ZDB-GENE-100922-279,ENSDARG00000090560,E9QCC4,MFAP5,Mfap5,Yes,MFAP5
+Core matrisome,ECM Glycoproteins,mfge8a,milk fat globule-EGF factor 8 protein a,ZDB-GENE-050327-9,ENSDARG00000015349,Q1MTB1:Q58EG1:A4QP32:Q1MTB0,MFGE8,Mfge8,Yes,MFGE8
+Core matrisome,ECM Glycoproteins,mfge8b,milk fat globule-EGF factor 8 protein b,ZDB-GENE-070209-137,ENSDARG00000045803,A2RRT1,MFGE8,Mfge8,Yes,MFGE8
+Core matrisome,ECM Glycoproteins,mgp,matrix Gla protein,ZDB-GENE-060928-1,ENSDARG00000086189,F8W542:A0A0R4IUV1:Q6YND0,MGP,Mgp,Yes,MGP
+Core matrisome,ECM Glycoproteins,mmrn2a,multimerin 2a,ZDB-GENE-080424-3,ENSDARG00000076135,F1R6V5,MMRN2,Mmrn2,Yes,MMRN2
+Core matrisome,ECM Glycoproteins,mmrn2b,multimerin 2b,ZDB-GENE-080415-2,ENSDARG00000073711,E7FG77,MMRN2,Mmrn2,Yes,MMRN2
+Core matrisome,ECM Glycoproteins,mxra5a,matrix-remodelling associated 5a,ZDB-GENE-090312-22,ENSDARG00000074815,F1QEM6:F1QPU8:F1R062,MXRA5,-,Yes,MXRA5
+Core matrisome,ECM Glycoproteins,mxra5b,matrix-remodelling associated 5b,ZDB-GENE-081104-119,ENSDARG00000076309,F1QHX4,MXRA5,-,Yes,MXRA5
+Core matrisome,ECM Glycoproteins,ndnf,neuron-derived neurotrophic factor,ZDB-GENE-030131-207,ENSDARG00000062936,F1QPX0,NDNF,Ndnf,Yes,NDNF
+Core matrisome,ECM Glycoproteins,ndnfl,"neuron-derived neurotrophic factor , like",ZDB-GENE-131127-464,ENSDARG00000076462,E7F019,NDNF,Ndnf,Yes,NDNF
+Core matrisome,ECM Glycoproteins,nell2a,neural EGFL like 2a,ZDB-GENE-030131-7972,ENSDARG00000090690,A0A0H2UKK0:A1A5Y0:E7EZN2,NELL2,Nell2,Yes,NELL2
+Core matrisome,ECM Glycoproteins,nell2b,neural EGFL like 2b,ZDB-GENE-030131-8026,ENSDARG00000062797,F1QL83:F1QV50,NELL2,Nell2,Yes,NELL2
+Core matrisome,ECM Glycoproteins,nid1a,nidogen 1a,ZDB-GENE-050302-58,ENSDARG00000068710,F1R998:F1RAG3,NID1,Nid1,Yes,NID1
+Core matrisome,ECM Glycoproteins,nid1b,nidogen 1b,ZDB-GENE-070802-3,ENSDARG00000060675,A0A0G2L836,NID1,Nid1,Yes,NID1
+Core matrisome,ECM Glycoproteins,nid2a,nidogen 2a (osteonidogen),ZDB-GENE-030827-2,ENSDARG00000075707,E7F6D3:X1WE42:X1WFV5:X1WC52:X1WGQ8:X1WGD8:X1WBC5:X1WDU8,NID2,Nid2,Yes,NID2
+Core matrisome,ECM Glycoproteins,nid2b,nidogen 2b (osteonidogen),ZDB-GENE-040724-143,ENSDARG00000009471,Q5RI93:F1Q9A6:Q1LUH0:R4GER5:Q1LUG9,NID2,Nid2,Yes,NID2
+Core matrisome,ECM Glycoproteins,npnt,nephronectin,ZDB-GENE-090312-201,ENSDARG00000018721,A0A0R4IGU5:B8A5G4:H2DL87:B8A5G5:H2DL88,NPNT,Npnt,Yes,NPNT
+Core matrisome,ECM Glycoproteins,ntn1a,netrin 1a,ZDB-GENE-990415-169,ENSDARG00000105112,A0A0R4IN40:O13128:O42140:A0A0B5JPZ7:Q29RD2,NTN1,Ntn1,Yes,NTN1
+Core matrisome,ECM Glycoproteins,ntn1b,netrin 1b,ZDB-GENE-990415-168,ENSDARG00000022531,O42203:B0CM04:B3DJ84:A0A0B5JK74:F1QUK5,NTN1,Ntn1,Yes,NTN1
+Core matrisome,ECM Glycoproteins,ntn4,netrin 4,ZDB-GENE-050310-1,ENSDARG00000102066,A0A0R4IRG7:A0A0B5JSB7:A0A0R4IFE9:Q32SK8:A0A0R4IHS1:B3DJR9,NTN4,Ntn4,Yes,NTN4
+Core matrisome,ECM Glycoproteins,ntn5,netrin 5,ZDB-GENE-130530-593,ENSDARG00000036422,E7F9C0,NTN5,Ntn5,Yes,NTN5
+Core matrisome,ECM Glycoproteins,ntng1a,netrin g1a,ZDB-GENE-091118-13,ENSDARG00000014973,F1QQK8:F1R4Y3,NTNG1,Ntng1,Yes,NTNG1
+Core matrisome,ECM Glycoproteins,ntng1b,netrin g1b,ZDB-GENE-070912-250, -, -,NTNG1,Ntng1,Yes,NTNG1
+Core matrisome,ECM Glycoproteins,ntng2a,netrin g2a,ZDB-GENE-081105-186,ENSDARG00000077367,F1R638:F1QB17:B0UX66,NTNG2,Ntng2,Yes,NTNG2
+Core matrisome,ECM Glycoproteins,ntng2b,netrin g2b,ZDB-GENE-110502-1,ENSDARG00000087100,I3IT80,NTNG2,Ntng2,Yes,NTNG2
+Core matrisome,ECM Glycoproteins,oit3,oncoprotein induced transcript 3,ZDB-GENE-130530-907,ENSDARG00000087227,A0A0R4IWX7:E7F465,OIT3,Oit3,Yes,OIT3
+Core matrisome,ECM Glycoproteins,otog,otogelin,ZDB-GENE-120228-1,ENSDARG00000068460,F1Q7R5,OTOG,Otog,Yes,OTOG
+Core matrisome,ECM Glycoproteins,otol1a,otolin 1a,ZDB-GENE-050707-1,ENSDARG00000001771,A5PN28,OTOL1,Otol1,Yes,OTOL1
+Core matrisome,ECM Glycoproteins,otol1b,otolin 1b,ZDB-GENE-080416-3,ENSDARG00000058960,E7FAJ7,OTOL1,Otol1,Yes,OTOL1
+Core matrisome,ECM Glycoproteins,paplna,"papilin a, proteoglycan-like sulfated glycoprotein",ZDB-GENE-070815-4,ENSDARG00000027867,X1WDH5:E7F419:X1WHI6,PAPLN,Papln,Yes,PAPLN
+Core matrisome,ECM Glycoproteins,paplnb,"papilin b, proteoglycan-like sulfated ",ZDB-GENE-030131-6023,ENSDARG00000042186,Q5SP98:F1QRA8:Q503V4,PAPLN,Papln,Yes,PAPLN
+Core matrisome,ECM Glycoproteins,pcolce2a,procollagen C-endopeptidase enhancer 2a,ZDB-GENE-070705-25,ENSDARG00000008450,X1WD58:F1RAB9,PCOLCE2,Pcolce2,Yes,PCOLCE2
+Core matrisome,ECM Glycoproteins,pcolce2b,procollagen C-endopeptidase enhancer 2b,ZDB-GENE-040426-1177,ENSDARG00000055575,F1R774:Q7SY25,PCOLCE2,Pcolce2,Yes,PCOLCE2
+Core matrisome,ECM Glycoproteins,pcolcea,procollagen C-endopeptidase enhancer a,ZDB-GENE-041014-370,ENSDARG00000056913,Q7SZZ3:F1QUX0:Q1ECX8:Q501Y5,PCOLCE,Pcolce,Yes,PCOLCE
+Core matrisome,ECM Glycoproteins,pcolceb,procollagen C-endopeptidase enhancer b,ZDB-GENE-080722-44,ENSDARG00000052057,B3DJG2,PCOLCE,Pcolce,Yes,PCOLCE
+Core matrisome,ECM Glycoproteins,postna,"periostin, osteoblast specific factor a",ZDB-GENE-091113-23,ENSDARG00000043806,E9QIF5:E7F5I3:F1QM50,POSTN,Postn,Yes,POSTN
+Core matrisome,ECM Glycoproteins,postnb,"periostin, osteoblast specific factor b",ZDB-GENE-030131-9120,ENSDARG00000104267,A0A0R4INY2:A0A0R4IRR6:A0A0R4IE42:A0JMK0:A0A0R4IPF4:A0A0J9YJH5:A0A0R4IS83:Q75U66,POSTN,Postn,Yes,POSTN
+Core matrisome,ECM Glycoproteins,pxdn,peroxidasin,ZDB-GENE-140415-2,ENSDARG00000098733,A0A0G2KHM6,PXDN,Pxdn,Yes,PXDN
+Core matrisome,ECM Glycoproteins,reln,reelin,ZDB-GENE-020822-1,ENSDARG00000098969,G1BJ50:Q8AXK7,RELN,Reln,Yes,RELN
+Core matrisome,ECM Glycoproteins,relnl,"reelin, like",ZDB-GENE-040427-1, -,Q8AYT0,RELN,Reln,Yes,RELN
+Core matrisome,ECM Glycoproteins,rspo1,R-spondin 1,ZDB-GENE-040718-44,ENSDARG00000104340,A8KBP5:Q6DHR0:M5AP50,RSPO1,Rspo1,Yes,RSPO1
+Core matrisome,ECM Glycoproteins,rspo2,R-spondin 2,ZDB-GENE-060503-667,ENSDARG00000079570,F1QG95,RSPO2,Rspo2,Yes,RSPO2
+Core matrisome,ECM Glycoproteins,rspo3,R-spondin 3,ZDB-GENE-030131-9814,ENSDARG00000070081,M5AN53:Q5R328:F1R6D4,RSPO3,Rspo3,Yes,RSPO3
+Core matrisome,ECM Glycoproteins,rspo4,R-spondin 4,ZDB-GENE-110103-2,ENSDARG00000038593,F8W4P8:M5AN99,RSPO4,Rspo4,Yes,RSPO4
+Core matrisome,ECM Glycoproteins,sbspon,somatomedin B and thrombospondin type 1 domain containing, -,ENSDARG00000104507,A0A0G2KRV3,SBSPON,-,Yes,SBSPON
+Core matrisome,ECM Glycoproteins,si:dkey-266m15.6,si:dkey-266m15.6,ZDB-GENE-070705-443,ENSDARG00000078508,F1R489:F1Q752:A5WVI8:F1R5R6,KCP,Kcp,Yes,KCP
+Core matrisome,ECM Glycoproteins,slit1a,slit homolog 1a (Drosophila),ZDB-GENE-030722-3,ENSDARG00000044954,B3DJM7:B8A498:Q3S2J2,SLIT1,Slit1,Yes,SLIT1
+Core matrisome,ECM Glycoproteins,slit1b,slit homolog 1b (Drosophila),ZDB-GENE-030722-4,ENSDARG00000099446,A0A0R4IU60:B0CM06:B3DJQ5:A0A0R4IAZ7:A0A0R4IFC7:Q3Y6S4,SLIT1,Slit1,Yes,SLIT1
+Core matrisome,ECM Glycoproteins,slit2,slit homolog 2 (Drosophila),ZDB-GENE-010306-3,ENSDARG00000004246,F1QQE4:Q9DE36:A0A0R4IFT2,SLIT2,Slit2,Yes,SLIT2
+Core matrisome,ECM Glycoproteins,slit3,slit homolog 3 (Drosophila),ZDB-GENE-010306-4,ENSDARG00000034268,Q567L5:A4QNR7:Q9DE37:F1RCV3:F1QIA2,SLIT3,Slit3,Yes,SLIT3
+Core matrisome,ECM Glycoproteins,smoc1,SPARC related modular calcium binding 1,ZDB-GENE-110310-7,ENSDARG00000088255,E7EDQ9:E7FH22,SMOC1,Smoc1,Yes,SMOC1
+Core matrisome,ECM Glycoproteins,smoc2,SPARC related modular calcium binding 2,ZDB-GENE-021031-5,ENSDARG00000054766,G9LQV9:A0A0R4IDK4:E7FET3:Q567B8:G9LQV9:A0A0R4IDK4:E7FET3:Q567B8,SMOC2,Smoc2,Yes,SMOC2
+Core matrisome,ECM Glycoproteins,sned1,"sushi, nidogen and EGF-like domains 1",ZDB-GENE-100913-1,ENSDARG00000044433,E7F2S5,SNED1,Sned1,Yes,SNED1
+Core matrisome,ECM Glycoproteins,sparc,"secreted protein, acidic, cysteine-rich (osteonectin)",ZDB-GENE-030131-9,ENSDARG00000019353,E9QCC2:E9QJC0:E9QJA9:A0A0B5JPZ8:Q6PVV8:Q6IQH0,SPARC,Sparc,Yes,SPARC
+Core matrisome,ECM Glycoproteins,sparcl1,SPARC-like 1,ZDB-GENE-060130-6,ENSDARG00000074989,Q6PVV6:B3DJ32:A0A0R4IIF9:A0A0R4IU92,SPARCL1,Sparcl1,Yes,SPARCL1
+Core matrisome,ECM Glycoproteins,spon1a,spondin 1a,ZDB-GENE-000427-9,ENSDARG00000010029,A0A0B5JSE7:O42113:Q1LUZ8,SPON1,Spon1,Yes,SPON1
+Core matrisome,ECM Glycoproteins,spon1b,spondin 1b,ZDB-GENE-000427-10,ENSDARG00000023694,A2BFS0:A0A0B5JWB5:B3DH64:F1R2Z9:O42114,SPON1,Spon1,Yes,SPON1
+Core matrisome,ECM Glycoproteins,spon2a,"spondin 2a, extracellular matrix protein",ZDB-GENE-990415-160,ENSDARG00000025465,A0A0B5JW36:B3DGW3:O42111,SPON2,Spon2,Yes,SPON2
+Core matrisome,ECM Glycoproteins,spon2b,"spondin 2b, extracellular matrix protein",ZDB-GENE-990415-161,ENSDARG00000002732,F6NH70:Q0V935:Q6DC15:O42112:F1QA83,SPON2,Spon2,Yes,SPON2
+Core matrisome,ECM Glycoproteins,spp1,secreted phosphoprotein 1,ZDB-GENE-050706-97,ENSDARG00000044276,Q6IVB9:A0A0R4I9J4:Q4KMF5:A1KXD6:F1Q9F4,SPP1,Spp1,Yes,SPP1
+Core matrisome,ECM Glycoproteins,srpx,"sushi-repeat containing protein, X-linked",ZDB-GENE-050327-43,ENSDARG00000010318,B2GT17:Q58ED3,SRPX,Srpx,Yes,SRPX
+Core matrisome,ECM Glycoproteins,srpx2,"sushi-repeat containing protein, X-linked 2",ZDB-GENE-110411-231,ENSDARG00000034559,E7F8X0,SRPX2,Srpx2,Yes,SRPX2
+Core matrisome,ECM Glycoproteins,svep1,"sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1",ZDB-GENE-110726-1,ENSDARG00000013526,F1QMD7,SVEP1,Svep1,Yes,SVEP1
+Core matrisome,ECM Glycoproteins,tecta,tectorin alpha,ZDB-GENE-110411-120,ENSDARG00000059558,F8W4F4:F1QK57,TECTA,Tecta,Yes,TECTA
+Core matrisome,ECM Glycoproteins,tectb,tectorin beta,ZDB-GENE-041212-16,ENSDARG00000045268,Q5PR99,TECTB,Tectb,Yes,TECTB
+Core matrisome,ECM Glycoproteins,tgfbi,"transforming growth factor, beta-induced",ZDB-GENE-030131-73,ENSDARG00000071586,Q503K1:A0A0B5JSG0:Q7T1R2,TGFBI,Tgfbi,Yes,TGFBI
+Core matrisome,ECM Glycoproteins,thbs1a,thrombospondin 1a,ZDB-GENE-120402-2,ENSDARG00000063430, -,THBS1,Thbs1,Yes,THBS1
+Core matrisome,ECM Glycoproteins,thbs1b,thrombospondin 1b,ZDB-GENE-020708-1,ENSDARG00000010785,F1QEE7:F1QL35,THBS1,Thbs1,Yes,THBS1
+Core matrisome,ECM Glycoproteins,thbs2a,thrombospondin 2a,ZDB-GENE-020708-2,ENSDARG00000060410,F1RAW4:F8W5Z7,THBS2,Thbs2,Yes,THBS2
+Core matrisome,ECM Glycoproteins,thbs2b,thrombospondin 2b,ZDB-GENE-100623-1,ENSDARG00000073810,E7F1S4,THBS2,Thbs2,Yes,THBS2
+Core matrisome,ECM Glycoproteins,thbs3a,thrombospondin 3a,ZDB-GENE-020708-3,ENSDARG00000077641,Q8JHW2:B2GSX1:F1QKL1,THBS3,Thbs3,Yes,THBS3
+Core matrisome,ECM Glycoproteins,thbs3b,thrombospondin 3b,ZDB-GENE-060503-84,ENSDARG00000012060,A0A0R4IH11:Q1L8P7:B3DIU2,THBS3,Thbs3,Yes,THBS3
+Core matrisome,ECM Glycoproteins,thbs4a,thrombospondin 4a,ZDB-GENE-080215-11,ENSDARG00000102777,A0A0R4ICP2:A0A0R4I9N1:A9ULT0:A0A0R4IBX2,THBS4,Thbs4,Yes,THBS4
+Core matrisome,ECM Glycoproteins,thbs4b,thrombospondin 4b,ZDB-GENE-020708-4,ENSDARG00000020072,Q502R1:Q8JGW0:F1R1P9,THBS4,Thbs4,Yes,THBS4
+Core matrisome,ECM Glycoproteins,tinagl1,tubulointerstitial nephritis antigen-like 1,ZDB-GENE-060503-240,ENSDARG00000061231,A3KNG7:Q1LUC6,TINAGL1,Tinagl1,Yes,TINAGL1
+Core matrisome,ECM Glycoproteins,tnc,tenascin C,ZDB-GENE-980526-104,ENSDARG00000021948,B3DJP3:F1QYE2:A2BDW3:Q90484:A2BDW2:E9QHI1:Q4FAI8:F1R5T0,TNC,Tnc,Yes,TNC
+Core matrisome,ECM Glycoproteins,tnfaip6,"tumor necrosis factor, alpha-induced protein 6",ZDB-GENE-060421-2654,ENSDARG00000093440,B0UY56:Q1RLU5:Q1MSY1,TNFAIP6,Tnfaip6,Yes,TNFAIP6
+Core matrisome,ECM Glycoproteins,tnr,"tenascin R (restrictin, janusin)",ZDB-GENE-030804-1,ENSDARG00000020771,F1Q8J7:A2CF37:Q7T3T6,TNR,Tnr,Yes,TNR
+Core matrisome,ECM Glycoproteins,tnw,tenascin W,ZDB-GENE-990415-262,ENSDARG00000024829,F1QSR3:A0A0R4ITL5:Q6IQW7:F1QUN5:B0S6K5:O57587:Q503B9:B0S6K6:A0A0B5JFC8,TNN,Tnn,Yes,TNN
+Core matrisome,ECM Glycoproteins,tnxba,tenascin XBa,ZDB-GENE-070103-5,ENSDARG00000001760,E7EXE8,TNXB,Tnxb,Yes,TNXB
+Core matrisome,ECM Glycoproteins,tsku,tsukushi small leucine rich proteoglycan homolog (Xenopus laevis),ZDB-GENE-030131-4683,ENSDARG00000040815,Q58A48:A8BB59:F1QUL3,TSKU,Tsku,Yes,TSKU
+Core matrisome,ECM Glycoproteins,tspeara,thrombospondin-type laminin G domain and EAR repeats a,ZDB-GENE-120215-12,ENSDARG00000077580,A0A0R4IFE5:E7EY40,TSPEAR,Tspear,Yes,TSPEAR
+Core matrisome,ECM Glycoproteins,tspearb,thrombospondin-type laminin G domain and EAR repeats b,ZDB-GENE-030131-4270,ENSDARG00000089235,E9QDQ6:E7F9F5,TSPEAR,Tspear,Yes,TSPEAR
+Core matrisome,ECM Glycoproteins,txnbb,tenascin XBb,ZDB-GENE-141212-335,ENSDARG00000099581,A0A0J9YJG8,TNXB,Tnxb,Yes,TNXB
+Core matrisome,ECM Glycoproteins,vtna,vitronectin a,ZDB-GENE-050522-440,ENSDARG00000055388,Q502F1:F1R4H1,VTN,Vtn,Yes,VTN
+Core matrisome,ECM Glycoproteins,vtnb,vitronectin b,ZDB-GENE-041116-1,ENSDARG00000053831,Q7SXJ7:A7E2Q3:F1Q5D8,VTN,Vtn,Yes,VTN
+Core matrisome,ECM Glycoproteins,vwa1,von Willebrand factor A domain containing 1,ZDB-GENE-030131-5921,ENSDARG00000075468,F1QSC1:E7FF10,VWA1,Vwa1,Yes,VWA1
+Core matrisome,ECM Glycoproteins,vwa2,von Willebrand factor A domain containing 2,ZDB-GENE-100302-1,ENSDARG00000075441,D2DUP7:D2DUP9:D2DUP6:D2DUP8:U3JA51,VWA2,Vwa2,Yes,VWA2
+Core matrisome,ECM Glycoproteins,vwa3a,von Willebrand factor A domain containing 3A,ZDB-GENE-131121-527,ENSDARG00000087210,E7F4X2:X1WDY9,VWA3A,Vwa3a,Yes,VWA3A
+Core matrisome,ECM Glycoproteins,VWA5A (1 to many),si:ch1073-340j19.1, -,ENSDARG00000103131,A0A0R4IR47,VWA5A,AW551984,Yes,VWA5A
+Core matrisome,ECM Glycoproteins,vwa5b1,von Willebrand factor A domain containing 5B1,ZDB-GENE-090313-299,ENSDARG00000059705,F1QL85:E7F348,VWA5B1,Vwa5b1,Yes,VWA5B1
+Core matrisome,ECM Glycoproteins,vwa5b2,von Willebrand factor A domain containing 5B2,ZDB-GENE-070912-216,ENSDARG00000075886,E7FFP3:A0A0R4IHR3:F1QW54,VWA5B2,Vwa5b2,Yes,VWA5B2
+Core matrisome,ECM Glycoproteins,vwa7,von Willebrand factor A domain containing 7,ZDB-GENE-060503-234,ENSDARG00000061462,F1QPQ5:Q1L860,VWA7,Vwa7,Yes,VWA7
+Core matrisome,ECM Glycoproteins,vwa9,von Willebrand factor A domain containing 9,ZDB-GENE-030131-5804,ENSDARG00000041429,Q7ZUK5:Q1LWK5,VWA9,Vwa9,Yes,VWA9
+Core matrisome,ECM Glycoproteins,vwde,von Willebrand factor D and EGF domains,ZDB-GENE-060929-1226,ENSDARG00000103443,A0A0R4IVA1:A0A0R4IFV2:Q08CG4:A0A0B5JK95,VWDE,Vwde,Yes,VWDE
+Core matrisome,ECM Glycoproteins,vwf,von Willebrand factor,ZDB-GENE-070103-1,ENSDARG00000077231,F1QHS6:E7F9Z1:F1R1J2:F5XVB3,VWF,Vwf,Yes,VWF
+Core matrisome,ECM Glycoproteins,wisp1a,WNT1 inducible signaling pathway protein 1a,ZDB-GENE-070705-178,ENSDARG00000054331,F1Q9P9:F1QYF3:D0E2W1,WISP1,Wisp1,Yes,WISP1
+Core matrisome,ECM Glycoproteins,wisp1b,WNT1 inducible signaling pathway protein 1b,ZDB-GENE-080220-16,ENSDARG00000076685,A8WG98:F1R8E6:D0E2W0,WISP1,Wisp1,Yes,WISP1
+Core matrisome,ECM Glycoproteins,wisp2,WNT1 inducible signaling pathway protein 2,ZDB-GENE-060223-1,ENSDARG00000077882,D0E2V9:F1QVF9:F1QG76:F1R5C1,WISP2,Wisp2,Yes,WISP2
+Core matrisome,ECM Glycoproteins,wisp3,WNT1 inducible signaling pathway protein 3,ZDB-GENE-041001-86,ENSDARG00000071048,D0E2W2,WISP3,Wisp3,Yes,WISP3
+Core matrisome,ECM Glycoproteins,zp2.1,"zona pellucida glycoprotein 2, tandem duplicate 1",ZDB-GENE-991129-5,ENSDARG00000086352,F1R003:Q05AP6:Q9PWC8:A8E4Y9:O93292,ZP2,Zp2,Yes,ZP2
+Core matrisome,ECM Glycoproteins,zp2.2,"zona pellucida glycoprotein 2, tandem duplicate 2",ZDB-GENE-010622-1,ENSDARG00000105346,Q98SS0:Q98SS3:A1L138:A8KBT7,ZP2,Zp2,Yes,ZP2
+Core matrisome,ECM Glycoproteins,zp2.3,"zona pellucida glycoprotein 2, tandem duplicate 3",ZDB-GENE-010622-2,ENSDARG00000090237,A0JMC4:A7MC71:Q98SS2:F1QMZ0:A8E584:A0A0N4SU24,ZP2,Zp2,Yes,ZP2
+Core matrisome,ECM Glycoproteins,zp2.4,"zona pellucida glycoprotein 2, tandem duplicate 4",ZDB-GENE-010622-3, -,Q98SS1,ZP2,Zp2,Yes,ZP2
+Core matrisome,ECM Glycoproteins,zp2.5,"zona pellucida glycoprotein 2, tandem duplicate 5",ZDB-GENE-090306-1,ENSDARG00000086522,F1QUS3:Q4QRF1,ZP2,Zp2,Yes,ZP2
+Core matrisome,ECM Glycoproteins,zp2.6,"zona pellucida glycoprotein 2, tandem duplicate 6",ZDB-GENE-090306-2,ENSDARG00000091409,Q98SS1:Q567L3:Q502R0,ZP2,Zp2,Yes,ZP2
+Core matrisome,ECM Glycoproteins,zp3, -,ZDB-ALT-060110-2, -,Q6NW70:Q2PZQ8:Q9PWC7,ZP3,Zp3,Yes,ZP3
+Core matrisome,ECM Glycoproteins,zp3.1,"zona pellucida glycoprotein 3, tandem duplicate 1",ZDB-GENE-060817-1, -,Q2PZQ9,ZP3,Zp3,Yes,ZP3
+Core matrisome,ECM Glycoproteins,zp3.2,"zona pellucida glycoprotein 3, tandem duplicate 2",ZDB-GENE-050626-121,ENSDARG00000090768,Q4QRF0:Q2PZQ7:Q2PZQ8,ZP3,Zp3,Yes,ZP3
+Core matrisome,ECM Glycoproteins,zp3.2,"zona pellucida glycoprotein 3, tandem duplicate 2",ZDB-GENE-050626-121,ENSDARG00000090768,Q2PZQ7:Q4QRF0,ZP3,Zp3,Yes,ZP3
+Core matrisome,ECM Glycoproteins,zp3.3,"zona pellucida glycoprotein 3, tandem duplicate 3",ZDB-GENE-060817-2, -,Q2PZQ7,ZP3,Zp3,Yes,ZP3
+Core matrisome,ECM Glycoproteins,zp3.4,"zona pellucida glycoprotein 3, tandem duplicate 4",ZDB-GENE-060817-3, -, -,ZP3,Zp3,Yes,ZP3
+Core matrisome,ECM Glycoproteins,zp3.5,"zona pellucida glycoprotein 3, tandem duplicate 5",ZDB-GENE-060817-4, -, -,ZP3,Zp3,Yes,ZP3
+Core matrisome,ECM Glycoproteins,zp3b,zona pellucida glycoprotein 3b,ZDB-GENE-031124-2,ENSDARG00000039828,F1QVW8:Q6NW78:O12989:B8JLB0:A7MBS3:F1QBG3,ZP3,Zp3,Yes,ZP3
+Core matrisome,ECM Glycoproteins,zp3c,zona pellucida glycoprotein 3c,ZDB-GENE-060817-5,ENSDARG00000092919,B8A4S8,ZP3,Zp3,Yes,ZP3
+Core matrisome,ECM Glycoproteins,zpld1a,zona pellucida-like domain containing 1a,ZDB-GENE-110411-81,ENSDARG00000061835,F8W328:A0A0R4ITH5:I3NS54:E7FE28,ZPLD1,Zpld1,Yes,ZPLD1
+Core matrisome,ECM Glycoproteins,zpld1b,zona pellucida-like domain containing 1b,ZDB-GENE-121214-104,ENSDARG00000063372,F1QMQ8,ZPLD1,Zpld1,Yes,ZPLD1
+Core matrisome,Collagens,col10a1a,"collagen, type X, alpha 1a",ZDB-GENE-030131-8373,ENSDARG00000054753,A1KXD7:A2RQR3:F1QXD5,COL10A1,Col10a1,Yes,COL10A1
+Core matrisome,Collagens,col10a1b,"collagen, type X, alpha 1b",ZDB-GENE-030131-7079,ENSDARG00000101535,A0A0R4IAT5,COL10A1,Col10a1,Yes,COL10A1
+Core matrisome,Collagens,col11a1a,"collagen, type XI, alpha 1a",ZDB-GENE-070209-167,ENSDARG00000026165,Q5BLG2:Q5BLF1:A2RUX5:D6MUD2:A0A0R4IUQ1:A0A0R4ILA4:F1QSJ2,COL11A1,Col11a1,Yes,COL11A1
+Core matrisome,Collagens,col11a1b,"collagen, type XI, alpha 1b",ZDB-GENE-070912-607,ENSDARG00000009014,D6MUD3:A0A0R4ISK1,COL11A1,Col11a1,Yes,COL11A1
+Core matrisome,Collagens,col11a2,"collagen, type XI, alpha 2",ZDB-GENE-000208-23,ENSDARG00000012422,F1R5X4:E7F7J8:Q8AW17:F6NLZ6:A0ZXN1:F1QBU0:Q9PTI5:A5PL43:I3ISS1:Q1LWX5:F1R4X4:D6MUD4:A0A0R4IDQ0,COL11A2,Col11a2,Yes,COL11A2
+Core matrisome,Collagens,col12a1a,"collagen, type XII, alpha 1a",ZDB-GENE-090728-1,ENSDARG00000078322,X1WF98:B5DC62:X1WFI8,COL12A1,Col12a1,Yes,COL12A1
+Core matrisome,Collagens,col12a1b,"collagen, type XII, alpha 1b",ZDB-GENE-120215-116,ENSDARG00000019601,I3IT32:I3ISL8:E7FG81,COL12A1,Col12a1,Yes,COL12A1
+Core matrisome,Collagens,col13a1,"collagen, type XIII, alpha 1",ZDB-GENE-030131-1874,ENSDARG00000091398,F1QWK2:A0A0G2KI03,COL13A1,Col13a1,Yes,COL13A1
+Core matrisome,Collagens,col14a1a,"collagen, type XIV, alpha 1a",ZDB-GENE-030131-9889,ENSDARG00000005762,E9QG40:B5DC61:F1R9Y1:E9QH60:F1QVG7:Q6NW57,COL14A1,Col14a1,Yes,COL14A1
+Core matrisome,Collagens,col14a1b,"collagen, type XIV, alpha 1b",ZDB-GENE-030131-1985, -,F1RA14:A0A0R4IEC5:A0A0R4IF77:A0A0R4IP59:A0A0R4IS09,COL14A1,Col14a1,Yes,COL14A1
+Core matrisome,Collagens,col15a1a,"collagen, type XV, alpha 1a",ZDB-GENE-080918-1, -,Q05H57:B5DE26,COL15A1,Col15a1,Yes,COL15A1
+Core matrisome,Collagens,col15a1b,"collagen, type XV, alpha 1b",ZDB-GENE-070912-689,ENSDARG00000061848,,COL15A1,Col15a1,Yes,COL15A1
+Core matrisome,Collagens,col16a1,"collagen, type XVI, alpha 1",ZDB-GENE-060503-351,ENSDARG00000009194,F1Q593:K7DYI0:F1R6B4:K7DYA5,COL16A1,Col16a1,Yes,COL16A1
+Core matrisome,Collagens,col17a1a,"collagen, type XVII, alpha 1a",ZDB-GENE-090313-107,ENSDARG00000069415,B8A4S4:F1QIJ7:A0A0R4IDK1,COL17A1,Col17a1,Yes,COL17A1
+Core matrisome,Collagens,col17a1b,"collagen, type XVII, alpha 1b",ZDB-GENE-030131-7145,ENSDARG00000079011,F1QTH6:F1R7W0:F1R619,COL17A1,Col17a1,Yes,COL17A1
+Core matrisome,Collagens,col18a1,"collagen type XVIII, alpha 1",ZDB-GENE-030516-3,ENSDARG00000036558,Q2PBM7:Q4TZW4:Q2PBM8:B0S8G3:Q8AWC6:B0S8G4:Q2PBM9:B0S8G5:Q4TZW5,COL18A1,Col18a1,Yes,COL18A1
+Core matrisome,Collagens,col19a1,"collagen, type XIX, alpha 1",ZDB-GENE-090312-196,ENSDARG00000096073,B8A4T5:F1Q5Q9:Q08BP6,COL19A1,Col19a1,Yes,COL19A1
+Core matrisome,Collagens,col1a1a,"collagen, type I, alpha 1a",ZDB-GENE-030131-9102,ENSDARG00000012405,Q6P4U1:Q6U1J5:F1QSC5:F1QJC9:Q58P24:Q90YJ1:B1WB89,COL1A1,Col1a1,Yes,COL1A1
+Core matrisome,Collagens,col1a1b,"collagen, type I, alpha 1b",ZDB-GENE-030131-4400,ENSDARG00000035809,Q90YI9:F1QDL1:Q6PEI9:Q6NZ15,COL1A1,Col1a1,Yes,COL1A1
+Core matrisome,Collagens,col1a2,"collagen, type I, alpha 2",ZDB-GENE-030131-8415,ENSDARG00000020007,Q90YJ0:Q6IQX2:E9QCG6:A0A0R4IHC0,COL1A2,Col1a2,Yes,COL1A2
+Core matrisome,Collagens,col21a1,"collagen, type XXI, alpha 1",ZDB-GENE-110607-3,ENSDARG00000025320,E7FB76,COL21A1,-,Yes,COL21A1
+Core matrisome,Collagens,col22a1,"collagen, type XXII, alpha 1",ZDB-GENE-090827-2, -,M5BFV8,COL22A1,Col22a1,Yes,COL22A1
+Core matrisome,Collagens,col23a1,"collagen, type XXIII, alpha 1", -,ENSDARG00000095339,A5WW97:A0A0R4IMT1,COL23A1,Col23a1,Yes,COL23A1
+Core matrisome,Collagens,col24a1,collagen type XXIV alpha 1,ZDB-GENE-110411-128,ENSDARG00000095843,F8W3R5:F8W5B3,COL24A1,Col24a1,Yes,COL24A1
+Core matrisome,Collagens,col25a1,"collagen, type XXV, alpha 1",ZDB-GENE-130530-720,ENSDARG00000068218, -,COL25A1,Col25a1,Yes,COL25A1
+Core matrisome,Collagens,col26a1,"collagen, type XXVI, alpha 1",ZDB-GENE-130530-864,ENSDARG00000079330,F1QXC5,COL26A1,Col26a1,Yes,COL26A1
+Core matrisome,Collagens,col27a1a,"collagen, type XXVII, alpha 1a",ZDB-GENE-100119-1,ENSDARG00000101258,A0A0G2L8U5:C7DZK3,COL27A1,Col27a1,Yes,COL27A1
+Core matrisome,Collagens,col27a1b,"collagen, type XXVII, alpha 1b",ZDB-GENE-100119-2,ENSDARG00000099930,A0A0R4IFJ5:A0A0R4IVX8:A0MSJ1,COL27A1,Col27a1,Yes,COL27A1
+Core matrisome,Collagens,col28a1a,"collagen, type XXVIII, alpha 1a",ZDB-GENE-070705-84,ENSDARG00000077084 ,C0H5W1:C0H5W0,COL28A1,Col28a1,Yes,COL28A1
+Core matrisome,Collagens,col28a1b,"collagen, type XXVIII, alpha 1b",ZDB-GENE-160503-1,ENSDARG00000087087,A0A060Q6E4,COL28A1,Col28a1,Yes,COL28A1
+Core matrisome,Collagens,col28a2a,"collagen, type XXVIII, alpha 2a",ZDB-GENE-030131-4444,ENSDARG00000076321,F1QAB3:E9QEJ2:C3KEZ4:E9QEM2, -, -,Yes, -
+Core matrisome,Collagens,col28a2b,"collagen, type XXVIII, alpha 2b",ZDB-GENE-130530-762, -,C0H5V6:C0H5V8:C0H5V9:C0H5V7,COL28A1,Col28a1,Yes,COL28A1
+Core matrisome,Collagens,col2a1a,"collagen, type II, alpha 1a",ZDB-GENE-980526-192,ENSDARG00000069093,B3DKQ3:A0A0R4IMA3:A0A0R4IHB0:B3DLK0:Q2LDA1:Q90412:Q561Q0,COL2A1,Col2a1,Yes,COL2A1
+Core matrisome,Collagens,col2a1b,"collagen, type II, alpha 1b",ZDB-GENE-050302-9,ENSDARG00000011407,L0S5L0:F1QP85:A0A0H2UKU2,COL2A1,Col2a1,Yes,COL2A1
+Core matrisome,Collagens,col4a1,"collagen, type IV, alpha 1",ZDB-GENE-081105-114,ENSDARG00000055009,F1Q8S5:F1QG79:Q4TZW8,COL4A1,Col4a1,Yes,COL4A1
+Core matrisome,Collagens,col4a2,"collagen, type IV, alpha 2",ZDB-GENE-070725-3,ENSDARG00000104110,F1QZI8:Q58FS6:A0A0H2UKP2,COL4A2,Col4a2,Yes,COL4A2
+Core matrisome,Collagens,col4a3,"collagen, type IV, alpha 3",ZDB-GENE-070802-4,ENSDARG00000003395,X1WCV8:Q58FS7:F1R5V4,COL4A3,Col4a3,Yes,COL4A3
+Core matrisome,Collagens,col4a4,"collagen, type IV, alpha 4",ZDB-GENE-101001-1,ENSDARG00000002831,F1QW09:Q4TZW9:A0A0R4IDM5:X1WFR7,COL4A4,Col4a4,Yes,COL4A4
+Core matrisome,Collagens,col4a5,"collagen, type IV, alpha 5 (Alport syndrome)",ZDB-GENE-030131-2281,ENSDARG00000052063,F1R6V4:B0UXF7:Q4TZX0,COL4A5,Col4a5,Yes,COL4A5
+Core matrisome,Collagens,col4a6,"collagen, type IV, alpha 6",ZDB-GENE-101001-2,ENSDARG00000052061,F1QYN1:Q4TZW7,COL4A6,Col4a6,Yes,COL4A6
+Core matrisome,Collagens,col5a1,"procollagen, type V, alpha 1",ZDB-GENE-041105-6,ENSDARG00000012593,D6MUD5:F6NPA4:A0A0R4IRG2,COL5A1,Col5a1,Yes,COL5A1
+Core matrisome,Collagens,col5a2a,"collagen, type V, alpha 2a",ZDB-GENE-030616-13,ENSDARG00000031678,F1QT86,COL5A2,Col5a2,Yes,COL5A2
+Core matrisome,Collagens,col5a2b,"collagen, type V, alpha 2b",ZDB-GENE-110406-2,ENSDARG00000024847,A0A0R4IRR2:E7FE47,COL5A2,Col5a2,Yes,COL5A2
+Core matrisome,Collagens,col5a3a,"collagen, type V, alpha 3a",ZDB-GENE-030131-968,ENSDARG00000098294,A0A0R4IW47:D6MUD6,COL5A3,Col5a3,Yes,COL5A3
+Core matrisome,Collagens,col5a3b,"collagen, type V, alpha 3b",ZDB-GENE-110728-4,ENSDARG00000101816,A0A0R4IVL6:A0A0R4IN07:D6MUD7,COL5A3,Col5a3,Yes,COL5A3
+Core matrisome,Collagens,col6a1,"collagen, type VI, alpha 1",ZDB-GENE-070501-6,ENSDARG00000074908,A0A0R4IDY3:F1Q6P3,COL6A1,Col6a1,Yes,COL6A1
+Core matrisome,Collagens,col6a2,"collagen, type VI, alpha 2",ZDB-GENE-070501-7,ENSDARG00000061436,A3KNX1:E7FCV8,COL6A2,Col6a2,Yes,COL6A2
+Core matrisome,Collagens,col6a3,"collagen, type VI, alpha 3",ZDB-GENE-070501-8,ENSDARG00000095915,F1Q4X1:F1QMR9:F6NRG0:F1QKE8:F1QV92,COL6A3,Col6a3,Yes,COL6A3
+Core matrisome,Collagens,col6a6,"collagen, type VI, alpha 6",ZDB-GENE-041111-303,ENSDARG00000079752,F1Q924:X1WEZ4,COL6A6,Col6a6,Yes,COL6A6
+Core matrisome,Collagens,col6a6b,"collagen, type VI, alpha 6b",ZDB-GENE-160215-2, -, -,COL6A6,Col6a6,Yes,COL6A6
+Core matrisome,Collagens,col7a1,"collagen, type VII, alpha 1",ZDB-GENE-030131-2427,ENSDARG00000021720,E7FA40:X1WHK5:X1WE19,COL7A1,Col7a1,Yes,COL7A1
+Core matrisome,Collagens,col7a1l,collagen type VII alpha 1-like,ZDB-GENE-030131-9861,ENSDARG00000069692,A0A0R4ITJ5:F1QKQ2:F1Q960:A6N5Z0,COL7A1,Col7a1,Yes,COL7A1
+Core matrisome,Collagens,col8a1a,"collagen, type VIII, alpha 1a",ZDB-GENE-070912-274,ENSDARG00000077403,B7SW26:B0S5W0,COL8A1,Col8a1,Yes,COL8A1
+Core matrisome,Collagens,col8a1b,"collagen, type VIII, alpha 1b",ZDB-GENE-060503-140,ENSDARG00000003533,X1WGI4:Q1L863,COL8A1,Col8a1,Yes,COL8A1
+Core matrisome,Collagens,col8a2,"collagen, type VIII, alpha 2",ZDB-GENE-060503-488,ENSDARG00000060893,Q1LUA9,COL8A2,Col8a2,Yes,COL8A2
+Core matrisome,Collagens,col9a1a,"collagen, type IX, alpha 1a",ZDB-GENE-080721-25,ENSDARG00000073699,B3DJC9:F1QTQ2,COL9A1,Col9a1,Yes,COL9A1
+Core matrisome,Collagens,col9a1b,"collagen, type IX, alpha 1b",ZDB-GENE-040426-2410,ENSDARG00000031483,A0A0R4II70:E9QHV3:B8A4T6:Q6NUV1,COL9A1,Col9a1,Yes,COL9A1
+Core matrisome,Collagens,col9a2,"procollagen, type IX, alpha 2",ZDB-GENE-030131-9786,ENSDARG00000024492,Q8JGL8:Q1LXU2:Q66L59:F1Q7T7,COL9A2,Col9a2,Yes,COL9A2
+Core matrisome,Collagens,col9a3,"collagen, type IX, alpha 3",ZDB-GENE-030131-9799,ENSDARG00000037845,A9JTG2:F1R1F1,COL9A3,Col9a3,Yes,COL9A3
+Core matrisome,Proteoglycans,acana,aggrecan a,ZDB-GENE-050208-221,ENSDARG00000035891,M9MMB0:F1QW90:Q75ZI2:F1Q788:Q58EI4:F1QDA1:A0A0R4IP31:E7F537,ACAN,Acan,Yes,ACAN
+Core matrisome,Proteoglycans,acanb,aggrecan b,ZDB-GENE-100422-16,ENSDARG00000045799,F1R511:F8W252,ACAN,Acan,Yes,ACAN
+Core matrisome,Proteoglycans,aspn,asporin (LRR class 1),ZDB-GENE-041105-7,ENSDARG00000002192,Q1LXA7:Q1LXA6:Q504E0:A8BBD1:Q9DE02:Q6DBT8,ASPN,Aspn,Yes,ASPN
+Core matrisome,Proteoglycans,bcan,brevican,ZDB-GENE-030131-6045,ENSDARG00000099412,A4JYN2:Q75T40:A0A0R4IXT8,BCAN,Bcan,Yes,BCAN
+Core matrisome,Proteoglycans,bgna,biglycan a,ZDB-GENE-040704-74,ENSDARG00000017884,B0CM13:Q6GMI5:A8BBH0,BGN,Bgn,Yes,BGN
+Core matrisome,Proteoglycans,bgnb,biglycan b,ZDB-GENE-040426-21,ENSDARG00000002945,Q6PBP5:B7ZDB5:F1RCG4:Q6NYY6:A8BBG1,BGN,Bgn,Yes,BGN
+Core matrisome,Proteoglycans,chad,chondroadherin,ZDB-GENE-040426-1130,ENSDARG00000045071,F1Q7R2:Q7SYE5,CHAD,Chad,Yes,CHAD
+Core matrisome,Proteoglycans,chadla,chondroadherin-like a,ZDB-GENE-121205-4,ENSDARG00000055160,E7EXH9,CHADL,Chadl,Yes,CHADL
+Core matrisome,Proteoglycans,chadlb,chondroadherin-like b,ZDB-GENE-121205-5,ENSDARG00000075903,F1Q881:B0CLZ4,CHADL,Chadl,Yes,CHADL
+Core matrisome,Proteoglycans,dcn,decorin,ZDB-GENE-010102-1,ENSDARG00000012066,Q9DE01:Q5RI45:Q803T1,DCN,Dcn,Yes,DCN
+Core matrisome,Proteoglycans,epyc,epiphycan,ZDB-GENE-041008-9,ENSDARG00000056950,A4FVI9:A8BBB9:Q15JE8:B0S5X0:Q5RI46:Q568A7,EPYC,Epyc,Yes,EPYC
+Core matrisome,Proteoglycans,esm1,endothelial cell-specific molecule 1,ZDB-GENE-060929-748,ENSDARG00000104370,Q08CJ3:A0A0R4IF38,ESM1,Esm1,Yes,ESM1
+Core matrisome,Proteoglycans,fmoda,fibromodulin a,ZDB-GENE-041008-23,ENSDARG00000044895,F1QG51:Q4V9E0:A8BB94,FMOD,Fmod,Yes,FMOD
+Core matrisome,Proteoglycans,fmodb,fibromodulin b,ZDB-GENE-080327-28,ENSDARG00000010294,A8BBH7:B0UYH4,FMOD,Fmod,Yes,FMOD
+Core matrisome,Proteoglycans,hapln1a,hyaluronan and proteoglycan link protein 1a,ZDB-GENE-050302-175,ENSDARG00000089769,B3DIH3:A5PKS6:Q1LXE2:Q1LXE1:A0A0B5JFG6:Q60H44,HAPLN1,Hapln1,Yes,HAPLN1
+Core matrisome,Proteoglycans,hapln1b,hyaluronan and proteoglycan link protein 1b,ZDB-GENE-050920-1,ENSDARG00000068516,E9QFH9:E7FBW8,HAPLN1,Hapln1,Yes,HAPLN1
+Core matrisome,Proteoglycans,hapln2,hyaluronan and proteoglycan link protein 2,ZDB-GENE-030131-8089,ENSDARG00000003903,A4JYH5:A2CF10:A4JYQ1,HAPLN2,Hapln2,Yes,HAPLN2
+Core matrisome,Proteoglycans,hapln3,hyaluronan and proteoglycan link protein 3,ZDB-GENE-040426-2089,ENSDARG00000045802,Q6NV41:F1QVB2,HAPLN3,Hapln3,Yes,HAPLN3
+Core matrisome,Proteoglycans,hapln4,hyaluronan and proteoglycan link protein 4,ZDB-GENE-060503-243,ENSDARG00000018542,Q1LV25,HAPLN4,Hapln4,Yes,HAPLN4
+Core matrisome,Proteoglycans,hspg2,heparan sulfate proteoglycan 2,ZDB-GENE-080807-4,ENSDARG00000076564,B0LVF1:F1RCP6:A0A0R4IMY4:F1R5K7:A0A0R4IVZ2:B2RZI0:A0A0R4IZA6,HSPG2,Hspg2,Yes,HSPG2
+Core matrisome,Proteoglycans,impg1a,interphotoreceptor matrix proteoglycan 1a,ZDB-GENE-070424-197,ENSDARG00000077187,F1QV42:F1QU29:F1QEV5,IMPG1,Impg1,Yes,IMPG1
+Core matrisome,Proteoglycans,impg1b,interphotoreceptor matrix proteoglycan 1b,ZDB-GENE-101007-1,ENSDARG00000074839,F1QCJ0:X1WDV1,IMPG1,Impg1,Yes,IMPG1
+Core matrisome,Proteoglycans,impg2a,interphotoreceptor matrix proteoglycan 2a,ZDB-GENE-140106-217,ENSDARG00000088751,F1R6Y4:F1R6Y4,IMPG2,Impg2,Yes,IMPG2
+Core matrisome,Proteoglycans,impg2b,interphotoreceptor matrix proteoglycan 2b,ZDB-GENE-081031-56,ENSDARG00000100288,A0A0R4IT75:A0A0R4IE69:A0A0R4IXW4:A0A0J9YJ75:A0A0R4IQJ1:A0A0R4IUG0,IMPG2,Impg2,Yes,IMPG2
+Core matrisome,Proteoglycans,kera,keratocan,ZDB-GENE-041210-165,ENSDARG00000056938,Q5RI43:Q5RI47:Q0PZF1,KERA,Kera,Yes,KERA
+Core matrisome,Proteoglycans,lum,lumican,ZDB-GENE-040625-24,ENSDARG00000045580,A8BBA0:F1R6G3:Q6IQQ7,LUM,Lum,Yes,LUM
+Core matrisome,Proteoglycans,ncana,neurocan a,ZDB-GENE-051230-1,ENSDARG00000100128,Q75T39,NCAN,Ncan,Yes,NCAN
+Core matrisome,Proteoglycans,ncanb,neurocan b,ZDB-GENE-050208-586,ENSDARG00000005783,F1QEZ8:Q1LVM6:F1R9V2,NCAN,Ncan,Yes,NCAN
+Core matrisome,Proteoglycans,nyx,nyctalopin,ZDB-GENE-061026-3,ENSDARG00000061791,Q00P20,NYX,Nyx,Yes,NYX
+Core matrisome,Proteoglycans,ogn,osteoglycin,ZDB-GENE-050208-650,ENSDARG00000044132,Q5BLC1:Q1LV51,OGN,Ogn,Yes,OGN
+Core matrisome,Proteoglycans,omd,osteomodulin,ZDB-GENE-060503-756,ENSDARG00000093600,A0A0R4IFY2:F6NL91,OMD,Omd,Yes,OMD
+Core matrisome,Proteoglycans,optc,opticin,ZDB-GENE-030131-1798,ENSDARG00000014358,Q6DC21:A8BBE6:Q15JE7,OPTC,Optc,Yes,OPTC
+Core matrisome,Proteoglycans,podn,podocan,ZDB-GENE-100922-117,ENSDARG00000019025,F1R4I0:E7FDK4,PODN,Podn,Yes,PODN
+Core matrisome,Proteoglycans,prelp,proline/arginine-rich end leucine-rich repeat protein,ZDB-GENE-080327-24,ENSDARG00000070597,F1QY29:A8BBF7,PRELP,Prelp,Yes,PRELP
+Core matrisome,Proteoglycans,prg4a,proteoglycan 4a,ZDB-GENE-030131-8295,ENSDARG00000010482,F1R2Z8:Q7ZW66:B8JMI4:B8JMI5,PRG4,Prg4,Yes,PRG4
+Core matrisome,Proteoglycans,prg4b,proteoglycan 4b,ZDB-GENE-041014-324,ENSDARG00000028163,Q567C4:F1R0N7:A5PMB6:F1REF9:Q32PL6,PRG4,Prg4,Yes,PRG4
+Core matrisome,Proteoglycans,spock1,"sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 1",ZDB-GENE-110428-1,ENSDARG00000074644,E7F9M2:A0A0G2L032:A0A0G2KM32,SPOCK1,Spock1,Yes,SPOCK1
+Core matrisome,Proteoglycans,spock2,"sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 2",ZDB-GENE-090312-170,ENSDARG00000075393,B7ZD41:B7ZD49:F1RE70,SPOCK2,Spock2,Yes,SPOCK2
+Core matrisome,Proteoglycans,spock3,"sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 3",ZDB-GENE-090311-24,ENSDARG00000070266,F1RAX3:Q4V9J2:E9QHS0:A0A0R4IMY5:A8KB02:E9QJD8:A4IGA0,SPOCK3,Spock3,Yes,SPOCK3
+Core matrisome,Proteoglycans,srgn,serglycin,ZDB-GENE-030131-7127,ENSDARG00000077069,B8A5H9:B8A5I0,SRGN,Srgn,Yes,SRGN
+Core matrisome,Proteoglycans,vcana,versican a,ZDB-GENE-011023-1,ENSDARG00000103515,A0A0R4ICM0:Q1LXE5,VCAN,Vcan,Yes,VCAN
+Core matrisome,Proteoglycans,vcanb,versican b,ZDB-GENE-030131-2185,ENSDARG00000009401,Q75ZI3:F1QFM9,VCAN,Vcan,Yes,VCAN
+Matrisome-associated,ECM-affiliated Proteins,anxa11a,annexin A11a,ZDB-GENE-030707-4,ENSDARG00000077383,B8A4V2:Q804G4:Q7T391,ANXA11,Anxa11,Yes,ANXA11
+Matrisome-associated,ECM-affiliated Proteins,anxa11b,annexin A11b,ZDB-GENE-030707-5,ENSDARG00000002632,Q804G3:F8W2N0,ANXA11,Anxa11,Yes,ANXA11
+Matrisome-associated,ECM-affiliated Proteins,anxa13,annexin A13,ZDB-GENE-010406-1,ENSDARG00000013976,F1REH8:Q804G2:Q6PHG3:Q98SH7,ANXA13,Anxa13,Yes,ANXA13
+Matrisome-associated,ECM-affiliated Proteins,anxa13l,"annexin A13, like",ZDB-GENE-050522-310,ENSDARG00000013613,A8E7L2:A8E7L1:A8E7K9:A8E7K8:Q4VBH6:A8E7L0:A8E7L3,ANXA13,Anxa13,Yes,ANXA13
+Matrisome-associated,ECM-affiliated Proteins,anxa1a,annexin A1a,ZDB-GENE-030131-6664,ENSDARG00000026726,Q7T3A8:A2BFV8:Q804H2:A0A0R4IWC6,ANXA1,Anxa1,Yes,ANXA1
+Matrisome-associated,ECM-affiliated Proteins,anxa1b,annexin A1b,ZDB-GENE-030131-6554,ENSDARG00000100095,Q804H1:B8JLZ3,ANXA1,Anxa1,Yes,ANXA1
+Matrisome-associated,ECM-affiliated Proteins,anxa1c,annexin A1c,ZDB-GENE-030131-5274,ENSDARG00000104359,Q804H0:Q32PQ2:A0A0R4ICD6,ANXA1,Anxa1,Yes,ANXA1
+Matrisome-associated,ECM-affiliated Proteins,anxa2a,annexin A2a,ZDB-GENE-030131-4282,ENSDARG00000003216,Q6P603:Q804G9,ANXA2,Anxa2,Yes,ANXA2
+Matrisome-associated,ECM-affiliated Proteins,anxa2b,annexin A2b,ZDB-GENE-030131-1089,ENSDARG00000053625,Q6DHD8:Q2TBJ2:Q804G8:A8E5G1,ANXA2,Anxa2,Yes,ANXA2
+Matrisome-associated,ECM-affiliated Proteins,anxa3a,annexin A3a,ZDB-GENE-040912-58,ENSDARG00000009196,A0A0R4ISB3:A2BHN0:Q4V9B8:Q66ID8,ANXA3,Anxa3,Yes,ANXA3
+Matrisome-associated,ECM-affiliated Proteins,anxa3b,annexin A3b,ZDB-GENE-041114-128,ENSDARG00000044254,Q5U369:B0JZI3:A8E5E5,ANXA3,Anxa3,Yes,ANXA3
+Matrisome-associated,ECM-affiliated Proteins,anxa4,annexin A4,ZDB-GENE-030707-1,ENSDARG00000036456,Q804G7,ANXA4,Anxa4,Yes,ANXA4
+Matrisome-associated,ECM-affiliated Proteins,anxa5a,annexin A5a,ZDB-GENE-080220-29,ENSDARG00000026406,F1QKN3:A8WG37,ANXA5,Anxa5,Yes,ANXA5
+Matrisome-associated,ECM-affiliated Proteins,anxa5b,annexin A5b,ZDB-GENE-030131-9076,ENSDARG00000016470,Q6P0V8:A0A0R4IKN3:Q804G6:Q803A1:A9JTC0,ANXA5,Anxa5,Yes,ANXA5
+Matrisome-associated,ECM-affiliated Proteins,anxa6,annexin A6,ZDB-GENE-030707-3,ENSDARG00000013335,F6IA10:F8W331:F1QSK0:F1QZ98:Q6DG13:F1R6N3:Q804G5:A8KBY8,ANXA6,Anxa6,Yes,ANXA6
+Matrisome-associated,ECM-affiliated Proteins,c1qa,"complement component 1, q subcomponent, A chain",ZDB-GENE-050522-86,ENSDARG00000044613,D3U1E0:Q504F7:F1QFM5,C1QA,C1qa,Yes,C1QA
+Matrisome-associated,ECM-affiliated Proteins,c1qb,"complement component 1, q subcomponent, B chain",ZDB-GENE-040801-223,ENSDARG00000044612,Q6DBS9:F1QH04:A8KBP2:D3U1E1,C1QB,C1qb,Yes,C1QB
+Matrisome-associated,ECM-affiliated Proteins,c1qc,"complement component 1, q subcomponent, C chain",ZDB-GENE-041010-51,ENSDARG00000095627,D3U1E2:F1RAV1:Q5XJ71:A0A0B5JQA2,C1QC,C1qc,Yes,C1QC
+Matrisome-associated,ECM-affiliated Proteins,c1ql1a,"complement component 1, q subcomponent-like 1a",ZDB-GENE-080424-1,-,-,C1QL1,C1ql1,Yes,C1QL1
+Matrisome-associated,ECM-affiliated Proteins,c1ql1b,"complement component 1, q subcomponent-like 1b",ZDB-GENE-080424-2,-,-,C1QL1,C1ql1,Yes,C1QL1
+Matrisome-associated,ECM-affiliated Proteins,c1ql2,"complement component 1, q subcomponent-like 2",ZDB-GENE-081105-160,ENSDARG00000015592,E9QE76,C1QL2,C1ql2,Yes,C1QL2
+Matrisome-associated,ECM-affiliated Proteins,c1ql3a,"complement component 1, q subcomponent-like 3a",ZDB-GENE-080417-1,ENSDARG00000010350,F1Q6V1:Q7ZZ82,C1QL3,C1ql3,Yes,C1QL3
+Matrisome-associated,ECM-affiliated Proteins,c1ql3b,"complement component 1, q subcomponent-like 3b",ZDB-GENE-040426-1836,ENSDARG00000036483,Q6NZU2:I3IT96,C1QL3,C1ql3,Yes,C1QL3
+Matrisome-associated,ECM-affiliated Proteins,c1ql4a,"complement component 1, q subcomponent-like 4",ZDB-GENE-090313-185,ENSDARG00000011549,E9QCN9,C1QL4,C1ql4,Yes,C1QL4
+Matrisome-associated,ECM-affiliated Proteins,c1ql4b,"complement component 1, q subcomponent-like 4b",ZDB-GENE-131127-59,ENSDARG00000055317,E7EZD8,C1QL4,C1ql4,Yes,C1QL4
+Matrisome-associated,ECM-affiliated Proteins,c1qtnf1,C1q and tumor necrosis factor related protein 1,ZDB-GENE-050417-427,ENSDARG00000088878,Q566P1,C1QTNF1,C1qtnf1,Yes,C1QTNF1
+Matrisome-associated,ECM-affiliated Proteins,c1qtnf2,C1q and tumor necrosis factor related protein 2,ZDB-GENE-030131-5133,ENSDARG00000059944,E7F6Z0:A0A0R4IN55,C1QTNF2,C1qtnf2,Yes,C1QTNF2
+Matrisome-associated,ECM-affiliated Proteins,c1qtnf4,C1q and tumor necrosis factor related protein 4,ZDB-GENE-050417-198,ENSDARG00000024299,Q566Z3:F1QBL3,C1QTNF4,C1qtnf4,Yes,C1QTNF4
+Matrisome-associated,ECM-affiliated Proteins,c1qtnf5,C1q and tumor necrosis factor related protein 5,ZDB-GENE-050706-101,ENSDARG00000056134,Q4KMC6,C1QTNF5,C1qtnf5,Yes,C1QTNF5
+Matrisome-associated,ECM-affiliated Proteins,c1qtnf6a,C1q and tumor necrosis factor related protein 6a,ZDB-GENE-080108-3,ENSDARG00000055175,F1RBK5,C1QTNF6,C1qtnf6,Yes,C1QTNF6
+Matrisome-associated,ECM-affiliated Proteins,c1qtnf6b,C1q and tumor necrosis factor related protein 6b,ZDB-GENE-080411-1,-,-,C1QTNF6,C1qtnf6,Yes,C1QTNF6
+Matrisome-associated,ECM-affiliated Proteins,c1qtnf7,C1q and tumor necrosis factor related protein 7,ZDB-GENE-080414-4,ENSDARG00000074949,E7F3N3,C1QTNF7,C1qtnf7,Yes,C1QTNF7
+Matrisome-associated,ECM-affiliated Proteins,c1qtnf9,C1q and tumor necrosis factor related protein 9,ZDB-GENE-080303-33,ENSDARG00000058318,B0JZP6:E7F7K2,C1QTNF9,C1qtnf9,Yes,C1QTNF9
+Matrisome-associated,ECM-affiliated Proteins,cd209,CD209 molecule,ZDB-GENE-061207-22,ENSDARG00000029461,F1QW96:D6BRL6,CD209,Cd209a,Yes,CD209
+Matrisome-associated,ECM-affiliated Proteins,clec11a,"C-type lectin domain family 11, member A",ZDB-GENE-130530-861,ENSDARG00000079107,A0A0R4IRD4:E7EY07,CLEC11A,Clec11a,Yes,CLEC11A
+Matrisome-associated,ECM-affiliated Proteins,clec14a,"C-type lectin domain family 14, member A",ZDB-GENE-030131-5536,ENSDARG00000103533,Q535D7:Q7SXC9:A0A0R4IWK4,CLEC14A,Clec14a,Yes,CLEC14A
+Matrisome-associated,ECM-affiliated Proteins,clec19a,"C-type lectin domain family 19, member A",ZDB-GENE-080917-46,ENSDARG00000037978,E7FCR6,CLEC19A,-,Yes,CLEC19A
+Matrisome-associated,ECM-affiliated Proteins,clec3a,"C-type lectin domain family 3, member A",ZDB-GENE-111103-33,ENSDARG00000104788,A0A0G2KIE0,CLEC3A,Clec3a,Yes,CLEC3A
+Matrisome-associated,ECM-affiliated Proteins,clec3ba,"C-type lectin domain family 3, member Ba",ZDB-GENE-110411-71,ENSDARG00000076541,E7EYJ8:F8W607,CLEC3B,Clec3b,Yes,CLEC3B
+Matrisome-associated,ECM-affiliated Proteins,clec3bb,"C-type lectin domain family 3, member Bb",ZDB-GENE-111027-16,-,-,CLEC3B,Clec3b,Yes,CLEC3B
+Matrisome-associated,ECM-affiliated Proteins,colec10,collectin sub-family member 10 (C-type lectin),ZDB-GENE-131127-525,ENSDARG00000104752,Q5U3G1,COLEC10,Colec10,Yes,COLEC10
+Matrisome-associated,ECM-affiliated Proteins,colec11,collectin sub-family member 11,ZDB-GENE-041114-11,ENSDARG00000013266,F1RCL0:Q5U3G1,COLEC11,Colec11,Yes,COLEC11
+Matrisome-associated,ECM-affiliated Proteins,colec12,collectin sub-family member 12,ZDB-GENE-030131-9807,ENSDARG00000061140,E9QFG8:A5PMY6,COLEC12,Colec12,Yes,COLEC12
+Matrisome-associated,ECM-affiliated Proteins,cspg4,chondroitin sulfate proteoglycan 4,ZDB-GENE-050519-1,ENSDARG00000078227,A0A0B5JQ10:E7FCN9:A0A0B5JS46,CSPG4,Cspg4,Yes,CSPG4
+Matrisome-associated,ECM-affiliated Proteins,cspg5a,chondroitin sulfate proteoglycan 5a,ZDB-GENE-080425-4,ENSDARG00000069981,A5PLG4:F8W3W2:F6PCZ4,CSPG5,Cspg5,Yes,CSPG5
+Matrisome-associated,ECM-affiliated Proteins,cspg5b,chondroitin sulfate proteoglycan 5b,ZDB-GENE-060503-368,ENSDARG00000099793,A0A0R4INR6:A0A0R4IMK4:A0A0R4INA0,CSPG5,Cspg5,Yes,CSPG5
+Matrisome-associated,ECM-affiliated Proteins,elfn1a,extracellular leucine-rich repeat and fibronectin type III domain containing 1a,ZDB-GENE-120927-2,ENSDARG00000078141,-,ELFN1,Elfn1,Yes,ELFN1
+Matrisome-associated,ECM-affiliated Proteins,elfn1b,extracellular leucine-rich repeat and fibronectin type III domain containing 1b,ZDB-GENE-080327-21,ENSDARG00000074372,A8BBD5:F1Q7Y5,ELFN1,Elfn1,Yes,ELFN1
+Matrisome-associated,ECM-affiliated Proteins,elfn2a,extracellular leucine-rich repeat and fibronectin type III domain containing 2a,ZDB-GENE-080327-26,ENSDARG00000077609,A8BBG8:B8JKN2,ELFN2,Elfn2,Yes,ELFN2
+Matrisome-associated,ECM-affiliated Proteins,elfn2b,extracellular leucine-rich repeat and fibronectin type III domain containing 2b,ZDB-GENE-140106-145,ENSDARG00000077893,-,ELFN2,Elfn2,Yes,ELFN2
+Matrisome-associated,ECM-affiliated Proteins,frem1a,Fras1 related extracellular matrix 1a,ZDB-GENE-081119-1,ENSDARG00000069473,D7PS89:B6IDE4:F1R4B2:A0A0R4IN91,FREM1,Frem1,Yes,FREM1
+Matrisome-associated,ECM-affiliated Proteins,frem1b,Fras1 related extracellular matrix 1b,ZDB-GENE-050208-783,ENSDARG00000062402,A0A0R4IY99:B6IDE5:F1R2T2:Q1L984:D7PS90,FREM1,Frem1,Yes,FREM1
+Matrisome-associated,ECM-affiliated Proteins,frem2a,Fras1 related extracellular matrix protein 2a,ZDB-GENE-081119-3,ENSDARG00000076856,A0A0R4IVT0:D7PS91:B6IDE6:A0A0R4IWG1,FREM2,Frem2,Yes,FREM2
+Matrisome-associated,ECM-affiliated Proteins,frem2b,Fras1 related extracellular matrix protein 2b,ZDB-GENE-081119-4,ENSDARG00000102626,D7PS92:B6IDE7:A0A0R4IH07:D7PS93,FREM2,Frem2,Yes,FREM2
+Matrisome-associated,ECM-affiliated Proteins,frem3,Fras1 related extracellular matrix 3,ZDB-GENE-030131-9788,ENSDARG00000074677,F1QE56:D7PS95:B6IDE8,FREM3,Frem3,Yes,FREM3
+Matrisome-associated,ECM-affiliated Proteins,gpc1a,glypican 1a,ZDB-GENE-051120-147,ENSDARG00000019341,Q568E8:Q1LXM6:V5JE91:F1QCC6,GPC1,Gpc1,Yes,GPC1
+Matrisome-associated,ECM-affiliated Proteins,gpc1b,glypican 1b,ZDB-GENE-040426-1306,ENSDARG00000090585,A0A0B5JKA7:F1QVG5:Q7T3D6,GPC1,Gpc1,Yes,GPC1
+Matrisome-associated,ECM-affiliated Proteins,gpc2,glypican 2,ZDB-GENE-050302-31,ENSDARG00000104217,A2RUZ1:A0A0R4IL33:V5NF87:A0A0R4IG73,GPC2,Gpc2,Yes,GPC2
+Matrisome-associated,ECM-affiliated Proteins,gpc3,glypican 3,ZDB-GENE-031212-1,ENSDARG00000032199,F1R0Q4:Q6V9Y8,GPC3,Gpc3,Yes,GPC3
+Matrisome-associated,ECM-affiliated Proteins,gpc4,glypican 4,ZDB-GENE-011119-1,ENSDARG00000015472,Q90Z52:B3DJ94:F1QKN6,GPC4,Gpc4,Yes,GPC4
+Matrisome-associated,ECM-affiliated Proteins,gpc5a,glypican 5a,ZDB-GENE-140106-260,ENSDARG00000103647,V5NES1:A0A0H2UKP8:V5NES1:A0A0H2UKP8,GPC5,Gpc5,Yes,GPC5
+Matrisome-associated,ECM-affiliated Proteins,gpc5b,glypican 5b,ZDB-GENE-060503-64,ENSDARG00000024588,V5NF21:Q1L879:F1Q5X1,GPC5,Gpc5,Yes,GPC5
+Matrisome-associated,ECM-affiliated Proteins,gpc5c,glypican 5c,ZDB-GENE-141112-1,-,V5NHA1,GPC5,Gpc5,Yes,GPC5
+Matrisome-associated,ECM-affiliated Proteins,gpc6a,glypican 6a,ZDB-GENE-071004-15,ENSDARG00000086960,R4GE96:A7MBT1:A0A0R4IU01:F1R466:R4GDV5,GPC6,Gpc6,Yes,GPC6
+Matrisome-associated,ECM-affiliated Proteins,gpc6b,glypican 6b,ZDB-GENE-130515-2,ENSDARG00000104219,V5NF92,GPC6,Gpc6,Yes,GPC6
+Matrisome-associated,ECM-affiliated Proteins,grem1a,"gremlin 1a, DAN family BMP antagonist",ZDB-GENE-040625-1,ENSDARG00000029546,Q6T937:Q6T937,GREM1,Grem1,Yes,GREM1
+Matrisome-associated,ECM-affiliated Proteins,grem1b,gremlin 1b,ZDB-GENE-090218-21,ENSDARG00000104618,A0A0R4IYE7,GREM1,Grem1,Yes,GREM1
+Matrisome-associated,ECM-affiliated Proteins,grifin,galectin-related inter-fiber protein,ZDB-GENE-040801-163,ENSDARG00000033382,Q6DGJ1,GRIFIN,Grifin,Yes,GRIFIN
+Matrisome-associated,ECM-affiliated Proteins,hbl3,hexose-binding lectin 3,ZDB-GENE-000427-2,ENSDARG00000068220,Q504I3:Q9I9Q8:B7ZVV2,MBL2,Mbl2,Yes,MBL2
+Matrisome-associated,ECM-affiliated Proteins,hpx,hemopexin,ZDB-GENE-030131-5773,ENSDARG00000012609,Q6PHG2,HPX,Hpx,Yes,HPX
+Matrisome-associated,ECM-affiliated Proteins,itln1,intelectin 1,ZDB-GENE-060929-564,ENSDARG00000007534,Q08CC6:C1IHU8,ITLN1,Itln1,Yes,ITLN1
+Matrisome-associated,ECM-affiliated Proteins,itln2,intelectin 2,ZDB-GENE-050411-58,ENSDARG00000036084,C1IHV0:F1QNK1:A5PLE5:C1IHV0:F1QNK1:A5PLE5,ITLN2,Itlnb,Yes,ITLN2
+Matrisome-associated,ECM-affiliated Proteins,lgals1l1,"lectin, galactoside-binding, soluble, 1 (galectin 1)-like 1",ZDB-GENE-030131-4905,ENSDARG00000088711,F1Q9Y2:F1QGM0:Q5XJJ1,LGALS1,Lgals1,Yes,LGALS1
+Matrisome-associated,ECM-affiliated Proteins,lgals2a,"lectin, galactoside-binding, soluble, 2a",ZDB-GENE-050318-2,ENSDARG00000054942,A0A0R4IW06:Q6IQI2:Q6TGN5:A0A0R4IEQ5,LGALS2,Lgals2,Yes,LGALS2
+Matrisome-associated,ECM-affiliated Proteins,lgals2b,"lectin, galactoside-binding, soluble, 2b",ZDB-GENE-040426-1590,ENSDARG00000038153,F8W2U6:I3ISQ0:Q7SXJ0:F8W2I6,LGALS2,Lgals2,Yes,LGALS2
+Matrisome-associated,ECM-affiliated Proteins,lgals3a,"lectin, galactoside binding soluble 3a",ZDB-GENE-030131-7667,ENSDARG00000077850,A0A0G3EVN5:F1REF6:A0A0R4I9F2:F1R4W2:B8A6D6,LGALS3,Lgals3,Yes,LGALS3
+Matrisome-associated,ECM-affiliated Proteins,lgals3b,"lectin, galactoside binding soluble 3b",ZDB-GENE-030131-4324,ENSDARG00000044001,Q6TGN4:F1QSL3:Q32PT4:Q567N0:E7FEQ1,LGALS3,Lgals3,Yes,LGALS3
+Matrisome-associated,ECM-affiliated Proteins,lgals8a,galectin 8a,ZDB-GENE-040724-22,ENSDARG00000037066,X1WD11:F1QIE5,LGALS8,Lgals8,Yes,LGALS8
+Matrisome-associated,ECM-affiliated Proteins,lgals8b,galectin 8b,ZDB-GENE-120727-7,ENSDARG00000037613,-,LGALS8,Lgals8,Yes,LGALS8
+Matrisome-associated,ECM-affiliated Proteins,lgals9l1,"lectin, galactoside-binding, soluble, 9 (galectin 9)-like 1",ZDB-GENE-030131-9543,ENSDARG00000025903,F1QX26:Q6TGN3:E9QFY9:Q7T120:Q6PBV2,LGALS9,Lgals9,Yes,LGALS9
+Matrisome-associated,ECM-affiliated Proteins,lgals9l2,"lectin, galactoside-binding, soluble, 9 (galectin 9)-like 2",-,-,-,LGALS9,Lgals9,Yes,LGALS9
+Matrisome-associated,ECM-affiliated Proteins,lgals9l3,"lectin, galactoside-binding, soluble, 9 (galectin 9)-like 3",-,-,-,LGALS9,Lgals9,Yes,LGALS9
+Matrisome-associated,ECM-affiliated Proteins,lgals9l4,"lectin, galactoside-binding, soluble, 9 (galectin 9)-like 4",-,-,-,LGALS9,Lgals9,Yes,LGALS9
+Matrisome-associated,ECM-affiliated Proteins,lgals9l5,"lectin, galactoside-binding, soluble, 9 (galectin 9)-like 5",-,-,-,LGALS9,Lgals9,Yes,LGALS9
+Matrisome-associated,ECM-affiliated Proteins,lgals9l6,"lectin, galactoside-binding, soluble, 9 (galectin 9)-like 6",-,-,-,LGALS9,Lgals9,Yes,LGALS9
+Matrisome-associated,ECM-affiliated Proteins,lgalsla,"lectin, galactoside-binding-like a",ZDB-GENE-060616-24,ENSDARG00000059060,Q1ECW6,HSPC159,Lgalsl,Yes,HSPC159
+Matrisome-associated,ECM-affiliated Proteins,lgalslb,"lectin, galactoside-binding-like b",ZDB-GENE-030616-570,ENSDARG00000055525,Q7ZZ26,HSPC159,Lgalsl,Yes,HSPC159
+Matrisome-associated,ECM-affiliated Proteins,lman1,"lectin, mannose-binding, 1",ZDB-GENE-060201-4,ENSDARG00000069980,Q58EK8:F1QWL4:F1R429,LMAN1,Lman1,Yes,LMAN1
+Matrisome-associated,ECM-affiliated Proteins,muc2.2,"mucin 2.2, oligomeric mucus/gel-forming",ZDB-GENE-120904-1,ENSDARG00000078994,X1WG49:A0A0R4IQ13:F1QCY9,MUC2,Muc2,Yes,MUC2
+Matrisome-associated,ECM-affiliated Proteins,muc21,mucin 21,ZDB-GENE-121109-1,-,-,MUC21,Gm9573,Yes,MUC21
+Matrisome-associated,ECM-affiliated Proteins,muc22,mucin 22,ZDB-GENE-121112-1,-,-,MUC22,Gm9573,Yes,MUC22
+Matrisome-associated,ECM-affiliated Proteins,muc5.1,"mucin 5.1, oligomeric mucus/gel-forming",ZDB-GENE-120822-1,ENSDARG00000070331,X1WBL9:E7FDM6:A0A0R4IU82,MUC5AC,Muc5ac,Yes,MUC5AC
+Matrisome-associated,ECM-affiliated Proteins,muc5.2,mucin 5.2,ZDB-GENE-121108-,ENSDARG00000058556,X1WG18:F1R6W5,MUC5B,Muc5b,Yes,MUC5B
+Matrisome-associated,ECM-affiliated Proteins,ovgp1,oviductal glycoprotein 1,ZDB-GENE-140106-118,ENSDARG00000075745,F1QXQ8,OVGP1,Ovgp1,Yes,OVGP1
+Matrisome-associated,ECM-affiliated Proteins,parm1,prostate androgen-regulated mucin-like protein 1,ZDB-GENE-140106-262,ENSDARG00000090996,E7F610,PARM1,Parm1,Yes,PARM1
+Matrisome-associated,ECM-affiliated Proteins,plxdc1,plexin domain containing 1,ZDB-GENE-081104-391,ENSDARG00000078417,C0SQ71:B8JKL6:C0SQ72,PLXDC1,Plxdc1,Yes,PLXDC1
+Matrisome-associated,ECM-affiliated Proteins,plxdc2,plexin domain containing 2,ZDB-GENE-140106-69,ENSDARG00000059950,C0SQ73,PLXDC2,Plxdc2,Yes,PLXDC2
+Matrisome-associated,ECM-affiliated Proteins,plxna1a,plexin A1a,ZDB-GENE-140106-137,ENSDARG00000077437,B6E520:A0A140LGG1,PLXNA1,Plxna1,Yes,PLXNA1
+Matrisome-associated,ECM-affiliated Proteins,plxna1b,plexin A1b,ZDB-GENE-061007-1,ENSDARG00000104668,A0A0R4IVE9:B6E519:A8IYK2,PLXNA1,Plxna1,Yes,PLXNA1
+Matrisome-associated,ECM-affiliated Proteins,plxna2,plexin A2,ZDB-GENE-090311-6,ENSDARG00000060372,B6E521:F1RAY5:F1QCL2,PLXNA2,Plxna2,Yes,PLXNA2
+Matrisome-associated,ECM-affiliated Proteins,plxna3,plexin A3,ZDB-GENE-070613-1,ENSDARG00000007172,B0S5N4:A0A0A0MPG5:A0A0B5JFH5:A0A0A0MPJ4,PLXNA3,Plxna3,Yes,PLXNA3
+Matrisome-associated,ECM-affiliated Proteins,plxna4,plexin A4,ZDB-GENE-030131-4663,ENSDARG00000019328,T1ECS6:B3DK42:Q90ZG5:Q6BEA0,PLXNA4,Plxna4,Yes,PLXNA4
+Matrisome-associated,ECM-affiliated Proteins,plxnb1a,plexin b1a,ZDB-GENE-050302-63,ENSDARG00000075821,F1QKI9:B6E522:F1QPY6:F1QZQ3:E9QFZ9:A0A0R4IRZ9,PLXNB1,Plxnb1,Yes,PLXNB1
+Matrisome-associated,ECM-affiliated Proteins,plxnb1b,plexin b1b,ZDB-GENE-090812-4,ENSDARG00000017211,F1Q7U0:B6E523,PLXNB1,Plxnb1,Yes,PLXNB1
+Matrisome-associated,ECM-affiliated Proteins,plxnb2a,plexin b2a,ZDB-GENE-030131-8917,ENSDARG00000094799,B6E524:E3P7J3:F1QBC0:Q5RH91:C5H5I1:A0A0R4IB44:B0S6W7,PLXNB2,Plxnb2,Yes,PLXNB2
+Matrisome-associated,ECM-affiliated Proteins,plxnb2b,plexin b2b,ZDB-GENE-080902-1,ENSDARG00000036985,E3NZJ1:E3NZJ2:E7FGY1,PLXNB2,Plxnb2,Yes,PLXNB2
+Matrisome-associated,ECM-affiliated Proteins,plxnb3,plexin B3,ZDB-GENE-081104-53,ENSDARG00000032990,F1R7J5:F1Q6L2:B0V1S6,PLXNB3,Plxnb3,Yes,PLXNB3
+Matrisome-associated,ECM-affiliated Proteins,plxnc1,plexin C1,ZDB-GENE-030131-1620,ENSDARG00000015278,Q5RGW1:F1QS13,PLXNC1,Plxnc1,Yes,PLXNC1
+Matrisome-associated,ECM-affiliated Proteins,plxnd1,plexin D1,ZDB-GENE-040426-1828,-,Q6DSU3:Q6NZU7,PLXND1,Plxnd1,Yes,PLXND1
+Matrisome-associated,ECM-affiliated Proteins,reg1,reg1,ZDB-GENE-070117-2298,-,-,REG1A,Reg1,Yes,REG1A
+Matrisome-associated,ECM-affiliated Proteins,reg4,reg4,ZDB-GENE-070117-2308,-,-,REG4,Reg4,Yes,REG4
+Matrisome-associated,ECM-affiliated Proteins,sdc2,syndecan 2,ZDB-GENE-021206-3,ENSDARG00000002731,Q90ZY9:Q66I66,SDC2,Sdc2,Yes,SDC2
+Matrisome-associated,ECM-affiliated Proteins,sdc3,syndecan 3,ZDB-GENE-030131-9021,ENSDARG00000100562,F1DFN3,SDC3,Sdc3,Yes,SDC3
+Matrisome-associated,ECM-affiliated Proteins,sdc4,syndecan 4,ZDB-GENE-061111-1,ENSDARG00000059906,F6NMW3:Q0JY12:A8KBV3:A5D8R7:Q08BE1,SDC4,Sdc4,Yes,SDC4
+Matrisome-associated,ECM-affiliated Proteins,sema3aa,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3Aa",ZDB-GENE-991209-3,ENSDARG00000019235,Q9W7J1:Q1LV94:A4JYE2:B3DGH4,SEMA3A,Sema3a,Yes,SEMA3A
+Matrisome-associated,ECM-affiliated Proteins,sema3ab,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3Ab",ZDB-GENE-991209-6,ENSDARG00000042210,Q9W686:B3DIV3:A4JYE3:Q1LXC4,SEMA3A,Sema3a,Yes,SEMA3A
+Matrisome-associated,ECM-affiliated Proteins,sema3b,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B",ZDB-GENE-081105-78,ENSDARG00000011672,M9MM94,SEMA3B,Sema3b,Yes,SEMA3B
+Matrisome-associated,ECM-affiliated Proteins,sema3bl,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3bl",ZDB-GENE-030131-2956,ENSDARG00000007560,M9MMB6:M9MM97,SEMA3B,Sema3b,Yes,SEMA3B
+Matrisome-associated,ECM-affiliated Proteins,sema3c,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C",ZDB-GENE-050513-5,ENSDARG00000034300,F1QGW9:Q5ID25,SEMA3C,Sema3c,Yes,SEMA3C
+Matrisome-associated,ECM-affiliated Proteins,sema3d,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3D",ZDB-GENE-990715-2,ENSDARG00000017369,E7F4B6:E9QD84:B3DGT3:A0A0B5JFC0:Q9W6G6,SEMA3D,Sema3d,Yes,SEMA3D
+Matrisome-associated,ECM-affiliated Proteins,sema3e,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E",ZDB-GENE-030131-7864,ENSDARG00000036571,Q1LYS1:A8JZV4,SEMA3E,Sema3e,Yes,SEMA3E
+Matrisome-associated,ECM-affiliated Proteins,sema3fa,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3Fa",ZDB-GENE-050513-1,ENSDARG00000011163,Q5ID24:A4JYE5:B3DK91:F1QPG9,SEMA3F,Sema3f,Yes,SEMA3F
+Matrisome-associated,ECM-affiliated Proteins,sema3fb,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3Fb",ZDB-GENE-050513-2,ENSDARG00000055373,Q5ID23:E7F6C0,SEMA3F,Sema3f,Yes,SEMA3F
+Matrisome-associated,ECM-affiliated Proteins,sema3ga,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3Ga",ZDB-GENE-050513-3,ENSDARG00000042545,A1L5C9:Q5ID22:A0A1A7XHY1:A0A1A8G211:A0A1A8AQ50:A0A1A8EGA6:A0A1A7Z2R8:A0A1A8J989:A0A1A8MXQ7:A0A1A8QUT7,SEMA3G,Sema3g,Yes,SEMA3G
+Matrisome-associated,ECM-affiliated Proteins,sema3gb,"sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3Gb",ZDB-GENE-050513-4,ENSDARG00000013607,B3DIT7:Q5ID21:B0S5G6,SEMA3G,Sema3g,Yes,SEMA3G
+Matrisome-associated,ECM-affiliated Proteins,sema4aa,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4Aa",ZDB-GENE-110411-86,ENSDARG00000077103,F8W2K2:E7FAU7,SEMA4A,Sema4a,Yes,SEMA4A
+Matrisome-associated,ECM-affiliated Proteins,sema4ab,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4Ab",ZDB-GENE-060503-363,ENSDARG00000062352,B6E444:F1R7Z2:F1R501,SEMA4A,Sema4a,Yes,SEMA4A
+Matrisome-associated,ECM-affiliated Proteins,sema4ba,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4Ba",ZDB-GENE-070705-31,ENSDARG00000074414,A0A0R4IDW5:M9MMB3:E7F898,SEMA4B,Sema4b,Yes,SEMA4B
+Matrisome-associated,ECM-affiliated Proteins,sema4bb,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4Bb",ZDB-GENE-120503-1,ENSDARG00000076104,B6E445,SEMA4B,Sema4b,Yes,SEMA4B
+Matrisome-associated,ECM-affiliated Proteins,sema4c,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4C",ZDB-GENE-080303-16,ENSDARG00000079611,F1QF70:A4JYS4:A0A0R4IT64:B6E446,SEMA4C,Sema4c,Yes,SEMA4C
+Matrisome-associated,ECM-affiliated Proteins,sema4d,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4D",ZDB-GENE-130618-1,ENSDARG00000067801,F1QR50,SEMA4D,Sema4d,Yes,SEMA4D
+Matrisome-associated,ECM-affiliated Proteins,sema4f,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4F",ZDB-GENE-130530-860,ENSDARG00000079014,B6E448,SEMA4F,Sema4f,Yes,SEMA4F
+Matrisome-associated,ECM-affiliated Proteins,sema4ga,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4Ga",ZDB-GENE-060503-381,ENSDARG00000076595,B6E510:F1RB05:X1WF24,SEMA4G,Sema4g,Yes,SEMA4G
+Matrisome-associated,ECM-affiliated Proteins,sema4gb,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4Gb",ZDB-GENE-111117-1,ENSDARG00000088143,F1QJZ8:A0A0R4IM54:U3JAZ9,SEMA4G,Sema4g,Yes,SEMA4G
+Matrisome-associated,ECM-affiliated Proteins,sema5a,"sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A",ZDB-GENE-030131-8969,ENSDARG00000058821,A0A0R4IMM9:B6E511:F1R9L1,SEMA5A,Sema5a,Yes,SEMA5A
+Matrisome-associated,ECM-affiliated Proteins,sema5ba,"sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5Ba",ZDB-GENE-070912-187,ENSDARG00000061471,F1QPQ6:B6E512:F1R7S5,SEMA5B,Sema5b,Yes,SEMA5B
+Matrisome-associated,ECM-affiliated Proteins,sema5bb,"sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5Bb",ZDB-GENE-130530-778,ENSDARG00000075648,E7FEP0:A0A0R4IR66,SEMA5B,Sema5b,Yes,SEMA5B
+Matrisome-associated,ECM-affiliated Proteins,sema6a,"sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A",ZDB-GENE-030131-8004,-,B6E513:Q6P7E1,SEMA6A,Sema6a,Yes,SEMA6A
+Matrisome-associated,ECM-affiliated Proteins,sema6ba,"sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6Ba",ZDB-GENE-131024-1,ENSDARG00000036626,X1WGF0:B6E514,SEMA6B,Sema6b,Yes,SEMA6B
+Matrisome-associated,ECM-affiliated Proteins,sema6bb,"sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6Bb",ZDB-GENE-081105-129,ENSDARG00000061976,B8JHX0:A0A0R4IF70,SEMA6B,Sema6b,Yes,SEMA6B
+Matrisome-associated,ECM-affiliated Proteins,sema6d,"sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D",ZDB-GENE-040426-1933,ENSDARG00000002748,Q4KM12:Q7ZV83:A0A0R4ITM1:B8JMB1,SEMA6D,Sema6d,Yes,SEMA6D
+Matrisome-associated,ECM-affiliated Proteins,sema6dl,"sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D, like",ZDB-GENE-050417-171,ENSDARG00000011533,A4JYE4:B6E517:A3KPS3:A3KPS4:A4JYE6:F1QSD1:F1QG92:Q567I7,SEMA6D,Sema6d,Yes,SEMA6D
+Matrisome-associated,ECM-affiliated Proteins,sema7a,semaphorin 7A,ZDB-GENE-030131-3633,ENSDARG00000078707,E7FBE1:A9JTC9:X1WHP4,SEMA7A,Sema7a,Yes,SEMA7A
+Matrisome-associated,ECM-affiliated Proteins,sftpba,surfactant protein Ba,ZDB-GENE-091204-378,ENSDARG00000094708,F1QSH1,SFTPB,Sftpb,Yes,SFTPB
+Matrisome-associated,ECM-affiliated Proteins,sftpbb,surfactant protein Bb,ZDB-GENE-060526-155,ENSDARG00000067566,A9JTF9:B8JK19,SFTPB,Sftpb,Yes,SFTPB
+Matrisome-associated,ECM Regulators,a2ml,alpha-2-macroglobulin-like,ZDB-GENE-090212-1,ENSDARG00000056314,A0A0R4IDD1:B8QSI4:A8KAZ5:F6NTZ9:A0JMP8,A2M,A2m,Yes,A2M
+Matrisome-associated,ECM Regulators,A2ML1 (1 to many),alpha-2-macroglobulin-like 1,-,ENSDARG00000041645,-,A2ML1,-,Yes,A2ML1
+Matrisome-associated,ECM Regulators,adam10a,ADAM metallopeptidase domain 10a,ZDB-GENE-040917-2,ENSDARG00000053468,A8E4S1:F1RA88:A0A0R4IVX1:Q5XJM5,ADAM10,Adam10,Yes,ADAM10
+Matrisome-associated,ECM Regulators,adam10b,ADAM metallopeptidase domain 10b,ZDB-GENE-071115-1,ENSDARG00000015502,A0A0R4IY45:Q7T294:A0A0R4IDF3:F1Q6M6,ADAM10,Adam10,Yes,ADAM10
+Matrisome-associated,ECM Regulators,adam11,ADAM metallopeptidase domain 11,ZDB-GENE-070808-3,ENSDARG00000079204,E7F698,ADAM11,Adam11,Yes,ADAM11
+Matrisome-associated,ECM Regulators,adam12,ADAM metallopeptidase domain 12,ZDB-GENE-070809-1,ENSDARG00000079068,X1WHA6:E7FEZ4:A0A0R4INJ8,ADAM12,Adam12,Yes,ADAM12
+Matrisome-associated,ECM Regulators,adam15,ADAM metallopeptidase domain 15,ZDB-GENE-070809-4,ENSDARG00000089213,A0A0R4IB54:E7FGJ0,ADAM15,Adam15,Yes,ADAM15
+Matrisome-associated,ECM Regulators,adam17a,ADAM metallopeptidase domain 17a,ZDB-GENE-030131-2862,ENSDARG00000043213,Q5RFV3:Q6PFU9,ADAM17,Adam17,Yes,ADAM17
+Matrisome-associated,ECM Regulators,adam17b,ADAM metallopeptidase domain 17b,ZDB-GENE-041001-199,ENSDARG00000093093,U3JAD1,ADAM17,Adam17,Yes,ADAM17
+Matrisome-associated,ECM Regulators,adam19a,ADAM metallopeptidase domain 19a,ZDB-GENE-070813-1,ENSDARG00000059693,E7F494,ADAM19,Adam19,Yes,ADAM19
+Matrisome-associated,ECM Regulators,adam19b,ADAM metallopeptidase domain 19b,ZDB-GENE-070705-541,ENSDARG00000067545,F1QK73:F1Q4N9,ADAM19,Adam19,Yes,ADAM19
+Matrisome-associated,ECM Regulators,adam22,ADAM metallopeptidase domain 22,ZDB-GENE-070810-1,ENSDARG00000060532,A0A0R4ICN2:F1QF43:X1WC25,ADAM22,Adam22,Yes,ADAM22
+Matrisome-associated,ECM Regulators,adam23a,ADAM metallopeptidase domain 23a,ZDB-GENE-070810-2,ENSDARG00000062323,F8W4G2:F8W3T1,ADAM23,Adam23,Yes,ADAM23
+Matrisome-associated,ECM Regulators,adam23b,ADAM metallopeptidase domain 23b,ZDB-GENE-070810-3,-,-,ADAM23,Adam23,Yes,ADAM23
+Matrisome-associated,ECM Regulators,adam28,ADAM metallopeptidase domain 28,ZDB-GENE-060929-532,ENSDARG00000035514,F1QDC4:A3KQJ0:Q08C21,ADAM28,Adam28,Yes,ADAM28
+Matrisome-associated,ECM Regulators,adam8a,ADAM metallopeptidase domain 8a,ZDB-GENE-030616-622,ENSDARG00000001452,Q7ZYZ9,ADAM8,Adam8,Yes,ADAM8
+Matrisome-associated,ECM Regulators,adam8b,ADAM metallopeptidase domain 8b,ZDB-GENE-070808-1,ENSDARG00000057644,F8W3Y8:E7F6J8,ADAM8,Adam8,Yes,ADAM8
+Matrisome-associated,ECM Regulators,adam9,ADAM metallopeptidase domain 9,ZDB-GENE-040912-127,ENSDARG00000010070,F1QZW9:F1QU24:F1R0N5:Q66IC3,ADAM9,Adam9,Yes,ADAM9
+Matrisome-associated,ECM Regulators,adamts1,"ADAM metallopeptidase with thrombospondin type 1 motif, 1",ZDB-GENE-070814-1,ENSDARG00000103519,A0A0R4IES1,ADAMTS1,Adamts1,Yes,ADAMTS1
+Matrisome-associated,ECM Regulators,adamts10,"ADAM metallopeptidase with thrombospondin type 1 motif, 10",ZDB-GENE-081104-414,ENSDARG00000075188,B0S6F1,ADAMTS10,Adamts10,Yes,ADAMTS10
+Matrisome-associated,ECM Regulators,adamts12,"ADAM metallopeptidase with thrombospondin type 1 motif, 12",ZDB-GENE-070705-471,ENSDARG00000067549,F1R8A1:A0A0R4ILF9,ADAMTS12,Adamts12,Yes,ADAMTS12
+Matrisome-associated,ECM Regulators,adamts13,"ADAM metallopeptidase with thrombospondin type 1 motif, 13",ZDB-GENE-070814-7,ENSDARG00000076270,F1R2Z7,ADAMTS13,Adamts13,Yes,ADAMTS13
+Matrisome-associated,ECM Regulators,adamts14,"ADAM metallopeptidase with thrombospondin type 1 motif, 14",ZDB-GENE-130530-852,ENSDARG00000078494,-,ADAMTS14,Adamts14,Yes,ADAMTS14
+Matrisome-associated,ECM Regulators,adamts15a,"ADAM metallopeptidase with thrombospondin type 1 motif, 15a",ZDB-GENE-060526-203,ENSDARG00000029124,G3G3J9:A2BIA3,ADAMTS15,Adamts15,Yes,ADAMTS15
+Matrisome-associated,ECM Regulators,adamts15b,"ADAM metallopeptidase with thrombospondin type 1 motif, 15b",ZDB-GENE-070814-5,ENSDARG00000033544,A0A0R4IHE4:X1WDJ8:E7EYL5,ADAMTS15,Adamts15,Yes,ADAMTS15
+Matrisome-associated,ECM Regulators,adamts16,"ADAM metallopeptidase with thrombospondin type 1 motif, 16",ZDB-GENE-130530-760,ENSDARG00000074646,-,ADAMTS16,Adamts16,Yes,ADAMTS16
+Matrisome-associated,ECM Regulators,adamts17,"ADAM metallopeptidase with thrombospondin type 1 motif, 17",ZDB-GENE-121030-7,ENSDARG00000075555,A0A140LGK5:A0A140LGW0:E7FGU7,ADAMTS17,Adamts17,Yes,ADAMTS17
+Matrisome-associated,ECM Regulators,adamts18,"ADAM metallopeptidase with thrombospondin type 1 motif, 18",ZDB-GENE-070815-1,ENSDARG00000001999,F8W5V0:E7FEJ5,ADAMTS18,Adamts18,Yes,ADAMTS18
+Matrisome-associated,ECM Regulators,adamts2,"ADAM metallopeptidase with thrombospondin type 1 motif, 2",ZDB-GENE-070816-3,ENSDARG00000075930,E7F5R1:A0A0R4ISF7:F1R544,ADAMTS2,Adamts2,Yes,ADAMTS2
+Matrisome-associated,ECM Regulators,adamts20,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 20",ZDB-GENE-150720-2,-,-,ADAMTS20,Adamts20,Yes,ADAMTS20
+Matrisome-associated,ECM Regulators,adamts3,"ADAM metallopeptidase with thrombospondin type 1 motif, 3",ZDB-GENE-110223-1,ENSDARG00000060127,S5RVW8:E7FEN5,ADAMTS3,Adamts3,Yes,ADAMTS3
+Matrisome-associated,ECM Regulators,adamts5,"ADAM metallopeptidase with thrombospondin type 1 motif, 5 (aggrecanase-2)",ZDB-GENE-070814-2,ENSDARG00000100307,G3G3J8:A0A0G2KI55,ADAMTS5,Adamts5,Yes,ADAMTS5
+Matrisome-associated,ECM Regulators,adamts6,"ADAM metallopeptidase with thrombospondin type 1 motif, 6",ZDB-GENE-091113-9,ENSDARG00000041982,E7FCQ4,ADAMTS6,Adamts6,Yes,ADAMTS6
+Matrisome-associated,ECM Regulators,adamts7,"a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 7",ZDB-GENE-150720-1,ENSDARG00000102478,-,ADAMTS7,Adamts7,Yes,ADAMTS7
+Matrisome-associated,ECM Regulators,adamts8a,"ADAM metallopeptidase with thrombospondin type 1 motif, 8a",ZDB-GENE-060526-202,ENSDARG00000007709,A2BIA2,ADAMTS8,Adamts8,Yes,ADAMTS8
+Matrisome-associated,ECM Regulators,adamts8b,"ADAM metallopeptidase with thrombospondin type 1 motif, 8b",ZDB-GENE-070814-4,-,-,ADAMTS8,Adamts8,Yes,ADAMTS8
+Matrisome-associated,ECM Regulators,adamts9,"ADAM metallopeptidase with thrombospondin type 1 motif, 9",ZDB-GENE-070814-6,ENSDARG00000077778,F1R6Q4:E7F6N6:G3G3K0,ADAMTS9,Adamts9,Yes,ADAMTS9
+Matrisome-associated,ECM Regulators,adamtsl2,ADAMTS-like 2,ZDB-GENE-070705-558,ENSDARG00000074033,F1RC76:F1R0S6,ADAMTSL2,Adamtsl2,Yes,ADAMTSL2
+Matrisome-associated,ECM Regulators,adamtsl3,ADAMTS-like 3,ZDB-GENE-121030-8,ENSDARG00000027903,E7FBX1,ADAMTSL3,Adamtsl3,Yes,ADAMTSL3
+Matrisome-associated,ECM Regulators,adamtsl4,ADAMTS-like 4,ZDB-GENE-070815-2,-,-,ADAMTSL4,Adamtsl4,Yes,ADAMTSL4
+Matrisome-associated,ECM Regulators,adamtsl5,ADAMTS like 5,-,ENSDARG00000052118,E7F4N4,ADAMTSL5,Adamtsl5,Yes,ADAMTSL5
+Matrisome-associated,ECM Regulators,agt,angiotensinogen,ZDB-GENE-030131-1205,ENSDARG00000016412,Q502R9:Q8JH29,AGT,Agt,Yes,AGT
+Matrisome-associated,ECM Regulators,ambp,alpha-1-microglobulin/bikunin precursor,ZDB-GENE-040426-1608,ENSDARG00000004296,Q7SXH6:A7E2Q2,AMBP,Ambp,Yes,AMBP
+Matrisome-associated,ECM Regulators,bmp1a,bone morphogenetic protein 1a,ZDB-GENE-060818-1,ENSDARG00000028071,B3DJM4:Q2ABP1:F1REM3:Q0NXS0,BMP1,Bmp1,Yes,BMP1
+Matrisome-associated,ECM Regulators,bmp1b,bone morphogenetic protein 1b,ZDB-GENE-060818-2,ENSDARG00000028053,Q2ABP0:E9QIS8:F1QPG2,BMP1,Bmp1,Yes,BMP1
+Matrisome-associated,ECM Regulators,cd109,CD109 molecule,ZDB-GENE-120215-253,ENSDARG00000060609,I3IS91:E7FAX3,CD109,Cd109,Yes,CD109
+Matrisome-associated,ECM Regulators,cela1,zgc:92041,-,ENSDARG00000017314,-,CELA1,Cela1,Yes,CELA1
+Matrisome-associated,ECM Regulators,cpamd8,"C3 and PZP-like, alpha-2-macroglobulin domain containing 8",ZDB-GENE-050208-428,ENSDARG00000056530,A5PMH2:F1QVU6,CPAMD8,Mug2,Yes,CPAMD8
+Matrisome-associated,ECM Regulators,cpn2,"carboxypeptidase N, polypeptide 2",ZDB-GENE-120810-1,ENSDARG00000044326,-,CPN2,Cpn2,Yes,CPN2
+Matrisome-associated,ECM Regulators,cst3,cystatin C (amyloid angiopathy and cerebral hemorrhage),ZDB-GENE-030131-373,ENSDARG00000007795,B8A4C9:B8A4D0:Q45RG8,CST3,Cst3,Yes,CST3
+Matrisome-associated,ECM Regulators,cst7,cystatin F,-,ENSDARG00000101340,-,CST7,Cst7,Yes,CST7
+Matrisome-associated,ECM Regulators,ctsa,cathepsin A,ZDB-GENE-030131-537,ENSDARG00000098114,Q6PHJ3:A0A0R4IGG9:A0A0R4ITW7:A0A0R4ILY1,CTSA,Ctsa,Yes,CTSA
+Matrisome-associated,ECM Regulators,ctsba,cathepsin Ba,ZDB-GENE-040426-2650,ENSDARG00000055120,Q6PH75:E9QDX8,CTSB,Ctsb,Yes,CTSB
+Matrisome-associated,ECM Regulators,ctsbb,cathepsin Bb,ZDB-GENE-070323-1,ENSDARG00000101051,A4FUN3:A0A0R4IUN6:A0A0R4IS30,CTSB,Ctsb,Yes,CTSB
+Matrisome-associated,ECM Regulators,ctsc,cathepsin C,ZDB-GENE-030619-9,ENSDARG00000101334,A0A0R4IK18:A0A0R4IBK4:Q6P2V1,CTSC,Ctsc,Yes,CTSC
+Matrisome-associated,ECM Regulators,ctsd,cathepsin D,ZDB-GENE-010131-8,ENSDARG00000057698,Q8AWD9:F8W366:Q8JH28:Q1L9E4:Q9DD89:A0A0R4IBQ0:Q1L9E5,CTSD,Ctsd,Yes,CTSD
+Matrisome-associated,ECM Regulators,ctsf,cathepsin F,ZDB-GENE-030131-9831,ENSDARG00000063095,Q08CH0:F1RE14:B2GT35,CTSF,Ctsf,Yes,CTSF
+Matrisome-associated,ECM Regulators,ctsh,cathepsin H,ZDB-GENE-030131-3539,ENSDARG00000041108,Q6NWF2:F1R4G6,CTSH,Ctsh,Yes,CTSH
+Matrisome-associated,ECM Regulators,ctsk,cathepsin K,ZDB-GENE-001205-4,ENSDARG00000040251,F1Q8A0:Q568D6:F8QXP3:F8QXP4,CTSK,Ctsk,Yes,CTSK
+Matrisome-associated,ECM Regulators,ctsl.1,cathepsin L.1,ZDB-GENE-040718-61,ENSDARG00000003902,Q6DHT0:X1WHM9,CTSL,Ctsl,Yes,CTSL
+Matrisome-associated,ECM Regulators,ctsla,cathepsin La,ZDB-GENE-030131-106,ENSDARG00000007836,A5WVL6:Q6NYR5:A5WVL8:A5WVL7:Q8AYF3,CTSL,Ctsl,Yes,CTSL
+Matrisome-associated,ECM Regulators,ctslb,cathepsin Lb,ZDB-GENE-980526-285,ENSDARG00000039173,Q32PQ1:A7MCR7:A8E587:P79722:F1R7B3:Q32PQ1:A7MCR7:A8E587:P79722:F1R7B3,CTSL,Ctsl,Yes,CTSL
+Matrisome-associated,ECM Regulators,ctsll,"cathepsin L, like",ZDB-GENE-041010-76,ENSDARG00000011701,A2BEM8:Q5XJU5,CTSL,Ctsl,Yes,CTSL
+Matrisome-associated,ECM Regulators,ctso,cathepsin O,ZDB-GENE-080724-8,ENSDARG00000052855,E7FA09,CTSO,Ctso,Yes,CTSO
+Matrisome-associated,ECM Regulators,ctss1,"cathepsin S, ortholog 1",ZDB-GENE-040426-1583,ENSDARG00000036940,Q7SYL7:Q6NYE5:Q1L8W8,CTSS,Ctss,Yes,CTSS
+Matrisome-associated,ECM Regulators,ctss2.1,"cathepsin S, ortholog2, tandem duplicate 1",ZDB-GENE-050522-559,ENSDARG00000074656,Q502H6:Q502A6,CTSS,Ctss,Yes,CTSS
+Matrisome-associated,ECM Regulators,ctss2.2,"cathepsin S, ortholog 2, tandem duplicate 2",ZDB-GENE-050626-55,ENSDARG00000013771,Q4QRH8:A2BF64:Q566T8,CTSS,Ctss,Yes,CTSS
+Matrisome-associated,ECM Regulators,ctssl,"cathepsin S, like",ZDB-GENE-021031-6,-,-,CTSS,Ctss,Yes,CTSS
+Matrisome-associated,ECM Regulators,ctsz,cathepsin Z,ZDB-GENE-041010-139,ENSDARG00000043081,Q5XJD4:F8W3E6:F1RDQ9,CTSZ,Ctsz,Yes,CTSZ
+Matrisome-associated,ECM Regulators,egln1a,egl-9 family hypoxia-inducible factor 1a,ZDB-GENE-110408-34,ENSDARG00000038996,E7F518,EGLN1,Egln1,Yes,EGLN1
+Matrisome-associated,ECM Regulators,egln1b,egl-9 family hypoxia-inducible factor 1b,ZDB-GENE-040718-338,ENSDARG00000105156,F1Q5G1:F6P6J7:Q6DHH3,EGLN1,Egln1,Yes,EGLN1
+Matrisome-associated,ECM Regulators,egln2,egl-9 family hypoxia-inducible factor 2,ZDB-GENE-060503-757,ENSDARG00000062562,E7F8S1,EGLN2,Egln2,Yes,EGLN2
+Matrisome-associated,ECM Regulators,egln3,egl-9 family hypoxia-inducible factor 3,ZDB-GENE-040426-2541,ENSDARG00000032553,F8W5S7:Q6NY85:F8W461,EGLN3,Egln3,Yes,EGLN3
+Matrisome-associated,ECM Regulators,f10,coagulation factor X,ZDB-GENE-021206-9,ENSDARG00000088581,F1QL87:Q4V971:Q6PGW7:F1QLC3:Q8JHC8,F10,F10,Yes,F10
+Matrisome-associated,ECM Regulators,f13a1a.1,"coagulation factor XIII, A1 polypeptide a, tandem duplicate 1",ZDB-GENE-060929-1250,ENSDARG00000045453,F1QC84:Q08CK4,F13A1,F13a1,Yes,F13A1
+Matrisome-associated,ECM Regulators,f13a1a.2,"coagulation factor XIII, A1 polypeptide a, tandem duplicate 2",ZDB-GENE-120307-1,ENSDARG00000045453,-,F13A1,F13a1,Yes,F13A1
+Matrisome-associated,ECM Regulators,f13a1b,"coagulation factor XIII, A1 polypeptide b",ZDB-GENE-030131-9634,ENSDARG00000036893,F1R1R7:Q08CA3,F13A1,F13a1,Yes,F13A1
+Matrisome-associated,ECM Regulators,f13b,"coagulation factor XIII, B polypeptide",ZDB-GENE-050208-701,ENSDARG00000101353,A0A0R4ITR8:A0A0R4IUW6:A0A0R4ISX5,F13B,F13b,Yes,F13B
+Matrisome-associated,ECM Regulators,f2,coagulation factor II (thrombin),ZDB-GENE-030131-4606,ENSDARG00000036041,Q7SXH8:F1R704:A0A0R4IUX2:E7FAN5,F2,F2,Yes,F2
+Matrisome-associated,ECM Regulators,f7,coagulation factor VII,ZDB-GENE-010814-1,ENSDARG00000034862,Q8JHD0:Q90YK1:Q504H3:F1QFP3,F7,F7,Yes,F7
+Matrisome-associated,ECM Regulators,f7i,coagulation factor VIIi,ZDB-GENE-021206-10,ENSDARG00000075827,A4FUL1:Q504J5:Q8JHC9,F7,F7,Yes,F7
+Matrisome-associated,ECM Regulators,f9a,coagulation factor IXa,ZDB-GENE-030714-2,ENSDARG00000010097,E7F301:F1QPS6:F1Q9R2:Q8AYE4:Q504K1:F1Q658,F9,F9,Yes,F9
+Matrisome-associated,ECM Regulators,f9b,coagulation factor IXb,ZDB-GENE-060421-7346,ENSDARG00000029493,Q1RLV2,F9,F9,Yes,F9
+Matrisome-associated,ECM Regulators,fam20a,"family with sequence similarity 20, member A",ZDB-GENE-081022-117,ENSDARG00000079486,F1QIU3:B3DI75:A0A0R4ITT3:A0A0R4IWZ3,FAM20A,Fam20a,Yes,FAM20A
+Matrisome-associated,ECM Regulators,fam20b,"family with sequence similarity 20, member B (H. sapiens)",ZDB-GENE-040724-125,ENSDARG00000008573,R4GE25:R4GEK4:Q5RH51:R4GDT1:R4GEQ5,FAM20B,Fam20b,Yes,FAM20B
+Matrisome-associated,ECM Regulators,fam20ca,"family with sequence similarity 20, member Ca",ZDB-GENE-130530-750,ENSDARG00000074317,-,FAM20C,Fam20c,Yes,FAM20C
+Matrisome-associated,ECM Regulators,fam20cb,"family with sequence similarity 20, member Cb",ZDB-GENE-050301-4,ENSDARG00000090338,E7FAB7,FAM20C,Fam20c,Yes,FAM20C
+Matrisome-associated,ECM Regulators,habp2,hyaluronan binding protein 2,ZDB-GENE-030131-4721,ENSDARG00000057498,F1QW52:A8WFR8:Q08CS9:A3KP18:E7FC55:Q502D2:Q1JQ29,HABP2,Habp2,Yes,HABP2
+Matrisome-associated,ECM Regulators,he1a,hatching enzyme 1a,ZDB-GENE-021211-3,ENSDARG00000023656,E7EXQ9:F1QCK9:Q4G0A2,ASTL,Astl,Yes,ASTL
+Matrisome-associated,ECM Regulators,he1b,hatching enzyme 1b,ZDB-GENE-030131-2100,ENSDARG00000019122,Q75NR9:Q1LW01:E7FBC5,ASTL,Astl,Yes,ASTL
+Matrisome-associated,ECM Regulators,he2,hatching enzyme 2,ZDB-GENE-040518-1,ENSDARG00000022670,A4VCG4:Q1LW02:Q1LW03:Q75NS0,ASTL,Astl,Yes,ASTL
+Matrisome-associated,ECM Regulators,hpse,heparanase,ZDB-GENE-041111-200,ENSDARG00000063634,Q1LVP9:A4QNY9,HPSE,Hpse,Yes,HPSE
+Matrisome-associated,ECM Regulators,hpse2,heparanase 2,ZDB-GENE-090313-378,ENSDARG00000078163,F1QKL7:F1QMQ5,HPSE2,Hpse2,Yes,HPSE2
+Matrisome-associated,ECM Regulators,htra1a,HtrA serine peptidase 1a,ZDB-GENE-040704-64,ENSDARG00000032831,B2GT42:Q6GMI0,HTRA1,Htra1,Yes,HTRA1
+Matrisome-associated,ECM Regulators,htra1b,HtrA serine peptidase 1b,ZDB-GENE-080219-7,ENSDARG00000014907,A9JRB3,HTRA1,Htra1,Yes,HTRA1
+Matrisome-associated,ECM Regulators,htra3a,HtrA serine peptidase 3a,ZDB-GENE-040801-245,ENSDARG00000052895,Q6DBR1:F6PEM1,HTRA3,Htra3,Yes,HTRA3
+Matrisome-associated,ECM Regulators,htra3b,HtrA serine peptidase 3b,ZDB-GENE-110602-1,-,-,HTRA3,Htra3,Yes,HTRA3
+Matrisome-associated,ECM Regulators,htra4,HtrA serine peptidase 4,ZDB-GENE-131120-192,ENSDARG00000005943,A0A0R4IJC2:A0A0A0MPH1,HTRA4,Htra4,Yes,HTRA4
+Matrisome-associated,ECM Regulators,hyal1,hyaluronoglucosaminidase 1,ZDB-GENE-060312-42,ENSDARG00000059916,Q29RC1:F1Q6V7,HYAL1,Hyal1,Yes,HYAL1
+Matrisome-associated,ECM Regulators,hyal2a,hyaluronoglucosaminidase 2a,ZDB-GENE-131121-41,ENSDARG00000059931,E7F701,HYAL2,Hyal2,Yes,HYAL2
+Matrisome-associated,ECM Regulators,hyal2b,hyaluronoglucosaminidase 2b,ZDB-GENE-050208-414,ENSDARG00000062997,Q1LXC3,HYAL2,Hyal2,Yes,HYAL2
+Matrisome-associated,ECM Regulators,hyal3,hyaluronoglucosaminidase 3,ZDB-GENE-081104-366,ENSDARG00000036818,A9C3S9,HYAL3,Hyal3,Yes,HYAL3
+Matrisome-associated,ECM Regulators,hyal4,hyaluronoglucosaminidase 4,ZDB-GENE-061220-9,ENSDARG00000051823,E7FD65:X1WD16,HYAL4,Hyal4,Yes,HYAL4
+Matrisome-associated,ECM Regulators,hyal6,hyaluronoglucosaminidase 6,ZDB-GENE-070112-2372,ENSDARG00000038166,A1L235:F1QNM5:K7DYH5,-,Hyal6,Yes,-
+Matrisome-associated,ECM Regulators,itih1,inter-alpha-trypsin inhibitor heavy chain 1,ZDB-GENE-130530-650,ENSDARG00000055053,A0A0R4IL78:E7FCH6,ITIH1,Itih1,Yes,ITIH1
+Matrisome-associated,ECM Regulators,itih2,inter-alpha-trypsin inhibitor heavy chain 2,ZDB-GENE-040426-1942,ENSDARG00000045516,Q5RH29:A0A0R4IQL9:Q7ZVB9:Q5RH28,ITIH2,Itih2,Yes,ITIH2
+Matrisome-associated,ECM Regulators,itih3a,inter-alpha-trypsin inhibitor heavy chain 3a,ZDB-GENE-050522-262,ENSDARG00000055036,F1QTF9:E9QJD4:Q503P4,ITIH3,Itih3,Yes,ITIH3
+Matrisome-associated,ECM Regulators,itih3b,inter-alpha-trypsin inhibitor heavy chain 3b,ZDB-GENE-040426-2716,ENSDARG00000102722,A0A0R4INP2:A0A0R4IU44:Q498Q0:A0A0R4IX10:Q4QRG1,ITIH3,Itih3,Yes,ITIH3
+Matrisome-associated,ECM Regulators,itih5,"inter-alpha-trypsin inhibitor heavy chain family, member 5",ZDB-GENE-041210-193,ENSDARG00000045517,Q5RHF3:F1REM9,ITIH5,Itih5,Yes,ITIH5
+Matrisome-associated,ECM Regulators,itih6,"inter-alpha-trypsin inhibitor heavy chain family, member 6",ZDB-GENE-050603-1,ENSDARG00000056037,F1Q5C3:A2AR69,ITIH6,Itih5l-ps,Yes,ITIH6
+Matrisome-associated,ECM Regulators,kazald3,Kazal-type serine peptidase inhibitor domain 3,ZDB-GENE-050208-155,ENSDARG00000053509,B0V1B1,KAZALD1,Kazald1,Yes,KAZALD1
+Matrisome-associated,ECM Regulators,kng1,kininogen 1,ZDB-GENE-041010-56,ENSDARG00000022372,Q1LYJ7:Q5XJ76:E9QFM6:E9QEH2,KNG1,Kng1|Kng2,Yes,KNG1
+Matrisome-associated,ECM Regulators,ky,kyphoscoliosis peptidase,ZDB-GENE-090313-64,ENSDARG00000074036,F1QDV7,KY,Ky,Yes,KY
+Matrisome-associated,ECM Regulators,loxa,lysyl oxidase a,ZDB-GENE-040426-2398,ENSDARG00000003259,F1QXL0:Q6NYT8:A9JTE8:Q2PS18,LOX,Lox,Yes,LOX
+Matrisome-associated,ECM Regulators,loxb,lysyl oxidase b,ZDB-GENE-150820-1,-,-,LOX,Lox,Yes,LOX
+Matrisome-associated,ECM Regulators,loxl1,lysyl oxidase-like 1,ZDB-GENE-060503-693,ENSDARG00000054451,F1QXN1:Q2PS19:A6MH29:F1QD91,LOXL1,Loxl1,Yes,LOXL1
+Matrisome-associated,ECM Regulators,loxl2a,lysyl oxidase-like 2a,ZDB-GENE-070818-1,ENSDARG00000044010,A0A0H2UKE3:F1QQC3,LOXL2,Loxl2,Yes,LOXL2
+Matrisome-associated,ECM Regulators,loxl2b,lysyl oxidase-like 2b,ZDB-GENE-050208-29,ENSDARG00000044074,A1L1V4,LOXL2,Loxl2,Yes,LOXL2
+Matrisome-associated,ECM Regulators,loxl3a,lysyl oxidase-like 3a,ZDB-GENE-070818-2,ENSDARG00000076306,A6MH32:X1WBP7:F1RD85,LOXL3,Loxl3,Yes,LOXL3
+Matrisome-associated,ECM Regulators,loxl3b,lysyl oxidase-like 3b,ZDB-GENE-030131-8210,ENSDARG00000039563,B8A5R8:A6MH33:B8A5R6:Q5CZM0:A4QP70:B8A4W9,LOXL3,Loxl3,Yes,LOXL3
+Matrisome-associated,ECM Regulators,loxl4,lysyl oxidase-like 4,ZDB-GENE-080722-19,ENSDARG00000025089,F1QJK9:B8JL32,LOXL4,Loxl4,Yes,LOXL4
+Matrisome-associated,ECM Regulators,masp1,mannan-binding lectin serine peptidase 1,ZDB-GENE-110421-4,ENSDARG00000068726,X1WBS4:A0A0K2SV02:E7FDS3:A0A0K2SUZ0:X1WH68,MASP1,Masp1,Yes,MASP1
+Matrisome-associated,ECM Regulators,masp2,mannan-binding lectin serine peptidase 2,ZDB-GENE-060130-154,ENSDARG00000007988,E9QGP2:E9QCA1,MASP2,Masp2,Yes,MASP2
+Matrisome-associated,ECM Regulators,mep1a.1,"meprin A, alpha (PABA peptide hydrolase), tandem duplicate 1",ZDB-GENE-041001-209,ENSDARG00000029747,Q5RHM1:Q5RKM1,MEP1A,Mep1a,Yes,MEP1A
+Matrisome-associated,ECM Regulators,mep1a.2,"meprin A, alpha (PABA peptide hydrolase), tandem duplicate 2",ZDB-GENE-041001-208,ENSDARG00000008029,B3DKP9:F1QRQ5,MEP1A,Mep1a,Yes,MEP1A
+Matrisome-associated,ECM Regulators,mep1b,"meprin A, beta",ZDB-GENE-041014-209,ENSDARG00000037533,B8JKC0:Q08CC4,MEP1B,Mep1b,Yes,MEP1B
+Matrisome-associated,ECM Regulators,mmp11a,matrix metallopeptidase 11a,ZDB-GENE-070817-3,ENSDARG00000026325,E7FCZ5,MMP11,Mmp11,Yes,MMP11
+Matrisome-associated,ECM Regulators,mmp11b,matrix metallopeptidase 11b,ZDB-GENE-070817-2,ENSDARG00000016718,F1RA45,MMP11,Mmp11,Yes,MMP11
+Matrisome-associated,ECM Regulators,mmp13a,matrix metallopeptidase 13a,ZDB-GENE-031202-2,ENSDARG00000012395,B0JZI6:Q6P0J8:Q71G59:Q7ZWD0:F1QW84:A0A0R4IPY9:F1R3P5:F1QCX8,MMP13,Mmp13,Yes,MMP13
+Matrisome-associated,ECM Regulators,mmp13b,matrix metallopeptidase 13b,ZDB-GENE-030131-6152,ENSDARG00000100794,A0A0R4ICX2:A0A0R4IDZ6,MMP13,Mmp13,Yes,MMP13
+Matrisome-associated,ECM Regulators,mmp14a,matrix metallopeptidase 14a (membrane-inserted),ZDB-GENE-030901-1,ENSDARG00000002235,F1Q899:Q7T2J2,MMP14,Mmp14,Yes,MMP14
+Matrisome-associated,ECM Regulators,mmp14b,matrix metallopeptidase 14b (membrane-inserted),ZDB-GENE-030901-2,ENSDARG00000008388,B0R0I1:Q7T2J1:B3DFR2,MMP14,Mmp14,Yes,MMP14
+Matrisome-associated,ECM Regulators,mmp15a,matrix metallopeptidase 15a,ZDB-GENE-070817-4,ENSDARG00000051962,E7FFQ4,MMP15,Mmp15,Yes,MMP15
+Matrisome-associated,ECM Regulators,mmp15b,matrix metallopeptidase 15b,ZDB-GENE-070817-6,ENSDARG00000013072,-,MMP15,Mmp15,Yes,MMP15
+Matrisome-associated,ECM Regulators,mmp16a,matrix metallopeptidase 16a (membrane-inserted),ZDB-GENE-070820-1,-,-,MMP16,Mmp16,Yes,MMP16
+Matrisome-associated,ECM Regulators,mmp16b,matrix metallopeptidase 16b (membrane-inserted),ZDB-GENE-061009-22,ENSDARG00000058876,F1R8N4:F1Q608,MMP16,Mmp16,Yes,MMP16
+Matrisome-associated,ECM Regulators,mmp17a,matrix metallopeptidase 17a,ZDB-GENE-070820-2,ENSDARG00000078915,I3ISV9,MMP17,Mmp17,Yes,MMP17
+Matrisome-associated,ECM Regulators,mmp17b,matrix metallopeptidase 17b,ZDB-GENE-081107-17,ENSDARG00000102956,A0A0R4IVT7:A0A0R4IB00,MMP17,Mmp17,Yes,MMP17
+Matrisome-associated,ECM Regulators,mmp19,matrix metallopeptidase 19,ZDB-GENE-100308-3,ENSDARG00000091557,F1QBU4,MMP19,Mmp19,Yes,MMP19
+Matrisome-associated,ECM Regulators,mmp2,matrix metallopeptidase 2,ZDB-GENE-030131-9123,ENSDARG00000017676,Q6DG10:Q7SZM5,MMP2,Mmp2,Yes,MMP2
+Matrisome-associated,ECM Regulators,mmp20a,matrix metallopeptidase 20a (enamelysin),ZDB-GENE-100603-2,ENSDARG00000089887,E7FC41:X1WEM8,MMP20,Mmp20,Yes,MMP20
+Matrisome-associated,ECM Regulators,mmp20b,matrix metallopeptidase 20b (enamelysin),ZDB-GENE-100603-3,ENSDARG00000055479,E7F3C3:A0A0R4IA68,MMP20,Mmp20,Yes,MMP20
+Matrisome-associated,ECM Regulators,mmp21,matrix metallopeptidase 21,ZDB-GENE-100226-2,-,A0A0N9E2K8,MMP21,Mmp21,Yes,MMP21
+Matrisome-associated,ECM Regulators,mmp23ba,matrix metallopeptidase 23ba,ZDB-GENE-030131-9548,-,-,MMP23B,Mmp23,Yes,MMP23B
+Matrisome-associated,ECM Regulators,mmp23bb,matrix metallopeptidase 23bb,ZDB-GENE-050417-448,ENSDARG00000009825,Q567Z5:F1R0R0,MMP23B,Mmp23,Yes,MMP23B
+Matrisome-associated,ECM Regulators,mmp24,matrix metallopeptidase 24,ZDB-GENE-040724-262,ENSDARG00000018896,E9QIX9,MMP24,Mmp24,Yes,MMP24
+Matrisome-associated,ECM Regulators,mmp25a,matrix metallopeptidase 25a,ZDB-GENE-070820-22,ENSDARG00000077290,I3IT28:F1R9Q5,MMP25,Mmp25,Yes,MMP25
+Matrisome-associated,ECM Regulators,mmp25b,matrix metallopeptidase 25b,ZDB-GENE-100308-4,ENSDARG00000010556,-,MMP25,Mmp25,Yes,MMP25
+Matrisome-associated,ECM Regulators,mmp28,matrix metallopeptidase 28,ZDB-GENE-100226-1,ENSDARG00000059029,E7F9I3:A0A0J9YJ14,MMP28,Mmp28,Yes,MMP28
+Matrisome-associated,ECM Regulators,mmp7,matrix metallopeptidase 7,ZDB-GENE-070817-1,-,-,MMP7,Mmp7,Yes,MMP7
+Matrisome-associated,ECM Regulators,mmp9,matrix metallopeptidase 9,ZDB-GENE-040426-2132,ENSDARG00000042816,F1QC76:Q7T317:F8QXP1,MMP9,Mmp9,Yes,MMP9
+Matrisome-associated,ECM Regulators,ngly1,N-glycanase 1,ZDB-GENE-050522-535,ENSDARG00000003205,Q503I8:A3KQW7:B2GSS9,NGLY1,Ngly1,Yes,NGLY1
+Matrisome-associated,ECM Regulators,nots,nothepsin,ZDB-GENE-010620-1,ENSDARG00000099824,Q9DDE2:Q5PR42:B5DDQ0,CTSE,Ctse,Yes,CTSE
+Matrisome-associated,ECM Regulators,ogfod1,2-oxoglutarate and iron-dependent oxygenase domain containing 1,ZDB-GENE-030131-3294,ENSDARG00000036061,F1QTC6:Q7SXF7,OGFOD1,Ogfod1,Yes,OGFOD1
+Matrisome-associated,ECM Regulators,ogfod2,2-oxoglutarate and iron-dependent oxygenase domain containing 2,ZDB-GENE-061215-54,ENSDARG00000056211,A3KGZ2,OGFOD2,Ogfod2,Yes,OGFOD2
+Matrisome-associated,ECM Regulators,p4ha1a,"prolyl 4-hydroxylase, alpha polypeptide I a",ZDB-GENE-040724-91,ENSDARG00000033537,F1QCL7:A0A0R4IQ20:E7FEB4,P4HA1,P4ha1,Yes,P4HA1
+Matrisome-associated,ECM Regulators,p4ha1b,"prolyl 4-hydroxylase, alpha polypeptide I b",ZDB-GENE-030131-4089,ENSDARG00000071082,A8E582:Q7ZVE9,P4HA1,P4ha1,Yes,P4HA1
+Matrisome-associated,ECM Regulators,p4ha2,"procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide 2",ZDB-GENE-030827-1,ENSDARG00000010085,Q7T2W8:A0A0R4IKZ3:Q6DG45:F1QCU6,P4HA2,P4ha2,Yes,P4HA2
+Matrisome-associated,ECM Regulators,p4ha3,"prolyl 4-hydroxylase, alpha polypeptide III",ZDB-GENE-041010-4,ENSDARG00000103692,A0A0R4IU86:A0A0R4IXQ0,P4HA3,P4ha3,Yes,P4HA3
+Matrisome-associated,ECM Regulators,p4htm,"prolyl 4-hydroxylase, transmembrane (endoplasmic reticulum)",ZDB-GENE-110131-7,ENSDARG00000075209,X1WG80,P4HTM,P4htm,Yes,P4HTM
+Matrisome-associated,ECM Regulators,pamr1,peptidase domain containing associated with muscle regeneration 1,ZDB-GENE-100422-12,ENSDARG00000093480,X1WC56:F1QE83,PAMR1,Pamr1,Yes,PAMR1
+Matrisome-associated,ECM Regulators,pappa2,pappalysin 2,ZDB-GENE-070912-525,ENSDARG00000076020,E9QCK7,PAPPA2,Pappa2,Yes,PAPPA2
+Matrisome-associated,ECM Regulators,pappaa,"pregnancy-associated plasma protein A, pappalysin 1a",ZDB-GENE-121113-1,ENSDARG00000101090,M1XYM1:A0A0G2KQH4:M1XYM1:A0A0G2KQH4,PAPPA,Pappa,Yes,PAPPA
+Matrisome-associated,ECM Regulators,pappab,"pregnancy-associated plasma protein A, pappalysin 1b",ZDB-GENE-060526-71,ENSDARG00000059858,F1QEV4:F1Q5Q4:M1WXG8:B0R0F2,PAPPA,Pappa,Yes,PAPPA
+Matrisome-associated,ECM Regulators,pcsk5a,proprotein convertase subtilisin/kexin type 5a,ZDB-GENE-060531-130,ENSDARG00000067537,F1R175:Q069L1:A2BHH6,PCSK5,Pcsk5,Yes,PCSK5
+Matrisome-associated,ECM Regulators,pcsk5b,proprotein convertase subtilisin/kexin type 5b,ZDB-GENE-070822-7,ENSDARG00000060518,Q069L0:F1R027:F1QM74:B3DFS2:A7E290:A0A0R4IIY3,PCSK5,Pcsk5,Yes,PCSK5
+Matrisome-associated,ECM Regulators,pcsk6,proprotein convertase subtilisin/kexin type 6,ZDB-GENE-100908-1,ENSDARG00000104574,A0A0G2KZR4:A0A140LH56:A0A140LG33:A0A140LFT5,PCSK6,Pcsk6,Yes,PCSK6
+Matrisome-associated,ECM Regulators,plat,"plasminogen activator, tissue",ZDB-GENE-081104-181,ENSDARG00000062707,F1QB78,PLAT,Plat,Yes,PLAT
+Matrisome-associated,ECM Regulators,plaua,"plasminogen activator, urokinase a",ZDB-GENE-090313-278,ENSDARG00000075265,D3GE88:F1RCV9,PLAU,Plau,Yes,PLAU
+Matrisome-associated,ECM Regulators,plaub,"plasminogen activator, urokinase b",ZDB-GENE-030619-15,ENSDARG00000039145,G8CXX6:Q1RLR1:A0A0R4INJ0,PLAU,Plau,Yes,PLAU
+Matrisome-associated,ECM Regulators,plg,plasminogen,ZDB-GENE-030131-1411,ENSDARG00000023111,Q6PBA6:E9QGF2:F1Q890:Q8AVB0,PLG,Plg,Yes,PLG
+Matrisome-associated,ECM Regulators,plod1a,"procollagen-lysine, 2-oxoglutarate 5-dioxygenase 1a",ZDB-GENE-030131-3165,ENSDARG00000059746,A8WIN7:A0JMD1:A0A0R4IM83:E9QCW2,PLOD1,Plod1,Yes,PLOD1
+Matrisome-associated,ECM Regulators,plod1b,"procollagen-lysine, 2-oxoglutarate 5-dioxygenase 1b",ZDB-GENE-030131-6875,-,-,PLOD1,Plod1,Yes,PLOD1
+Matrisome-associated,ECM Regulators,plod2,"procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2",ZDB-GENE-070326-1,ENSDARG00000011821,Q5U3N4:B3DGT2:A4U7F9:A4U7F8,PLOD2,Plod2,Yes,PLOD2
+Matrisome-associated,ECM Regulators,plod3,"procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3",ZDB-GENE-021031-4,ENSDARG00000076317,Q1L618,PLOD3,Plod3,Yes,PLOD3
+Matrisome-associated,ECM Regulators,prss12,"protease, serine, 12 (neurotrypsin, motopsin)",ZDB-GENE-090313-45,ENSDARG00000061830,F1QM24:F1QC16,PRSS12,Prss12,Yes,PRSS12
+Matrisome-associated,ECM Regulators,pzp,pregnancy-zone protein,ZDB-GENE-030131-3705,-,-,PZP,Pzp,Yes,PZP
+Matrisome-associated,ECM Regulators,serpina1,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1",ZDB-GENE-030131-1421,ENSDARG00000090286,Q5SPJ4:Q502P5:Q6P5I9:X1WF94,SERPINA1,Serpina1a|Serpina1b|Serpina1c|Serpina1d|Serpina1e|Serpina1f,Yes,SERPINA1
+Matrisome-associated,ECM Regulators,serpina10a,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 10a",ZDB-GENE-041014-246,ENSDARG00000005924,Q5RIH8:A4IG87,SERPINA10,Serpina10,Yes,SERPINA10
+Matrisome-associated,ECM Regulators,serpina10b,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 10b",ZDB-GENE-100716-5,-,-,SERPINA10,Serpina10,Yes,SERPINA10
+Matrisome-associated,ECM Regulators,serpina1l,"serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1, like",ZDB-GENE-040721-3,ENSDARG00000090850,Q24JW6:Q5SPJ1,SERPINA1,Serpina1a|Serpina1b|Serpina1c|Serpina1d|Serpina1e|Serpina1f,Yes,SERPINA1
+Matrisome-associated,ECM Regulators,serpina7,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7",ZDB-GENE-041010-47,ENSDARG00000087143,F8W5C3:A8E5C2:Q5XJ64:A8E5C1,SERPINA7,Serpina7,Yes,SERPINA7
+Matrisome-associated,ECM Regulators,serpinb1,"serpin peptidase inhibitor, clade B (ovalbumin), member 1",ZDB-GENE-040718-400,ENSDARG00000055416,Q6DG30,SERPINB1,Serpinb1a|Serpinb1b|Serpinb1c,Yes,SERPINB1
+Matrisome-associated,ECM Regulators,serpinb1l2,"serpin peptidase inhibitor, clade B (ovalbumin), member 1, like 2",ZDB-GENE-041001-117,ENSDARG00000070396,Q5RIK7,SERPINB1,Serpinb1a|Serpinb1b|Serpinb1c,Yes,SERPINB1
+Matrisome-associated,ECM Regulators,serpinb5l,"serpin peptidase inhibitor, clade B (ovalbumin), member 5, like",ZDB-GENE-040426-2047,-,Q6NY48,SERPINB5,Serpinb5,Yes,SERPINB5
+Matrisome-associated,ECM Regulators,serpinc1,"serpin peptidase inhibitor, clade C (antithrombin), member 1",ZDB-GENE-030131-264,ENSDARG00000042684,Q8AYE3,SERPINC1,Serpinc1,Yes,SERPINC1
+Matrisome-associated,ECM Regulators,serpind1,"serpin peptidase inhibitor, clade D (heparin cofactor), member 1",ZDB-GENE-030711-2,ENSDARG00000021208,B0V3R7:Q8AYE2:A9JTB6:A7YQ79,SERPIND1,Serpind1,Yes,SERPIND1
+Matrisome-associated,ECM Regulators,serpine1,"serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1",ZDB-GENE-070912-60,ENSDARG00000056795,A8WGQ0:A9ZPD4:F1QRB8,SERPINE1,Serpine1,Yes,SERPINE1
+Matrisome-associated,ECM Regulators,serpine2,"serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 2",ZDB-GENE-040426-848,ENSDARG00000029353,Q7ZVL5,SERPINE2,Serpine2,Yes,SERPINE2
+Matrisome-associated,ECM Regulators,serpine3,"serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 3",ZDB-GENE-050309-223,ENSDARG00000057108,B0UYL8,SERPINE3,Serpine3,Yes,SERPINE3
+Matrisome-associated,ECM Regulators,serpinf1,"serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 1",ZDB-GENE-040912-2,ENSDARG00000069048,Q66I20,SERPINF1,Serpinf1,Yes,SERPINF1
+Matrisome-associated,ECM Regulators,serpinf2a,"serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 2a",ZDB-GENE-060822-1,ENSDARG00000076448,F6NQ58:E7F3Z2,SERPINF2,Serpinf2,Yes,SERPINF2
+Matrisome-associated,ECM Regulators,serpinf2b,"serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 2b",ZDB-GENE-061215-114,ENSDARG00000061383,R4GET4:A1A5Y8:F1RAP6,SERPINF2,Serpinf2,Yes,SERPINF2
+Matrisome-associated,ECM Regulators,serping1,"serpin peptidase inhibitor, clade G (C1 inhibitor), member 1",ZDB-GENE-030131-1262,ENSDARG00000058053,B0V2R7,SERPING1,Serping1,Yes,SERPING1
+Matrisome-associated,ECM Regulators,serpinh1a,"serpin peptidase inhibitor, clade H (heat shock protein 47), member 1a",ZDB-GENE-080219-21,ENSDARG00000075954,A8WFU6,SERPINH1,Serpinh1,Yes,SERPINH1
+Matrisome-associated,ECM Regulators,serpinh1b,"serpin peptidase inhibitor, clade H (heat shock protein 47), member 1b",ZDB-GENE-990415-93,ENSDARG00000019949,Q90420:F1QQ04:F1R7F7:E9QEB4:Q6IQV2:A0A0R4IE05,SERPINH1,Serpinh1,Yes,SERPINH1
+Matrisome-associated,ECM Regulators,serpini1,"serpin peptidase inhibitor, clade I (neuroserpin), member 1",ZDB-GENE-060503-390,ENSDARG00000034168,B7TWP9:B3DJI9,SERPINI1,Serpini1,Yes,SERPINI1
+Matrisome-associated,ECM Regulators,spam1,sperm adhesion molecule 1,ZDB-GENE-050506-63,ENSDARG00000004199,E7F437:A1L264:A7MCM8,SPAM1,Hyal5|Spam1,Yes,SPAM1
+Matrisome-associated,ECM Regulators,st14a,suppression of tumorigenicity 14 (colon carcinoma) a,ZDB-GENE-030131-6496,ENSDARG00000061173,A3KP13:A5PMX8:A5PMX9:Q1RLP8:F1QJS6:A5PMY0:A1A5H5,ST14,St14,Yes,ST14
+Matrisome-associated,ECM Regulators,st14b,suppression of tumorigenicity 14 (colon carcinoma) b,ZDB-GENE-061103-613,ENSDARG00000044655,F1QNJ6:E9QD17:E7F4Q8:A0JMD7,ST14,St14,Yes,ST14
+Matrisome-associated,ECM Regulators,sulf1,sulfatase 1,ZDB-GENE-030131-9242,ENSDARG00000038428,Q6EF99:Q6EFA1:F1R7B9:Q6EFA0,SULF1,Sulf1,Yes,SULF1
+Matrisome-associated,ECM Regulators,sulf2a,sulfatase 2a,ZDB-GENE-040426-759,ENSDARG00000018423,Q7ZVU8:A5WUS0:A5WUS1:A5WUS2,SULF2,Sulf2,Yes,SULF2
+Matrisome-associated,ECM Regulators,sulf2b,sulfatase 2b,ZDB-GENE-030131-775,ENSDARG00000013838,F1R4H9:E9QHA8:Q6EF98:Q6EF97:F1Q9W5:F1QEE9,SULF2,Sulf2,Yes,SULF2
+Matrisome-associated,ECM Regulators,tgm1,"transglutaminase 1, K polypeptide",ZDB-GENE-030131-9032,ENSDARG00000017799,F8W5T1,TGM1,Tgm1,Yes,TGM1
+Matrisome-associated,ECM Regulators,tgm1l1,transglutaminase 1 like 1,ZDB-GENE-060503-139,ENSDARG00000102106,A0A0R4IN46,TGM1,Tgm1,Yes,TGM1
+Matrisome-associated,ECM Regulators,tgm1l2,transglutaminase 1 like 2,ZDB-GENE-110408-37,ENSDARG00000101595,A0A0R4IKS1:A0A0R4IB79,TGM1,Tgm1,Yes,TGM1
+Matrisome-associated,ECM Regulators,tgm1l4,transglutaminase 1 like 4,ZDB-GENE-050913-29,ENSDARG00000101407,A0A0R4INB1:Q4V9H9,TGM1,Tgm1,Yes,TGM1
+Matrisome-associated,ECM Regulators,tgm2a,"transglutaminase 2, C polypeptide A",ZDB-GENE-040912-78,ENSDARG00000070157,F1R1A8:Q66L63,TGM2,Tgm2,Yes,TGM2
+Matrisome-associated,ECM Regulators,tgm2b,transglutaminase 2b,ZDB-GENE-030131-2576,ENSDARG00000074094,Q9I9J8:Q1ECX3:F8W327,TGM2,Tgm2,Yes,TGM2
+Matrisome-associated,ECM Regulators,tgm5l,"transglutaminase 5, like",ZDB-GENE-110411-176,ENSDARG00000098837,A0A0R4IGK8:A9JR91:A0A0R4IBE4,TGM5,Tgm5,Yes,TGM5
+Matrisome-associated,ECM Regulators,timp2a,TIMP metallopeptidase inhibitor 2a,ZDB-GENE-030612-1,ENSDARG00000061226,Q7SZM6:Q1MTE8:Q1RLX2,TIMP2,Timp2,Yes,TIMP2
+Matrisome-associated,ECM Regulators,timp2b,TIMP metallopeptidase inhibitor 2b,ZDB-GENE-040426-2655,ENSDARG00000075261,F6NH88:Q6NUX9:Q6PHJ0,TIMP2,Timp2,Yes,TIMP2
+Matrisome-associated,ECM Regulators,timp3,TIMP metallopeptidase inhibitor 3,ZDB-GENE-070824-3,ENSDARG00000101649,A0A0G2L3I3,TIMP3,Timp3,Yes,TIMP3
+Matrisome-associated,ECM Regulators,timp4,TIMP metallopeptidase inhibitor 4,ZDB-GENE-121116-3,-,A0A0G2L3I3,TIMP4,Timp4,Yes,TIMP4
+Matrisome-associated,ECM Regulators,timp4a,TIMP metallopeptidase inhibitor 4a,ZDB-GENE-070824-1,ENSDARG00000100795,A0A0R4IT47,TIMP4,Timp4,Yes,TIMP4
+Matrisome-associated,ECM Regulators,timp4b,TIMP metallopeptidase inhibitor 4b,ZDB-GENE-100603-1,-,W4XZJ5,TIMP4,Timp4,Yes,TIMP4
+Matrisome-associated,ECM Regulators,tll1,tolloid-like 1,ZDB-GENE-041020-1,ENSDARG00000037429,O57460:B3DJN6,TLL1,Tll1,Yes,TLL1
+Matrisome-associated,ECM Regulators,tmprss15,"transmembrane protease, serine 15",ZDB-GENE-091204-83,ENSDARG00000079393,F1RER3:E9QBX0,TMPRSS15,Tmprss15,Yes,TMPRSS15
+Matrisome-associated,ECM Regulators,try,trypsin,ZDB-GENE-010131-7,ENSDARG00000042993,Q8AV83:Q9DDE1:Q561Z7:A0A0R4IE72,PRSS1,Gm10334|Gm5409|Gm5771|Prss1|Prss2|Prss3|Try10|Try4|Try5,Yes,PRSS1
+Matrisome-associated,Secreted Factors,amh,anti-Mullerian hormone,ZDB-GENE-050706-192,ENSDARG00000014357,Q6B6Q2:Q50D78:A8E7B8,AMH,Amh,Yes,AMH
+Matrisome-associated,Secreted Factors,angpt1,angiopoietin 1,ZDB-GENE-010817-1,ENSDARG00000030364,Q90Z19:Q1MT43:B3DJK2,ANGPT1,Angpt1,Yes,ANGPT1
+Matrisome-associated,Secreted Factors,angpt2a,angiopoietin 2a,ZDB-GENE-121101-1,ENSDARG00000014946,A0A0R4IXV0:F1QCW2:I6Z0F9:A0A0R4IMG6,ANGPT2,Angpt2,Yes,ANGPT2
+Matrisome-associated,Secreted Factors,angpt2b,angiopoietin 2b,ZDB-GENE-010817-2,ENSDARG00000053906,Q90Z18:Q1LWR7,ANGPT2,Angpt2,Yes,ANGPT2
+Matrisome-associated,Secreted Factors,angpt4,angiopoietin 4,ZDB-GENE-110104-1,ENSDARG00000076787,X1WC45,ANGPT4,Angpt4,Yes,ANGPT4
+Matrisome-associated,Secreted Factors,angptl1a,angiopoietin-like 1a,ZDB-GENE-040724-269,ENSDARG00000012071,F1QRN9:Q5RH53:Q5KQU0:A7MBQ4,ANGPTL1,Angptl1,Yes,ANGPTL1
+Matrisome-associated,Secreted Factors,angptl1b,angiopoietin-like 1b,ZDB-GENE-030131-6243,ENSDARG00000100159,Q7SXV7,ANGPTL1,Angptl1,Yes,ANGPTL1
+Matrisome-associated,Secreted Factors,angptl2a,angiopoietin-like 2a,ZDB-GENE-080721-15,ENSDARG00000024030,Q4LES0,ANGPTL2,Angptl2,Yes,ANGPTL2
+Matrisome-associated,Secreted Factors,angptl2b,angiopoietin-like 2b,ZDB-GENE-050624-1,ENSDARG00000068369,B0UXH5:Q5KQT9,ANGPTL2,Angptl2,Yes,ANGPTL2
+Matrisome-associated,Secreted Factors,angptl3,angiopoietin-like 3,ZDB-GENE-010817-3,ENSDARG00000044365,F1QYL5:B3DID4:E7FBS1:F1QKD1:Q90Z17:A0A0R4IKW9,ANGPTL3,Angptl3,Yes,ANGPTL3
+Matrisome-associated,Secreted Factors,angptl4,angiopoietin-like 4,ZDB-GENE-041111-222,ENSDARG00000035859,Q5BLI5:F1QVU9,ANGPTL4,Angptl4,Yes,ANGPTL4
+Matrisome-associated,Secreted Factors,angptl5,angiopoietin-like 5,ZDB-GENE-030131-5054,ENSDARG00000056630,I3ISY7:Q6ZM91:F1QUC4,ANGPTL5,-,Yes,ANGPTL5
+Matrisome-associated,Secreted Factors,angptl6,angiopoietin-like 6,ZDB-GENE-030131-9735,ENSDARG00000020265,F1R2V2:Q5KQT8,ANGPTL6,Angptl6,Yes,ANGPTL6
+Matrisome-associated,Secreted Factors,angptl7,angiopoietin-like 7,ZDB-GENE-041010-175,ENSDARG00000027582,A0A0R4IFD7:Q5XJQ0:B0UX68,ANGPTL7,Angptl7,Yes,ANGPTL7
+Matrisome-associated,Secreted Factors,areg,amphiregulin,ZDB-GENE-141216-239,-,-,AREG,Areg,Yes,AREG
+Matrisome-associated,Secreted Factors,artna,artemin a,ZDB-GENE-120215-193,ENSDARG00000096252,I3ITH7,ARTN,Artn,Yes,ARTN
+Matrisome-associated,Secreted Factors,artnb,artemin b,ZDB-GENE-070705-129,ENSDARG00000093714,A5PMA6,ARTN,Artn,Yes,ARTN
+Matrisome-associated,Secreted Factors,bdnf,brain-derived neurotrophic factor,ZDB-GENE-000412-1,ENSDARG00000018817,E9QIT5:Q6NZ01:Q9YH42:C5IG38:B0V301:F1Q5K0,BDNF,Bdnf,Yes,BDNF
+Matrisome-associated,Secreted Factors,bmp10,bone morphogenetic protein 10,ZDB-GENE-060526-211,ENSDARG00000061769,A2BGK2,BMP10,Bmp10,Yes,BMP10
+Matrisome-associated,Secreted Factors,bmp15,bone morphogenetic protein 15,ZDB-GENE-030131-6115,ENSDARG00000037491,Q0VG66:Q08CT4:F8W2L1:F1QA78:Q58FS4,BMP15,Bmp15,Yes,BMP15
+Matrisome-associated,Secreted Factors,bmp2a,bone morphogenetic protein 2a,ZDB-GENE-980526-388,ENSDARG00000013409,B3DI86:O13109,BMP2,Bmp2,Yes,BMP2
+Matrisome-associated,Secreted Factors,bmp2b,bone morphogenetic protein 2b,ZDB-GENE-980526-474,ENSDARG00000041430,F1QGJ0:O13108:O93369:O57573,BMP2,Bmp2,Yes,BMP2
+Matrisome-associated,Secreted Factors,bmp3,bone morphogenetic protein 3,ZDB-GENE-030131-7192,ENSDARG00000060526,A2AVJ4:A0JML2,BMP3,Bmp3,Yes,BMP3
+Matrisome-associated,Secreted Factors,bmp4,bone morphogenetic protein 4,ZDB-GENE-980528-2059,ENSDARG00000019995,P87380:F1QAD6:O13107:O57574,BMP4,Bmp4,Yes,BMP4
+Matrisome-associated,Secreted Factors,bmp5,bone morphogenetic protein 5,ZDB-GENE-040426-1413,ENSDARG00000101701,Q7T288:A0A0R4ILD5,BMP5,Bmp5,Yes,BMP5
+Matrisome-associated,Secreted Factors,bmp6,bone morphogenetic protein 6,ZDB-GENE-050306-42,ENSDARG00000015686,F1R678:Q5CZV5:E9QDT7,BMP6,Bmp6,Yes,BMP6
+Matrisome-associated,Secreted Factors,bmp7a,bone morphogenetic protein 7a,ZDB-GENE-000208-25,ENSDARG00000018260,F1Q926:Q9PTF9:Q0PQ43,BMP7,Bmp7,Yes,BMP7
+Matrisome-associated,Secreted Factors,bmp7b,bone morphogenetic protein 7b,ZDB-GENE-060929-328,ENSDARG00000063230,F1QD07:Q08CJ5,BMP7,Bmp7,Yes,BMP7
+Matrisome-associated,Secreted Factors,bmp8a,bone morphogenetic protein 8a,ZDB-GENE-030912-13,ENSDARG00000035677,Q1LWW7,BMP8A,Bmp8a,Yes,BMP8A
+Matrisome-associated,Secreted Factors,brinp2,bone morphogenetic protein/retinoic acid inducible neural-specific 2,ZDB-GENE-070912-621,ENSDARG00000014302,F1QYG6:A0A0G2UMG0:B0S6I3,BRINP2,Brinp2,Yes,BRINP2
+Matrisome-associated,Secreted Factors,brinp3a-1,"bone morphogenetic protein/retinoic acid inducible neural-specific 3a, tandem duplicate 1",ZDB-GENE-080218-16,ENSDARG00000076351,A9JTF7:F1Q7Y2,BRINP3,Brinp3,Yes,BRINP3
+Matrisome-associated,Secreted Factors,brinp3a.2,"bone morphogenetic protein/retinoic acid inducible neural-specific 3a, tandem duplicate 2",ZDB-GENE-131119-53,ENSDARG00000061051,F1R441:X1WHJ5,BRINP3,Brinp3,Yes,BRINP3
+Matrisome-associated,Secreted Factors,brinp3b,bone morphogenetic protein/retinoic acid inducible neural-specific 3b,ZDB-GENE-121022-1,-,-,BRINP3,Brinp3,Yes,BRINP3
+Matrisome-associated,Secreted Factors,btc,"betacellulin, epidermal growth factor family member",ZDB-GENE-050311-1,ENSDARG00000098112,A4QNZ3:A0A0R4INZ6:Q1LVQ0,BTC,Btc,Yes,BTC
+Matrisome-associated,Secreted Factors,cbln1,cerebellin 1 precursor,ZDB-GENE-040718-226,ENSDARG00000057296,F1QGT4:Q1L944:Q6DGR2,CBLN1,Cbln1,Yes,CBLN1
+Matrisome-associated,Secreted Factors,cbln2a,cerebellin 2a precursor,ZDB-GENE-070912-591,ENSDARG00000074601,B3DK67,CBLN2,Cbln2,Yes,CBLN2
+Matrisome-associated,Secreted Factors,cbln2b,cerebellin 2b precursor,ZDB-GENE-070615-12,ENSDARG00000077151,A5PKT3,CBLN2,Cbln2,Yes,CBLN2
+Matrisome-associated,Secreted Factors,cbln4,cerebellin 4 precursor,ZDB-GENE-080204-58,ENSDARG00000061240,A8WG47,CBLN4,Cbln4,Yes,CBLN4
+Matrisome-associated,Secreted Factors,ccbe1,collagen and calcium binding EGF domains 1,ZDB-GENE-090506-7,ENSDARG00000086158,A8WGB1:A0A0R4IPE1,CCBE1,Ccbe1,Yes,CCBE1
+Matrisome-associated,Secreted Factors,ccl11l1,"chemokine (C-C motif) ligand 11, like 1",ZDB-GENE-070302-10,-,-,CCL11,Ccl11,Yes,CCL11
+Matrisome-associated,Secreted Factors,ccl19a.1,"chemokine (C-C motif) ligand 19a, tandem duplicate 1",ZDB-GENE-060526-181,ENSDARG00000058389,A2BIR2:A9ZPF5,CCL19,Ccl19,Yes,CCL19
+Matrisome-associated,Secreted Factors,ccl19a.2,"chemokine (C-C motif) ligand 19a, tandem duplicate 2",ZDB-GENE-081022-55,ENSDARG00000035632,F6P784:B3DHA6,CCL19,Ccl19,Yes,CCL19
+Matrisome-associated,Secreted Factors,ccl19b,chemokine (C-C motif) ligand 19b,ZDB-GENE-091204-19,ENSDARG00000039351,F1QHU2,CCL19,Ccl19,Yes,CCL19
+Matrisome-associated,Secreted Factors,ccl20a.1,"chemokine (C-C motif) ligand 20a, duplicate 1",ZDB-GENE-140711-1,-,-,CCL20,Ccl20,Yes,CCL20
+Matrisome-associated,Secreted Factors,ccl20a.2,"chemokine (C-C motif) ligand 20a, duplicate 2",ZDB-GENE-140711-2,-,-,CCL20,Ccl20,Yes,CCL20
+Matrisome-associated,Secreted Factors,ccl20a.3,"chemokine (C-C motif) ligand 20a, duplicate 3",ZDB-GENE-081022-193,ENSDARG00000101040,B3DGM0,CCL20,Ccl20,Yes,CCL20
+Matrisome-associated,Secreted Factors,ccl20a.4,"chemokine (C-C motif) ligand 20a, duplicate 4",ZDB-GENE-110930-1,-,-,CCL20,Ccl20,Yes,CCL20
+Matrisome-associated,Secreted Factors,ccl20b,chemokine (C-C motif) ligand 20b,ZDB-GENE-091204-95,ENSDARG00000094511,A9ZPE0,CCL20,Ccl20,Yes,CCL20
+Matrisome-associated,Secreted Factors,ccl25a,chemokine (C-C motif) ligand 25a,ZDB-GENE-110222-1,-,-,CCL25,Ccl25,Yes,CCL25
+Matrisome-associated,Secreted Factors,ccl25b,chemokine (C-C motif) ligand 25b,ZDB-GENE-110222-2,ENSDARG00000070873,A9ZPF2:F1QBE9,CCL25,Ccl25,Yes,CCL25
+Matrisome-associated,Secreted Factors,ccl27a,chemokine (C-C motif) ligand 27a,ZDB-GENE-000208-28,ENSDARG00000058570,F1R6S5:A4FUL8:Q9PTF8:A0A0R4IRX2,CCL27,Ccl27a,Yes,CCL27
+Matrisome-associated,Secreted Factors,ccl27b,chemokine (C-C motif) ligand 27b,ZDB-GENE-140714-1,ENSDARG00000079713,F1R744:A9ZPF4,CCL27,Ccl27a,Yes,CCL27
+Matrisome-associated,Secreted Factors,chd,chordin,ZDB-GENE-990415-33,ENSDARG00000006110,F8W4C2:F1QKY4:B3DH08:O57472,CHRD,Chrd,Yes,CHRD
+Matrisome-associated,Secreted Factors,chrdl2,chordin-like 2,ZDB-GENE-081104-305,ENSDARG00000078916,B4XEZ3,CHRDL2,Chrdl2,Yes,CHRDL2
+Matrisome-associated,Secreted Factors,clcf1,cardiotrophin-like cytokine factor 1,ZDB-GENE-110411-244,ENSDARG00000076140,F1R400:F8W2M3,CLCF1,Clcf1,Yes,CLCF1
+Matrisome-associated,Secreted Factors,cntf,ciliary neurotrophic factor,ZDB-GENE-090313-176,ENSDARG00000074662,B8JKE1,CNTF,Cntf,Yes,CNTF
+Matrisome-associated,Secreted Factors,crhbp,corticotropin releasing hormone binding protein,ZDB-GENE-040801-196,ENSDARG00000024831,Q6DG79,CRHBP,Crhbp,Yes,CRHBP
+Matrisome-associated,Secreted Factors,crlf1a,cytokine receptor-like factor 1a,ZDB-GENE-040718-397,ENSDARG00000024365,Q6DG28,CRLF1,Crlf1,Yes,CRLF1
+Matrisome-associated,Secreted Factors,crlf1b,cytokine receptor-like factor 1b,ZDB-GENE-080108-1,ENSDARG00000006368,A0A0R4IHT8:B8JL58:A8WG66:A8WHA7,CRLF1,Crlf1,Yes,CRLF1
+Matrisome-associated,Secreted Factors,crlf3,cytokine receptor-like factor 3,ZDB-GENE-050417-354,ENSDARG00000070261,E9QBM9:F1QNI2:A9JRV6:Q568M3,CRLF3,Crlf3,Yes,CRLF3
+Matrisome-associated,Secreted Factors,csf1a,colony stimulating factor 1a (macrophage),ZDB-GENE-080204-107,ENSDARG00000075343,A0A0B5JQ49:A9JRD6,CSF1,Csf1,Yes,CSF1
+Matrisome-associated,Secreted Factors,csf1b,colony stimulating factor 1b (macrophage),ZDB-GENE-061215-106,ENSDARG00000068263,B0UYR0:A0A0B5JQ32:A1A5Z5,CSF1,Csf1,Yes,CSF1
+Matrisome-associated,Secreted Factors,csf3a,colony stimulating factor 3 (granulocyte) a,ZDB-GENE-091229-1,ENSDARG00000102211,A0A0R4II44:B8ZHI7,CSF3,Csf3,Yes,CSF3
+Matrisome-associated,Secreted Factors,csf3b,colony stimulating factor 3 (granulocyte) b,ZDB-GENE-141212-221,ENSDARG00000098752,A0A0R4IFC8:B5L332,CSF3,Csf3,Yes,CSF3
+Matrisome-associated,Secreted Factors,cxcl11.1,"chemokine (C-X-C motif) ligand 11, duplicate 1",ZDB-GENE-070907-2,ENSDARG00000100662,A0A0R4INB9,CXCL11,Cxcl11,Yes,CXCL11
+Matrisome-associated,Secreted Factors,cxcl11.2,"chemokine (C-X-C motif) ligand 11, duplicate 2",ZDB-GENE-140703-3,-,-,CXCL11,Cxcl11,Yes,CXCL11
+Matrisome-associated,Secreted Factors,cxcl11.3,"chemokine (C-X-C motif) ligand 11, duplicate 3",ZDB-GENE-090303-5,-,-,CXCL11,Cxcl11,Yes,CXCL11
+Matrisome-associated,Secreted Factors,cxcl11.4,"chemokine (C-X-C motif) ligand 11, duplicate 4",ZDB-GENE-090303-2,-,-,CXCL11,Cxcl11,Yes,CXCL11
+Matrisome-associated,Secreted Factors,cxcl11.5,"chemokine (C-X-C motif) ligand 11, duplicate 5",ZDB-GENE-060526-77,ENSDARG00000092423,A0A0R4IQ43:B0R192,CXCL11,Cxcl11,Yes,CXCL11
+Matrisome-associated,Secreted Factors,cxcl11.6,"chemokine (C-X-C motif) ligand 11, duplicate 6",ZDB-GENE-060526-78,ENSDARG00000094706,B0R191,CXCL11,Cxcl11,Yes,CXCL11
+Matrisome-associated,Secreted Factors,cxcl11.7,"chemokine (C-X-C motif) ligand 11, duplicate 7",ZDB-GENE-060526-79,ENSDARG00000093779,B0R190,CXCL11,Cxcl11,Yes,CXCL11
+Matrisome-associated,Secreted Factors,cxcl11.8,"chemokine (C-X-C motif) ligand 11, duplicate 8",ZDB-GENE-060526-319,ENSDARG00000095747,A2BHJ6,CXCL11,Cxcl11,Yes,CXCL11
+Matrisome-associated,Secreted Factors,cxcl12a,chemokine (C-X-C motif) ligand 12a (stromal cell-derived factor 1),ZDB-GENE-030318-1,ENSDARG00000037116,Q8AV10,CXCL12,Cxcl12,Yes,CXCL12
+Matrisome-associated,Secreted Factors,cxcl12b,chemokine (C-X-C motif) ligand 12b (stromal cell-derived factor 1),ZDB-GENE-030721-1,ENSDARG00000055100,Q6V9B5,CXCL12,Cxcl12,Yes,CXCL12
+Matrisome-associated,Secreted Factors,cxcl13,chemokine (C-X-C motif) ligand 13,ZDB-GENE-121010-2,-,-,CXCL13,Cxcl13,Yes,CXCL13
+Matrisome-associated,Secreted Factors,cxcl14,chemokine (C-X-C motif) ligand 14,ZDB-GENE-000619-1,ENSDARG00000056627,F1QG12:Q9DFG4:Q66L61:Q502Q8,CXCL14,Cxcl14,Yes,CXCL14
+Matrisome-associated,Secreted Factors,cxcl8a,chemokine (C-X-C motif) ligand 8a,ZDB-GENE-081104-317,-,A0A0G2KYH9:A0A151N545,CXCL8,-,Yes,CXCL8
+Matrisome-associated,Secreted Factors,cxcl8b.1,"chemokine (C-X-C motif) ligand 8b, duplicate 1",ZDB-GENE-101026-3,ENSDARG00000102299,N0GW19,CXCL8,-,Yes,CXCL8
+Matrisome-associated,Secreted Factors,cxcl8b.2,"chemokine (C-X-C motif) ligand 8b, duplicate 2",ZDB-GENE-140703-1,-,-,CXCL8,-,Yes,CXCL8
+Matrisome-associated,Secreted Factors,cxcl8b.3,"chemokine (C-X-C motif) ligand 8b, duplicate 3",ZDB-GENE-111004-1,ENSDARG00000099169,A0A0R4IPQ6:A9ZPF0,CXCL8,-,Yes,CXCL8
+Matrisome-associated,Secreted Factors,dhh,desert hedgehog,ZDB-GENE-990714-5,ENSDARG00000037062,E9QGT4:Q4PLX3:B3DJ46:P79729,DHH,Dhh,Yes,DHH
+Matrisome-associated,Secreted Factors,ebi3,Epstein-Barr virus induced 3,ZDB-GENE-070912-615,ENSDARG00000053620,F1QPE3:A8WH81,EBI3,Ebi3,Yes,EBI3
+Matrisome-associated,Secreted Factors,eda,ectodysplasin A,ZDB-GENE-050107-6,ENSDARG00000074591,B0YIF1:F1RAV7,EDA,Eda,Yes,EDA
+Matrisome-associated,Secreted Factors,egf,epidermal growth factor,ZDB-GENE-070922-1,ENSDARG00000052739,Q6VQA2:F1QKU8:B3DH82:A0A140LGI0:F1QGQ2,EGF,Egf,Yes,EGF
+Matrisome-associated,Secreted Factors,egfl6,"EGF-like-domain, multiple 6",ZDB-GENE-040718-157,ENSDARG00000045958,F1R089:Q6DHG1,EGFL6,Egfl6,Yes,EGFL6
+Matrisome-associated,Secreted Factors,egfl7,"EGF-like-domain, multiple 7",ZDB-GENE-040429-2,ENSDARG00000100657,Q08CR0:Q6QH77:Q1RLZ3,EGFL7,Egfl7,Yes,EGFL7
+Matrisome-associated,Secreted Factors,epgn,epithelial mitogen homolog (mouse),ZDB-GENE-100426-1,ENSDARG00000104992,A0A0R4IWG0,EPGN,Epgn,Yes,EPGN
+Matrisome-associated,Secreted Factors,epoa,erythropoietin a,ZDB-GENE-061218-3,ENSDARG00000055163,F1QKY2:B1N8Y1:B1N8Y2:B3DI26:Q2XNF5,EPO,Epo,Yes,EPO
+Matrisome-associated,Secreted Factors,epob,erythropoietin b,ZDB-GENE-141216-428,ENSDARG00000100737,A0A0R4IUI4,EPO,Epo,Yes,EPO
+Matrisome-associated,Secreted Factors,fam132a,"family with sequence similarity 132, member A",ZDB-GENE-061215-120,ENSDARG00000070681,A1A5X5,FAM132A,Fam132a,Yes,FAM132A
+Matrisome-associated,Secreted Factors,faslg,"Fas ligand (TNF superfamily, member 6)",ZDB-GENE-070410-16,ENSDARG00000098913,Q0PKX7,FASLG,Fasl,Yes,FASLG
+Matrisome-associated,Secreted Factors,fgf10a,fibroblast growth factor 10a,ZDB-GENE-030715-1,ENSDARG00000030932,Q8AY90:Q800L8:Q4VBV7,FGF10,Fgf10,Yes,FGF10
+Matrisome-associated,Secreted Factors,fgf10b,fibroblast growth factor 10b,ZDB-GENE-060828-1,ENSDARG00000100475,Q1XG75,FGF10,Fgf10,Yes,FGF10
+Matrisome-associated,Secreted Factors,fgf11a,fibroblast growth factor 11a,ZDB-GENE-050221-5,ENSDARG00000069662,B3DHZ8:Q5TKR4:B0S569,FGF11,Fgf11,Yes,FGF11
+Matrisome-associated,Secreted Factors,fgf11b,fibroblast growth factor 11b,ZDB-GENE-100316-2,ENSDARG00000043907,E7F9J0,FGF11,Fgf11,Yes,FGF11
+Matrisome-associated,Secreted Factors,fgf12a,fibroblast growth factor 12a,ZDB-GENE-050221-6,ENSDARG00000027957,A0AUQ1:Q5TKR3:F1Q7V9,FGF12,Fgf12,Yes,FGF12
+Matrisome-associated,Secreted Factors,fgf12b,fibroblast growth factor 12b,ZDB-GENE-060825-134,ENSDARG00000062542,Q0P4D2:E7F0M2,FGF12,Fgf12,Yes,FGF12
+Matrisome-associated,Secreted Factors,fgf13a,fibroblast growth factor 13a,ZDB-GENE-041114-101,ENSDARG00000035056,E7F5G0:A0A140LGG2:A0A140LFU6:A0A140LFY1:Q5TKR2:Q5U3Q2,FGF13,Fgf13,Yes,FGF13
+Matrisome-associated,Secreted Factors,fgf13b,fibroblast growth factor 13b,ZDB-GENE-040426-1793,ENSDARG00000056633,F1QHX6:Q6NZS6:A0A0R4IGU4,FGF13,Fgf13,Yes,FGF13
+Matrisome-associated,Secreted Factors,fgf14,fibroblast growth factor 14,ZDB-GENE-060506-1,ENSDARG00000040982,Q5TKR1,FGF14,Fgf14,Yes,FGF14
+Matrisome-associated,Secreted Factors,fgf16,fibroblast growth factor 16,ZDB-GENE-060427-3,ENSDARG00000042233,Q2HXK8,FGF16,Fgf16,Yes,FGF16
+Matrisome-associated,Secreted Factors,fgf17,fibroblast growth factor 17,ZDB-GENE-040621-1,ENSDARG00000102778,A0A0R4IW67:B2GR83:Q6SJP8,FGF17,Fgf17,Yes,FGF17
+Matrisome-associated,Secreted Factors,fgf18a,fibroblast growth factor 18a,ZDB-GENE-030714-1,ENSDARG00000088048,Q7T2N7:A0A0R4IBT1:F1QKX4:Q5TKR8,FGF18,Fgf18,Yes,FGF18
+Matrisome-associated,Secreted Factors,fgf18b,fibroblast growth factor 18b,ZDB-GENE-050221-4,ENSDARG00000043962,Q5TKR7,FGF18,Fgf18,Yes,FGF18
+Matrisome-associated,Secreted Factors,fgf19,fibroblast growth factor 19,ZDB-GENE-030729-32,ENSDARG00000098663,B3DHS4:A0A0R4IN60:Q5TLF0:A0A0R4IBY6,FGF19,Fgf15,Yes,FGF19
+Matrisome-associated,Secreted Factors,fgf1a,fibroblast growth factor 1a,ZDB-GENE-040426-1729,ENSDARG00000017542,Q6PBT8:A0A0R4I9A1,FGF1,Fgf1,Yes,FGF1
+Matrisome-associated,Secreted Factors,fgf1b,fibroblast growth factor 1b,ZDB-GENE-071004-7,ENSDARG00000042811,A7YT71:F1QC94,FGF1,Fgf1,Yes,FGF1
+Matrisome-associated,Secreted Factors,fgf2,fibroblast growth factor 2,ZDB-GENE-040318-1,ENSDARG00000104348,A0A0R4IHF9:B3DGE3,FGF2,Fgf2,Yes,FGF2
+Matrisome-associated,Secreted Factors,fgf20a,fibroblast growth factor 20a,ZDB-GENE-060110-1,ENSDARG00000007356,Q38PL0,FGF20,Fgf20,Yes,FGF20
+Matrisome-associated,Secreted Factors,fgf20b,fibroblast growth factor 20b,ZDB-GENE-060117-5,ENSDARG00000086070,Q2LJ24,FGF20,Fgf20,Yes,FGF20
+Matrisome-associated,Secreted Factors,fgf21,fibroblast growth factor 21,ZDB-GENE-060623-2,ENSDARG00000100846,Q1ESX2,FGF21,Fgf21,Yes,FGF21
+Matrisome-associated,Secreted Factors,fgf22,fibroblast growth factor 22,ZDB-GENE-050208-380,ENSDARG00000076510,Q1XG76,FGF22,Fgf22,Yes,FGF22
+Matrisome-associated,Secreted Factors,fgf23,fibroblast growth factor 23,ZDB-GENE-050201-4,ENSDARG00000045854,Q5MK87:Q1L8M3:Q5TLD4,FGF23,Fgf23,Yes,FGF23
+Matrisome-associated,Secreted Factors,fgf3,fibroblast growth factor 3,ZDB-GENE-980526-178,ENSDARG00000101540,A0A0B5JWB9:B3DHR1:P48802,FGF3,Fgf3,Yes,FGF3
+Matrisome-associated,Secreted Factors,fgf4,fibroblast growth factor 4,ZDB-GENE-001006-1,ENSDARG00000105230,Q9DFC9,FGF4,Fgf4,Yes,FGF4
+Matrisome-associated,Secreted Factors,fgf5,fibroblast growth factor 5,ZDB-GENE-050201-6,ENSDARG00000035377,Q5TLE2,FGF5,Fgf5,Yes,FGF5
+Matrisome-associated,Secreted Factors,fgf6a,fibroblast growth factor 6a,ZDB-GENE-980526-559,ENSDARG00000009351,Q2LGG1:Q8AXA1,FGF6,Fgf6,Yes,FGF6
+Matrisome-associated,Secreted Factors,fgf6b,fibroblast growth factor 6b,ZDB-GENE-050201-5,ENSDARG00000045856,Q5TLE1,FGF6,Fgf6,Yes,FGF6
+Matrisome-associated,Secreted Factors,fgf7,fibroblast growth factor 7,ZDB-GENE-080122-1,ENSDARG00000059387,B3DHR9:Q5TLD5,FGF7,Fgf7,Yes,FGF7
+Matrisome-associated,Secreted Factors,fgf8a,fibroblast growth factor 8a,ZDB-GENE-990415-72,ENSDARG00000003399,O57341:A0A0B5JPZ5:A2CF52:Q0E9Y8:O42278,FGF8,Fgf8,Yes,FGF8
+Matrisome-associated,Secreted Factors,fgf8b,fibroblast growth factor 8 b,ZDB-GENE-010122-1,ENSDARG00000039615,A0A0R4IK98:Q805B2:B3DJ36,FGF8,Fgf8,Yes,FGF8
+Matrisome-associated,Secreted Factors,fgf9,fibroblast growth factor 9,ZDB-GENE-070424-238,ENSDARG00000078625,F1R729,FGF9,Fgf9,Yes,FGF9
+Matrisome-associated,Secreted Factors,fgfbp1a,fibroblast growth factor binding protein 1a,ZDB-GENE-140430-1,-,A0A0B5JK58,FGFBP1,Fgfbp1,Yes,FGFBP1
+Matrisome-associated,Secreted Factors,fgfbp1b,fibroblast growth factor binding protein 1b,ZDB-GENE-081106-1,ENSDARG00000039963,E7F4V3:A0A0R4ICR4:E7FEC7,FGFBP1,Fgfbp1,Yes,FGFBP1
+Matrisome-associated,Secreted Factors,fgfbp2a,fibroblast growth factor binding protein 2a,ZDB-GENE-030131-8319,ENSDARG00000039964,F1R8L1,FGFBP2,-,Yes,FGFBP2
+Matrisome-associated,Secreted Factors,fgfbp2b,fibroblast growth factor binding protein 2b,ZDB-GENE-070410-95,ENSDARG00000038056,F1QLT3:A3KP08:Q0P3Y0,FGFBP2,-,Yes,FGFBP2
+Matrisome-associated,Secreted Factors,figf,c-fos induced growth factor,ZDB-GENE-070810-6,ENSDARG00000056624,Q208T6,FIGF,Figf,Yes,FIGF
+Matrisome-associated,Secreted Factors,frzb,frizzled-related protein,ZDB-GENE-990715-1,ENSDARG00000018383,A0A0B5JQ70:Q9W6E0,FRZB,Frzb,Yes,FRZB
+Matrisome-associated,Secreted Factors,fsta,follistatin a,ZDB-GENE-990714-11,ENSDARG00000052846,G8HY04:A0A0R4IRW4:Q9YHV4:A0A0B5JFB2,FST,Fst,Yes,FST
+Matrisome-associated,Secreted Factors,fstb,follistatin b,ZDB-GENE-031118-139,ENSDARG00000057992,Q2PMI4:A7MBP8:F1R4P5,FST,Fst,Yes,FST
+Matrisome-associated,Secreted Factors,fstl1a,follistatin-like 1a,ZDB-GENE-030131-4148,ENSDARG00000015559,A0A0B5JS31:F1Q6U6:Q567W5:Q2PMI3,FSTL1,Fstl1,Yes,FSTL1
+Matrisome-associated,Secreted Factors,fstl1b,follistatin-like 1b,ZDB-GENE-030131-3029,ENSDARG00000039576,Q2PMI2:Q68EK4,FSTL1,Fstl1,Yes,FSTL1
+Matrisome-associated,Secreted Factors,fstl3,follistatin-like 3 (secreted glycoprotein),ZDB-GENE-050913-111,ENSDARG00000025670,F1QAR6:A4IG14:Q4V8S8,FSTL3,Fstl3,Yes,FSTL3
+Matrisome-associated,Secreted Factors,gdf10a,growth differentiation factor 10a,ZDB-GENE-090312-17,ENSDARG00000095378,F1QRZ6:B8A5X9,GDF10,Gdf10,Yes,GDF10
+Matrisome-associated,Secreted Factors,gdf10b,growth differentiation factor 10b,ZDB-GENE-120316-1,ENSDARG00000073891,D2CN89:F1QDD0,GDF10,Gdf10,Yes,GDF10
+Matrisome-associated,Secreted Factors,gdf11,growth differentiation factor 11,ZDB-GENE-040427-2,ENSDARG00000044924,Q8JFP9:A0A0B5JSE4:A0A0R4ITF9,GDF11,Gdf11,Yes,GDF11
+Matrisome-associated,Secreted Factors,gdf2,growth differentiation factor 2,ZDB-GENE-100107-1,ENSDARG00000059173,F1QWZ4,GDF2,Gdf2,Yes,GDF2
+Matrisome-associated,Secreted Factors,gdf3,growth differentiation factor 3,ZDB-GENE-980526-389,ENSDARG00000037995,Q5RKN7:P35621:K7DY39:K7DYL7,GDF3,Gdf3,Yes,GDF3
+Matrisome-associated,Secreted Factors,gdf5,growth differentiation factor 5,ZDB-GENE-990415-39,ENSDARG00000002760,F8W3E7:O42303:F1QK08,GDF5,Gdf5,Yes,GDF5
+Matrisome-associated,Secreted Factors,gdf6a,growth differentiation factor 6a,ZDB-GENE-980526-373,ENSDARG00000053479,P85857,GDF6,Gdf6,Yes,GDF6
+Matrisome-associated,Secreted Factors,gdf6b,growth differentiation factor 6b,ZDB-GENE-980526-442,ENSDARG00000005510,A8E7N9:B3DJ43,GDF6,Gdf6,Yes,GDF6
+Matrisome-associated,Secreted Factors,gdf7,growth differentiation factor 7,ZDB-GENE-990714-1,ENSDARG00000042784,Q9W6C0:Q9W6B9:F1QLZ2,GDF7,Gdf7,Yes,GDF7
+Matrisome-associated,Secreted Factors,gdf9,growth differentiation factor 9,ZDB-GENE-050221-7,ENSDARG00000003229,Q32PR5:Q5MD90,GDF9,Gdf9,Yes,GDF9
+Matrisome-associated,Secreted Factors,gdnfa,glial cell derived neurotrophic factor a,ZDB-GENE-010226-1,ENSDARG00000039959,A7E220:Q98TU0,GDNF,Gdnf,Yes,GDNF
+Matrisome-associated,Secreted Factors,gdnfb,glial cell derived neurotrophic factor b,ZDB-GENE-110609-2,ENSDARG00000103764,A0A0N4SU74:A0A0N4STS9,GDNF,Gdnf,Yes,GDNF
+Matrisome-associated,Secreted Factors,gh1,growth hormone 1,ZDB-GENE-030725-2,ENSDARG00000038185,Q571R1:Q7ZZH9:Q1JQ34,GH1,Gh,Yes,GH1
+Matrisome-associated,Secreted Factors,hbegfa,heparin-binding EGF-like growth factor a,ZDB-GENE-080204-119,ENSDARG00000075121,A9JRW9,HBEGF,Hbegf,Yes,HBEGF
+Matrisome-associated,Secreted Factors,hbegfb,heparin-binding EGF-like growth factor b,ZDB-GENE-070820-6,ENSDARG00000031246,Q6NY79:F1QKE6:F1QEL2:A7E275,HBEGF,Hbegf,Yes,HBEGF
+Matrisome-associated,Secreted Factors,hcfc1a,host cell factor C1a,ZDB-GENE-030912-10,ENSDARG00000015990,Q7SZY1:F1Q750:A5D6R2,HCFC1,Hcfc1,Yes,HCFC1
+Matrisome-associated,Secreted Factors,hcfc1b,host cell factor C1b,ZDB-GENE-030131-2411,ENSDARG00000012519,A8WIP5,HCFC1,Hcfc1,Yes,HCFC1
+Matrisome-associated,Secreted Factors,hcfc2,host cell factor C2,ZDB-GENE-050417-203,ENSDARG00000058127,Q566Z7:X1WBN2:F1RBR3:X1WCP5,HCFC2,Hcfc2,Yes,HCFC2
+Matrisome-associated,Secreted Factors,hgfa,hepatocyte growth factor a,ZDB-GENE-041014-2,ENSDARG00000045544,Q5QD59:F1REK1:Q5RGG3:A4IGA7,HGF,Hgf,Yes,HGF
+Matrisome-associated,Secreted Factors,hgfac,HGF activator,ZDB-GENE-130530-1031,ENSDARG00000091759,-,HGFAC,Hgfac,Yes,HGFAC
+Matrisome-associated,Secreted Factors,hgfb,hepatocyte growth factor b,ZDB-GENE-041014-3,ENSDARG00000079076,Q5QD58:F6PA78,HGF,Hgf,Yes,HGF
+Matrisome-associated,Secreted Factors,hhip,hedgehog interacting protein,ZDB-GENE-030131-4827,ENSDARG00000060397,A0A0B5JK82:A1A5I0:A7X2Z0,HHIP,Hhip,Yes,HHIP
+Matrisome-associated,Secreted Factors,ifng1-1,"interferon, gamma 1-1",ZDB-GENE-060210-1,ENSDARG00000045671,Q5TLE6,IFNG,Ifng,Yes,IFNG
+Matrisome-associated,Secreted Factors,ifng1-2,"interferon, gamma 1-2",ZDB-GENE-040629-1,ENSDARG00000024211,Q5RHV5:Q75S22,IFNG,Ifng,Yes,IFNG
+Matrisome-associated,Secreted Factors,igf1,insulin-like growth factor 1,ZDB-GENE-010607-2,ENSDARG00000094132,Q8QGA1:Q90VV9,IGF1,Igf1,Yes,IGF1
+Matrisome-associated,Secreted Factors,igf2a,insulin-like growth factor 2a,ZDB-GENE-991111-3,ENSDARG00000018643,Q8UUI9:Q5U3B4:Q9PUD0,IGF2,Igf2,Yes,IGF2
+Matrisome-associated,Secreted Factors,igf2b,insulin-like growth factor 2b,ZDB-GENE-030131-2935,ENSDARG00000033307,Q8JIE4,IGF2,Igf2,Yes,IGF2
+Matrisome-associated,Secreted Factors,ihha,Indian hedgehog homolog a,ZDB-GENE-051010-1,ENSDARG00000058733,Q4PLX4:A3KNS3:B0S8K0,IHH,Ihh,Yes,IHH
+Matrisome-associated,Secreted Factors,ihhb,Indian hedgehog homolog b,ZDB-GENE-980526-135,ENSDARG00000058815,Q5BLH7:Q98862:F1R9L0:F1QTR5,IHH,Ihh,Yes,IHH
+Matrisome-associated,Secreted Factors,il10,interleukin 10,ZDB-GENE-051111-1,ENSDARG00000078147,Q5EFQ8,IL10,Il10,Yes,IL10
+Matrisome-associated,Secreted Factors,il11a,interleukin 11a,ZDB-GENE-051019-1,ENSDARG00000037859,F1R1E3:Q494Q5,IL11,Il11,Yes,IL11
+Matrisome-associated,Secreted Factors,il11b,interleukin 11b,ZDB-GENE-051019-2,ENSDARG00000058557,F1R6T9:Q494Q4,IL11,Il11,Yes,IL11
+Matrisome-associated,Secreted Factors,il12a,interleukin 12a,ZDB-GENE-060724-1,ENSDARG00000038878,X1WG47:F1QXI7:Q6F3R0:A0A0R4IWR2,IL12A,Il12a,Yes,IL12A
+Matrisome-associated,Secreted Factors,il12ba,interleukin 12Ba,ZDB-GENE-050525-3,ENSDARG00000033727,Q0V941:A8WH99:B8JJU1:F1RA13:Q6F3Q9,IL12B,Il12b,Yes,IL12B
+Matrisome-associated,Secreted Factors,il12bb,"interleukin 12B, b",ZDB-GENE-030131-7937,ENSDARG00000054542,A8WH95:X1WG27:F1QLT7,IL12B,Il12b,Yes,IL12B
+Matrisome-associated,Secreted Factors,il12bc,"interleukin 12B, c",ZDB-GENE-091204-37,-,-,IL12B,Il12b,Yes,IL12B
+Matrisome-associated,Secreted Factors,il13,interleukin 13,ZDB-GENE-100727-2,ENSDARG00000077809,W0TZ57:B3IWZ9:F8W5W9,IL13,Il13,Yes,IL13
+Matrisome-associated,Secreted Factors,il15,interleukin 15,ZDB-GENE-060213-2,ENSDARG00000052361,Q15KG7:Q1AN25:F8W5F6:Q3SCC6,IL15,Il15,Yes,IL15
+Matrisome-associated,Secreted Factors,il16,interleukin 16,ZDB-GENE-130103-3,ENSDARG00000039884,A0A0G2KD61,IL16,Il16,Yes,IL16
+Matrisome-associated,Secreted Factors,il17c,interleukin 17c,ZDB-GENE-061031-5,ENSDARG00000057180,Q5TKT2:F8W5S8:A0A0R4IT62,IL17C,Il17c,Yes,IL17C
+Matrisome-associated,Secreted Factors,il17d,interleukin 17d,ZDB-GENE-061031-4,ENSDARG00000010700,Q5TKT1,IL17D,Il17d,Yes,IL17D
+Matrisome-associated,Secreted Factors,il19l,interleukin 19 like,ZDB-GENE-071121-1,ENSDARG00000090344,Q4LDR4:F6NNV9,IL19,Il19,Yes,IL19
+Matrisome-associated,Secreted Factors,il1b,"interleukin 1, beta",ZDB-GENE-040702-2,ENSDARG00000098700,Q7T056:A0A0R4IYF1:E6N152:E0WCW4:Q4KMF1,IL1B,Il1b,Yes,IL1B
+Matrisome-associated,Secreted Factors,il22,interleukin 22,ZDB-GENE-060209-3,ENSDARG00000045673,Q5TLE4,IL22,Il22,Yes,IL22
+Matrisome-associated,Secreted Factors,il23a,"interleukin 23, alpha subunit p19",ZDB-GENE-110628-4,-,-,IL23A,Il23a,Yes,IL23A
+Matrisome-associated,Secreted Factors,il26,interleukin 26,ZDB-GENE-060209-4,ENSDARG00000045672,Q5TLE5,IL26,-,Yes,IL26
+Matrisome-associated,Secreted Factors,il34,interleukin 34,ZDB-GENE-050419-150,ENSDARG00000091003,L8AZT5:B3DLJ8,IL34,Il34,Yes,IL34
+Matrisome-associated,Secreted Factors,il4,interleukin 4,ZDB-GENE-100204-1,ENSDARG00000087909,B3IX00:D1YSM1,IL4,Il4,Yes,IL4
+Matrisome-associated,Secreted Factors,il6,"interleukin 6 (interferon, beta 2)",ZDB-GENE-120509-1,ENSDARG00000102318,H9A0J9,IL6,Il6,Yes,IL6
+Matrisome-associated,Secreted Factors,inha,"inhibin, alpha",ZDB-GENE-060503-554,ENSDARG00000052433,Q1LYE4,INHA,Inha,Yes,INHA
+Matrisome-associated,Secreted Factors,inhbaa,"inhibin, beta Aa",ZDB-GENE-000210-21,ENSDARG00000012671,Q9W6T8:Q8QGE3,INHBA,Inhba,Yes,INHBA
+Matrisome-associated,Secreted Factors,inhbab,"inhibin, beta Ab",ZDB-GENE-050525-2,ENSDARG00000024759,A1L1T8:Q56E97:B0S4U4,INHBA,Inhba,Yes,INHBA
+Matrisome-associated,Secreted Factors,inhbb,"inhibin, beta B",ZDB-GENE-990415-2,ENSDARG00000040777,B0S7E0:Q9W6T9:Q90261,INHBB,Inhbb,Yes,INHBB
+Matrisome-associated,Secreted Factors,ins,preproinsulin,ZDB-GENE-980526-110,ENSDARG00000035350,O73727:B2GSI0:Q9DDE5,INS,Ins2,Yes,INS
+Matrisome-associated,Secreted Factors,insl3,insulin-like 3 (Leydig cell),ZDB-GENE-050310-5,ENSDARG00000035862,Q2P9V5:Q2VT43:B1AAR7,INSL3,Insl3,Yes,INSL3
+Matrisome-associated,Secreted Factors,insl5a,insulin-like 5a,ZDB-GENE-050310-4,ENSDARG00000070966,Q2VT44:Q2P9V6:B1AAR9,INSL5,Insl5,Yes,INSL5
+Matrisome-associated,Secreted Factors,insl5b,insulin-like 5b,ZDB-GENE-070122-5,ENSDARG00000069294,A0ZYT5,INSL5,Insl5,Yes,INSL5
+Matrisome-associated,Secreted Factors,ism1,isthmin 1,ZDB-GENE-050523-3,ENSDARG00000020541,B8JME9:Q5EGE1:A0A0R4IY22,ISM1,Ism1,Yes,ISM1
+Matrisome-associated,Secreted Factors,ism2a,isthmin 2a,ZDB-GENE-130530-972,ENSDARG00000089691,E7F979,ISM2,Ism2,Yes,ISM2
+Matrisome-associated,Secreted Factors,ism2b,isthmin 2b,ZDB-GENE-050523-4,ENSDARG00000053859,Q58T08:F1QYZ9,ISM2,Ism2,Yes,ISM2
+Matrisome-associated,Secreted Factors,kitlga,kit ligand a,ZDB-GENE-070424-1,ENSDARG00000070917,F1Q6D8:Q56JH6,KITLG,Kitl,Yes,KITLG
+Matrisome-associated,Secreted Factors,kitlgb,kit ligand b,ZDB-GENE-070424-2,ENSDARG00000058042,F1RDP0:Q56JH5,KITLG,Kitl,Yes,KITLG
+Matrisome-associated,Secreted Factors,lepa,leptin a,ZDB-GENE-081001-1,ENSDARG00000091085,Q0D250,LEP,Lep,Yes,LEP
+Matrisome-associated,Secreted Factors,lepb,leptin b,ZDB-GENE-041210-183,ENSDARG00000045548,Q5TYZ1:C4WYH6,LEP,Lep,Yes,LEP
+Matrisome-associated,Secreted Factors,lft1,lefty1,ZDB-GENE-990630-10,ENSDARG00000019920,Q9PW55:Q9W6I6,LEFTY2,Lefty2,Yes,LEFTY2
+Matrisome-associated,Secreted Factors,lft2,lefty2,ZDB-GENE-990630-11,ENSDARG00000044059,F1QWZ9:Q9W6I7:A0A0B5JW28,LEFTY2,Lefty2,Yes,LEFTY2
+Matrisome-associated,Secreted Factors,lta,"lymphotoxin alpha (TNF superfamily, member 1)",ZDB-GENE-050601-3,ENSDARG00000020483,Q4W897,LTA,Lta,Yes,LTA
+Matrisome-associated,Secreted Factors,mdka,midkine a,ZDB-GENE-990621-1,ENSDARG00000036036,E9QIK2:A0A0B5JQ06:Q9W767:F6NXU8,MDK,Mdk,Yes,MDK
+Matrisome-associated,Secreted Factors,mdkb,midkine b,ZDB-GENE-010131-6,ENSDARG00000020708,A0A0B5JK07:Q9DDG2:Q9W768,MDK,Mdk,Yes,MDK
+Matrisome-associated,Secreted Factors,megf10,multiple EGF-like-domains 10,ZDB-GENE-080506-1,ENSDARG00000017229,A0A0B5JFJ1:X1WG68:E9QJQ6,MEGF10,Megf10,Yes,MEGF10
+Matrisome-associated,Secreted Factors,megf11,multiple EGF-like-domains 11,ZDB-GENE-060503-252,ENSDARG00000062686,F1Q4V3:Q1LV56,MEGF11,Megf11,Yes,MEGF11
+Matrisome-associated,Secreted Factors,megf6a,multiple EGF-like-domains 6a,ZDB-GENE-090312-12,ENSDARG00000079199,E7FFP9:E9QHA9,MEGF6,Megf6,Yes,MEGF6
+Matrisome-associated,Secreted Factors,megf6b,multiple EGF-like-domains 6b,ZDB-GENE-101112-3,ENSDARG00000074808,F1RB82,MEGF6,Megf6,Yes,MEGF6
+Matrisome-associated,Secreted Factors,megf8,multiple EGF-like-domains 8,ZDB-GENE-090730-1,ENSDARG00000103934,A0A0R4IQQ8:F1QBZ9:A1L2A5,MEGF8,Megf8,Yes,MEGF8
+Matrisome-associated,Secreted Factors,mst1,macrophage stimulating 1,ZDB-GENE-020806-3,ENSDARG00000103308,Q90ZN6:Q5XFY1,MST1,Mst1,Yes,MST1
+Matrisome-associated,Secreted Factors,mstna,myostatin a,ZDB-GENE-050208-735,ENSDARG00000042947,Q68IN2:Q5MNY3:Q4VV68:B3DIZ5,MSTN,Mstn,Yes,MSTN
+Matrisome-associated,Secreted Factors,mstnb,myostatin b,ZDB-GENE-990415-165,ENSDARG00000069133,O42222:Q504K3,MSTN,Mstn,Yes,MSTN
+Matrisome-associated,Secreted Factors,ndr1,nodal-related 1,ZDB-GENE-990415-256,ENSDARG00000057096,O13144:Q78CR8:F1QDT8:Q4V930,NODAL,Nodal,Yes,NODAL
+Matrisome-associated,Secreted Factors,ndr2,nodal-related 2,ZDB-GENE-990415-181,ENSDARG00000101279,A0A0R4IZE5:A0A0B5JK91:P87358,NODAL,Nodal,Yes,NODAL
+Matrisome-associated,Secreted Factors,ngfa,nerve growth factor a (beta polypeptide),ZDB-GENE-990415-176,ENSDARG00000058961,O73797:B3DG61,NGF,Ngf,Yes,NGF
+Matrisome-associated,Secreted Factors,ngfb,nerve growth factor b (beta polypeptide),ZDB-GENE-000629-2,ENSDARG00000014050,A0A0B5JS44:B2GR51:Q6YBR5,NGF,Ngf,Yes,NGF
+Matrisome-associated,Secreted Factors,nrg1,neuregulin 1,ZDB-GENE-050302-113,ENSDARG00000104314,A0A0R4IPH3:B9VQK8:Q20CG4:B9VQL0:A0A0R4IDP7:B3DK99:B9VQK7:B9VQK9:A0A0R4IFE6:A0A0R4IBM0:A0A0R4IL80,NRG1,Nrg1,Yes,NRG1
+Matrisome-associated,Secreted Factors,nrg2a,neuregulin 2a,ZDB-GENE-070615-10,ENSDARG00000077818,F1QKE1:B9VQL3:A5D6U9:F1QC20:B9VQL2:B9VQL4:B9VQL1:F1RCA4,NRG2,Nrg2,Yes,NRG2
+Matrisome-associated,Secreted Factors,nrg2b,neuregulin 2b,ZDB-GENE-090205-2,ENSDARG00000086585,E7FGA4:A0A0R4INJ1:B9VQL5:F1QFX4:A0A0R4IW84,NRG2,Nrg2,Yes,NRG2
+Matrisome-associated,Secreted Factors,nrg3a,neuregulin 3a,ZDB-GENE-140422-1,-,-,NRG3,Nrg3,Yes,NRG3
+Matrisome-associated,Secreted Factors,nrg3b,neuregulin 3b,ZDB-GENE-130603-38,ENSDARG00000089766,E7FCS5,NRG3,Nrg3,Yes,NRG3
+Matrisome-associated,Secreted Factors,nrtn,neurturin,ZDB-GENE-100427-6,ENSDARG00000079849,E7FAV4,NRTN,Nrtn,Yes,NRTN
+Matrisome-associated,Secreted Factors,ntf3,neurotrophin 3,ZDB-GENE-031118-66,ENSDARG00000059043,F1QR36:Q568T2,NTF3,Ntf3,Yes,NTF3
+Matrisome-associated,Secreted Factors,ntf4,neurotrophin 4,ZDB-GENE-141030-1,-,-,NTF4,Ntf5,Yes,NTF4
+Matrisome-associated,Secreted Factors,pdgfaa,platelet-derived growth factor alpha polypeptide a,ZDB-GENE-030918-2,ENSDARG00000055505,A5PMP7:Q9DE50:Q6DC06,PDGFA,Pdgfa,Yes,PDGFA
+Matrisome-associated,Secreted Factors,pdgfab,platelet-derived growth factor alpha polypeptide b,ZDB-GENE-060929-124,ENSDARG00000098578,A0A0R4IXE1:Q08CD2:A0A0R4IF94:A0A0R4IHM5,PDGFA,Pdgfa,Yes,PDGFA
+Matrisome-associated,Secreted Factors,pdgfba,platelet-derived growth factor beta polypeptide a,ZDB-GENE-050208-525,ENSDARG00000086778,Q1LUW1:A0A088AWM4:F1QS30,PDGFB,Pdgfb,Yes,PDGFB
+Matrisome-associated,Secreted Factors,pdgfbb,platelet-derived growth factor beta polypeptide b,ZDB-GENE-131121-332,ENSDARG00000038139,E7FBB3,PDGFB,Pdgfb,Yes,PDGFB
+Matrisome-associated,Secreted Factors,pdgfc,platelet derived growth factor c,ZDB-GENE-071217-2,ENSDARG00000077588,E7FB33,PDGFC,Pdgfc,Yes,PDGFC
+Matrisome-associated,Secreted Factors,pdgfd,platelet derived growth factor d,ZDB-GENE-071217-1,ENSDARG00000077677,E7F2Z0,PDGFD,Pdgfd,Yes,PDGFD
+Matrisome-associated,Secreted Factors,pgfa,placental growth factor a,ZDB-GENE-120928-4,-,-,PGF,Pgf,Yes,PGF
+Matrisome-associated,Secreted Factors,pgfb,placental growth factor b,ZDB-GENE-131127-445,ENSDARG00000076767,X1WBL7,PGF,Pgf,Yes,PGF
+Matrisome-associated,Secreted Factors,pik3ip1,phosphoinositide-3-kinase interacting protein 1,ZDB-GENE-031030-14,ENSDARG00000003281,A0A0B5JS90:Q7SXB3:A2BIG3,PIK3IP1,Pik3ip1,Yes,PIK3IP1
+Matrisome-associated,Secreted Factors,prl,prolactin,ZDB-GENE-030513-1,ENSDARG00000037946,F1R0Y2:Q569P7:Q801K3,PRL,Prl,Yes,PRL
+Matrisome-associated,Secreted Factors,prl2,prolactin 2,ZDB-GENE-041210-160,ENSDARG00000018744,C6G3Y2:C6ZDB8:F1QZ85,PRL,Prl,Yes,PRL
+Matrisome-associated,Secreted Factors,pspn,persephin,ZDB-GENE-110609-3,ENSDARG00000098471,B0S5I4,PSPN,Pspn,Yes,PSPN
+Matrisome-associated,Secreted Factors,ptn,pleiotrophin,ZDB-GENE-030624-1,ENSDARG00000102340,Q697I0:A0A0B5JW32:Q502U6,PTN,Ptn,Yes,PTN
+Matrisome-associated,Secreted Factors,s100a1,S100 calcium binding protein A1,ZDB-GENE-040916-1,ENSDARG00000015543,A3KH13:F5HN07,S100A1,S100a1,Yes,S100A1
+Matrisome-associated,Secreted Factors,s100a10a,S100 calcium binding protein A10a,ZDB-GENE-041010-35,ENSDARG00000037425,Q5XJJ5,S100A10,S100a10,Yes,S100A10
+Matrisome-associated,Secreted Factors,s100a10b,S100 calcium binding protein A10b,ZDB-GENE-040426-1937,ENSDARG00000025254,Q7ZVA4,S100A10,S100a10,Yes,S100A10
+Matrisome-associated,Secreted Factors,s100a11,S100 calcium binding protein A11,ZDB-GENE-070717-5,ENSDARG00000093628,Q5XJJ5:A5WW28,S100A11,S100a11,Yes,S100A11
+Matrisome-associated,Secreted Factors,s100b,"S100 calcium binding protein, beta (neural)",ZDB-GENE-040718-290,ENSDARG00000057598,Q6DGT8,S100B,S100b,Yes,S100B
+Matrisome-associated,Secreted Factors,s100z,S100 calcium binding protein Z,ZDB-GENE-050522-69,ENSDARG00000038729,Q503K9,S100Z,S100z,Yes,S100Z
+Matrisome-associated,Secreted Factors,scube1,"signal peptide, CUB domain, EGF-like 1",ZDB-GENE-050302-78,ENSDARG00000063097,A0A0R4IN49:I1TMD7:A0A0R4IBT9:M1FTT7:A7MD60,SCUBE1,Scube1,Yes,SCUBE1
+Matrisome-associated,Secreted Factors,scube2,"signal peptide, CUB domain, EGF-like 2",ZDB-GENE-050302-80,ENSDARG00000037362,Q5G872:F1Q6K4:A0A0B5JWE1,SCUBE2,Scube2,Yes,SCUBE2
+Matrisome-associated,Secreted Factors,scube3,"signal peptide, CUB domain, EGF-like 3",ZDB-GENE-060717-1,ENSDARG00000011490,F1R0I7:A0A075Q8L3:I1TMD8,SCUBE3,Scube3,Yes,SCUBE3
+Matrisome-associated,Secreted Factors,sfrp1a,secreted frizzled-related protein 1a,ZDB-GENE-040310-5,ENSDARG00000035521,Q7T2K9:Q568X0:B0V369:A0A0B5JK22:Q32PN6,SFRP1,Sfrp1,Yes,SFRP1
+Matrisome-associated,Secreted Factors,sfrp1b,secreted frizzled-related protein 1b,ZDB-GENE-061103-1,ENSDARG00000057678,A3KNP6:A8KBU5,SFRP1,Sfrp1,Yes,SFRP1
+Matrisome-associated,Secreted Factors,sfrp2,secreted frizzled-related protein 2,ZDB-GENE-061013-293,ENSDARG00000070050,Q08BI8:F1R238,SFRP2,Sfrp2,Yes,SFRP2
+Matrisome-associated,Secreted Factors,sfrp5,secreted frizzled-related protein 5,ZDB-GENE-011108-2,ENSDARG00000039041,Q6YNR8:Q90ZG8:F1QJG6,SFRP5,Sfrp5,Yes,SFRP5
+Matrisome-associated,Secreted Factors,shha,sonic hedgehog a,ZDB-GENE-980526-166,ENSDARG00000068567,A0A0B5JF88:Q1MTB5:Q92008,SHH,Shh,Yes,SHH
+Matrisome-associated,Secreted Factors,shhb,sonic hedgehog b,ZDB-GENE-980526-41,ENSDARG00000038867,Q6DBX7:Q90419:A0A0B5JJZ7,SHH,Shh,Yes,SHH
+Matrisome-associated,Secreted Factors,tdgf1,teratocarcinoma-derived growth factor 1,ZDB-GENE-990415-198,ENSDARG00000035095,O57516:F1Q691:O57517:A7MCB2:Q504I5,TDGF1,Tdgf1,Yes,TDGF1
+Matrisome-associated,Secreted Factors,tgfa,"transforming growth factor, alpha",ZDB-GENE-040724-208,ENSDARG00000053939,I3ISP4:Q7T011,TGFA,Tgfa,Yes,TGFA
+Matrisome-associated,Secreted Factors,tgfb1a,"transforming growth factor, beta 1a",ZDB-GENE-030618-1,ENSDARG00000041502,Q7ZZU7:F1R741,TGFB1,Tgfb1,Yes,TGFB1
+Matrisome-associated,Secreted Factors,tgfb1b,"transforming growth factor, beta 1b",ZDB-GENE-091028-1,ENSDARG00000034895,E9QHW0,TGFB1,Tgfb1,Yes,TGFB1
+Matrisome-associated,Secreted Factors,tgfb2,"transforming growth factor, beta 2",ZDB-GENE-030723-3,ENSDARG00000027087,Q7SZV4:F8W4A6,TGFB2,Tgfb2,Yes,TGFB2
+Matrisome-associated,Secreted Factors,tgfb2l,"ransforming growth factor, beta 2, like",ZDB-GENE-130425-3,NSDARG00000071879,F1QXC6:A0A0R4IZ02,TGFB2,Tgfb2,Yes,TGFB2
+Matrisome-associated,Secreted Factors,tgfb3,"transforming growth factor, beta 3",ZDB-GENE-030723-4,ENSDARG00000019367,Q7SZV3:Q66I23,TGFB3,Tgfb3,Yes,TGFB3
+Matrisome-associated,Secreted Factors,thpo,thrombopoietin,ZDB-GENE-110510-1,ENSDARG00000079158,B5L331:F1RB26,THPO,Thpo,Yes,THPO
+Matrisome-associated,Secreted Factors,tnfa,"tumor necrosis factor a (TNF superfamily, member 2)",ZDB-GENE-050317-1,ENSDARG00000009511,Q08CQ3:Q6T9C7:Q1L8A5,TNF,Tnf,Yes,TNF
+Matrisome-associated,Secreted Factors,tnfb,"tumor necrosis factor b (TNF superfamily, member 2)",ZDB-GENE-050601-2,ENSDARG00000013598,Q4W898:Q1JQ40,TNF,Tnf,Yes,TNF
+Matrisome-associated,Secreted Factors,tnfsf10,"tumor necrosis factor (ligand) superfamily, member 10",ZDB-GENE-040718-335,ENSDARG00000057241,Q6DHG9,TNFSF10,Tnfsf10,Yes,TNFSF10
+Matrisome-associated,Secreted Factors,tnfsf10l,"tumor necrosis factor (ligand) superfamily, member 10 like",ZDB-GENE-010801-1,ENSDARG00000004196,Q0PKY0:F1QT03:F1Q767:Q7ZYX9:Q9DDZ5,TNFSF10,Tnfsf10,Yes,TNFSF10
+Matrisome-associated,Secreted Factors,tnfsf11,"tumor necrosis factor (ligand) superfamily, member 11",ZDB-GENE-090805-2,ENSDARG00000068141,E7F3U1,TNFSF11,Tnfsf11,Yes,TNFSF11
+Matrisome-associated,Secreted Factors,tnfsf12,"tumor necrosis factor (ligand) superfamily, member 12",ZDB-GENE-060929-376,ENSDARG00000069376,Q08BZ0,TNFSF12,Tnfsf12,Yes,TNFSF12
+Matrisome-associated,Secreted Factors,tnfsf13,"tumor necrosis factor (ligand) superfamily, member 13",ZDB-GENE-120508-6,ENSDARG00000091556,F1QSF7:D2DMJ8,TNFSF13,Tnfsf13,Yes,TNFSF13
+Matrisome-associated,Secreted Factors,tnfsf13b,"tumor necrosis factor (ligand) superfamily, member 13b",ZDB-GENE-080204-44,ENSDARG00000012945,A8WG11:F1QUA2:A0A0R4IKC8,TNFSF13B,Tnfsf13b,Yes,TNFSF13B
+Matrisome-associated,Secreted Factors,tnfsf14,"tumor necrosis factor (ligand) superfamily, member 14",ZDB-GENE-101109-3,ENSDARG00000076274,E7FBC0,TNFSF14,Tnfsf14,Yes,TNFSF14
+Matrisome-associated,Secreted Factors,tnfsf18,"tumor necrosis factor (ligand) superfamily, member 18",ZDB-GENE-101109-1,ENSDARG00000079550,F1Q791:A9Y5K7,TNFSF18,Tnfsf18,Yes,TNFSF18
+Matrisome-associated,Secreted Factors,tpo,thyroid peroxidase,ZDB-GENE-110519-2,ENSDARG00000033280,E7F4W5,TPO,Tpo,Yes,TPO
+Matrisome-associated,Secreted Factors,vegfaa,vascular endothelial growth factor Aa,ZDB-GENE-990415-273,ENSDARG00000103542,A0A0R4IWK5:O73682,VEGFA,Vegfa,Yes,VEGFA
+Matrisome-associated,Secreted Factors,vegfab,vascular endothelial growth factor Ab,ZDB-GENE-030131-4605,ENSDARG00000034700,Q5RHW5:Q1ANK8:A4VCG6:F6NQW1:Q1ECU5:F1QTG5:Q0QYI0:F1QDN7,VEGFA,Vegfa,Yes,VEGFA
+Matrisome-associated,Secreted Factors,vegfba,vascular endothelial growth factor Ba,ZDB-GENE-120510-3,ENSDARG00000090997,-,VEGFB,Vegfb,Yes,VEGFB
+Matrisome-associated,Secreted Factors,vegfbb,vascular endothelial growth factor Bb,ZDB-GENE-091204-285,ENSDARG00000092480,E9QDL3,VEGFB,Vegfb,Yes,VEGFB
+Matrisome-associated,Secreted Factors,vegfc,vascular endothelial growth factor c,ZDB-GENE-040303-4,ENSDARG00000069640,F6P2I4:Q7T3I6,VEGFC,Vegfc,Yes,VEGFC
+Matrisome-associated,Secreted Factors,vwc2,von Willebrand factor C domain containing 2,ZDB-GENE-090313-315,ENSDARG00000076495,B0I1T8,VWC2,Vwc2,Yes,VWC2
+Matrisome-associated,Secreted Factors,vwc2l,von Willebrand factor C domain containing protein 2-like,ZDB-GENE-081104-169,ENSDARG00000069134,B0UZC8,VWC2L,Vwc2l,Yes,VWC2L
+Matrisome-associated,Secreted Factors,wfikkn1,"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 1",ZDB-GENE-040426-2465,ENSDARG00000101364,A0A0R4IS20:Q6NUX0,WFIKKN1,Wfikkn1,Yes,WFIKKN1
+Matrisome-associated,Secreted Factors,wfikkn2a,"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 2a",ZDB-GENE-120914-1,ENSDARG00000013460,J7JWR0:E7F0N3,WFIKKN2,Wfikkn2,Yes,WFIKKN2
+Matrisome-associated,Secreted Factors,wfikkn2b,"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 2b",ZDB-GENE-110414-1,ENSDARG00000059139,E7FCX1:J7K3J9,WFIKKN2,Wfikkn2,Yes,WFIKKN2
+Matrisome-associated,Secreted Factors,wif1,wnt inhibitory factor 1,ZDB-GENE-990712-17,ENSDARG00000005541,Q5TZI0:Q9W6F9,WIF1,Wif1,Yes,WIF1
+Matrisome-associated,Secreted Factors,wnt1,"wingless-type MMTV integration site family, member 1",ZDB-GENE-980526-526,ENSDARG00000055554,B3DI55:A0A0B5JWC2:F1QUW0:P24257,WNT1,Wnt1,Yes,WNT1
+Matrisome-associated,Secreted Factors,wnt10a,"wingless-type MMTV integration site family, member 10a",ZDB-GENE-990415-278,ENSDARG00000017155,P43446:B0V1G8:B3DJZ0,WNT10A,Wnt10a,Yes,WNT10A
+Matrisome-associated,Secreted Factors,wnt10b,"wingless-type MMTV integration site family, member 10b",ZDB-GENE-980526-524,ENSDARG00000040925,B3DG58:Q801F7:A0A0B5JWF2,WNT10B,Wnt10b,Yes,WNT10B
+Matrisome-associated,Secreted Factors,wnt11,"wingless-type MMTV integration site family, member 11",ZDB-GENE-990603-12,ENSDARG00000004256,O73864:A0A0B5JS77:B8JM95:B3DH42,WNT11,Wnt11,Yes,WNT11
+Matrisome-associated,Secreted Factors,wnt11r,"wingless-type MMTV integration site family, member 11, related",ZDB-GENE-980526-249,ENSDARG00000014796,A0A0B5JSD6:Q9I9I2,WNT11,Wnt11,Yes,WNT11
+Matrisome-associated,Secreted Factors,wnt16,"wingless-type MMTV integration site family, member 16",ZDB-GENE-040426-2330,ENSDARG00000094973,A5WVL3:A0A0R4IL49:Q6NYX0:F2Z4V5,WNT16,Wnt16,Yes,WNT16
+Matrisome-associated,Secreted Factors,wnt2,wingless-type MMTV integration site family member 2,ZDB-GENE-980526-416,ENSDARG00000041117,A0M8V9:Q92048,WNT2,Wnt2,Yes,WNT2
+Matrisome-associated,Secreted Factors,wnt2ba,"wingless-type MMTV integration site family, member 2Ba",ZDB-GENE-030717-2,ENSDARG00000005050,B3DFK5:Q8AY89,WNT2B,Wnt2b,Yes,WNT2B
+Matrisome-associated,Secreted Factors,wnt2bb,"wingless-type MMTV integration site family, member 2Bb",ZDB-GENE-060824-6,ENSDARG00000032234,Q1L130:B0S7E3,WNT2B,Wnt2b,Yes,WNT2B
+Matrisome-associated,Secreted Factors,wnt3,"wingless-type MMTV integration site family, member 3",ZDB-GENE-081003-1,ENSDARG00000038990,B0LK22,WNT3,Wnt3,Yes,WNT3
+Matrisome-associated,Secreted Factors,wnt3a,"wingless-type MMTV integration site family, member 3A",ZDB-GENE-001106-1,ENSDARG00000058822,F1QK98:Q6IYD9:A0A0R4IS59,WNT3A,Wnt3a,Yes,WNT3A
+Matrisome-associated,Secreted Factors,wnt4a,"wingless-type MMTV integration site family, member 4a",ZDB-GENE-980526-352,ENSDARG00000071208,A0A0B5JFI1:P47793:Q1RLW9,WNT4,Wnt4,Yes,WNT4
+Matrisome-associated,Secreted Factors,wnt4b,"wingless-type MMTV integration site family, member 4b",ZDB-GENE-000411-1,ENSDARG00000040159,A3KQ12:Q9IAU3:A0A0B5JQ72:F6NGJ7,WNT4,Wnt4,Yes,WNT4
+Matrisome-associated,Secreted Factors,wnt5a,"wingless-type MMTV integration site family, member 5a",ZDB-GENE-060328-3,ENSDARG00000104973,A1BPR0:A7E271:F1Q8M2,WNT5A,Wnt5a,Yes,WNT5A
+Matrisome-associated,Secreted Factors,wnt5b,"wingless-type MMTV integration site family, member 5b",ZDB-GENE-980526-87,ENSDARG00000102464,Q92050:B3DI33,WNT5B,Wnt5b,Yes,WNT5B
+Matrisome-associated,Secreted Factors,wnt6a,"wingless-type MMTV integration site family, member 6a",ZDB-GENE-111114-1,ENSDARG00000038283,X1WF20:F1RB76,WNT6,Wnt6,Yes,WNT6
+Matrisome-associated,Secreted Factors,wnt6b,"wingless-type MMTV integration site family, member 6b",ZDB-GENE-070912-513,ENSDARG00000073935,F1RAB5:F1R205,WNT6,Wnt6,Yes,WNT6
+Matrisome-associated,Secreted Factors,wnt7aa,"wingless-type MMTV integration site family, member 7Aa",ZDB-GENE-051129-1,ENSDARG00000044827,Q4JLT0,WNT7A,Wnt7a,Yes,WNT7A
+Matrisome-associated,Secreted Factors,wnt7ab,"wingless-type MMTV integration site family, member 7Ab",ZDB-GENE-100922-44,-,-,WNT7A,Wnt7a,Yes,WNT7A
+Matrisome-associated,Secreted Factors,wnt7ba,"wingless-type MMTV integration site family, member 7Ba",ZDB-GENE-041210-178,ENSDARG00000022858,F1RCY4:F1Q5B7,WNT7B,Wnt7b,Yes,WNT7B
+Matrisome-associated,Secreted Factors,wnt7bb,"wingless-type MMTV integration site family, member 7Bb",ZDB-GENE-081006-1,ENSDARG00000071107,F1Q9W3:B6VA40,WNT7B,Wnt7b,Yes,WNT7B
+Matrisome-associated,Secreted Factors,wnt8a,"wingless-type MMTV integration site family, member 8a",ZDB-GENE-980526-332,ENSDARG00000105311,Q90YJ8:B8A6C0:P51028:B2GP18:B8A6B9:Q90YL8:B8A6C1:B8A4J5,WNT8A,Wnt8a,Yes,WNT8A
+Matrisome-associated,Secreted Factors,wnt8b,"wingless-type MMTV integration site family, member 8b",ZDB-GENE-990415-279,ENSDARG00000006911,P51029:A0A0B5JKB4:B7ZD55,WNT8B,Wnt8b,Yes,WNT8B
+Matrisome-associated,Secreted Factors,wnt9a,"wingless-type MMTV integration site family, member 9A",ZDB-GENE-060825-97,ENSDARG00000063437,B6V3E1:F6NQQ2:A5GZY3:F6NSS8:Q0P406,WNT9A,Wnt9a,Yes,WNT9A
+Matrisome-associated,Secreted Factors,wnt9b,"wingless-type MMTV integration site family, member 9B",ZDB-GENE-080201-1,ENSDARG00000037889,B6V3E2,WNT9B,Wnt9b,Yes,WNT9B
+Putative Matrisome,,myoc,myocilin,ZDB-GENE-050425-2,ENSDARG00000021789,Q5F0G5,MYOC,Myoc,Putative,MYOC
+Putative Matrisome,,si:dkey-61l1.4,si:dkey-61l1.4,ZDB-GENE-070705-483,ENSDARG00000092567,A5WWD4, -, -,Putative, -
+Putative Matrisome,,si:ch211-262h13.5,si:ch211-262h13.5,ZDB-GENE-050208-372,ENSDARG00000070892,Q1LUV0, -, -,Putative, -
+Putative Matrisome,,olfml3a,olfactomedin-like 3a,ZDB-GENE-060825-31,ENSDARG00000061852,Q29RB4,OLFML3,Olfml3,Putative,OLFML3
+Putative Matrisome,,spp2,secreted phosphoprotein 2,ZDB-GENE-090313-223,ENSDARG00000095590 ,E9QG22, -, -,Putative, -
+Putative Matrisome,,ucmaa,upper zone of growth plate and cartilage matrix associated a,ZDB-GENE-070410-71,ENSDARG00000027799,,UCMA,Ucma,Putative,UCMA
+Putative Matrisome,,ucmab,upper zone of growth plate and cartilage matrix associated b,ZDB-GENE-040426-2368,ENSDARG00000005485,Q6NWB6,UCMA,Ucma,Putative,UCMA
+Putative Matrisome,,crtap,cartilage associated protein,ZDB-GENE-040426-2619,ENSDARG00000018010,Q1L8P0,CRTAP,Crtap,Putative,CRTAP
+Putative Matrisome,,Fcgbp,Fc fragment of IgG binding protein,ZDB-GENE-140106-111, -,F1RDU8,FCGBP,Fcgbp,Putative,FCGBP
+Putative Matrisome,,metrnl,"meteorin, glial cell differentiation regulator-like",ZDB-GENE-040426-1917,ENSDARG00000101914,F1Q9N5,METRNL,Metrnl,Putative,METRNL
+Putative Matrisome,,olfml2a,olfactomedin-like 2A,ZDB-GENE-081105-107,ENSDARG00000005648,B0UXR7,OLFML2A,Olfml2a,Putative,OLFML2A
+Putative Matrisome,,otomp,otolith matrix protein,ZDB-GENE-040709-1,ENSDARG00000040306 ,F1QFL7, -, -,Putative, -
